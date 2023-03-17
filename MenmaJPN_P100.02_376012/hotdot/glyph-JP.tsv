@@ -99,8 +99,8 @@
 21113	トレントブロー	30100	icon_skills.nanmu_tex	連精の紋章：ランブロー	icon_crest.e_crestnextskillmpdown_tex	連係して「ランブロー」使用時、消費MP88減少
 21114	トレントブロー	30100	icon_skills.nanmu_tex	怠惰の紋章	icon_crest.e_crestactivespeeddown_tex	25% 確率で対象に4秒間移動不可効果発生
 21115	スコールエッジ	400100	icon_skills.doublesworddance_tex	闘志の紋章	icon_crest.e_crestpassiveattackup_tex	スキル威力が10%増加
-22000	スタンドファスト	20100	icon_skills.defence_tex	力の紋章	icon_crest.e_crestactiveattackup_tex	防御成功時、50%の確率で力が15％上昇（10秒間持続）
-22001	スタンドファスト	20100	icon_skills.defence_tex	連闘の紋章	icon_crest.e_crestnextskillattackup_tex	連係して「シールドカウンター」使用時、スキル威力が25％増加
+22000	スタンドファスト	20100	icon_skills.defence_tex	力の紋章	icon_crest.e_crestactiveattackup_tex	防御成功時、50%の確率で力が25%上昇、クリティカル確率25%増加（10秒間持続）
+22001	スタンドファスト	20100	icon_skills.defence_tex	連闘の紋章	icon_crest.e_crestnextskillattackup_tex	連係して「シールドカウンター」使用時、スキル威力が50％増加
 22002	スタンドファスト	20100	icon_skills.defence_tex	連精の紋章	icon_crest.e_crestnextskillmpdown_tex	連係して「シールドカウンター」使用時、消費MPが115減少
 22003	連撃	10100	icon_skills.comboattack_tex	野獣の紋章	icon_crest.e_crestpassiveaggroup_tex	敵対値が5%追加上昇
 22004	チャレンジシャウト	40100	icon_skills.roar_tex	野獣の紋章	icon_crest.e_crestpassiveaggroup_tex	敵対値が20%追加上昇
@@ -119,7 +119,7 @@
 22019	シールドバッシュ	50100	icon_skills.shieldstrike_tex	集中の紋章	icon_crest.e_crestpassivecooltimedown_tex	クールタイムを25%短縮
 22020	チャージングランジ	150100	icon_skills.advancingcharge_tex	闘志の紋章	icon_crest.e_crestpassiveattackup_tex	スキル威力が25%増加
 22021	リザレクションウィル	160100	icon_skills.rejuvenation_tex	集中の紋章	icon_crest.e_crestpassivecooltimedown_tex	クールタイムを25%短縮
-22022	バトルウィル	170100	icon_skills.fightingwill_tex	決意の紋章	icon_crest.e_crestpassiveskilleffectup_tex	攻撃速度とスキル威力が10%上昇
+22022	バトルウィル	170100	icon_skills.fightingwill_tex	決意の紋章	icon_crest.e_crestpassiveskilleffectup_tex	攻撃速度と自分とPTメンバーのスキル威力が10%上昇
 22023	スプリングアタック	130100	icon_skills.leaprampage_tex	精神の紋章	icon_crest.e_crestpassivempdown_tex	消費MPが75減少
 22024	反撃	110100	icon_skills.risingattack_tex	集中の紋章	icon_crest.e_crestpassivecooltimedown_tex	クールタイムを20%短縮
 22026	アイアンウィル	220100	icon_skills.armoredwill_tex	時の紋章	icon_crest.e_crestpassivedurationup_tex	効果の持続時間が50%延長
@@ -252,9 +252,9 @@
 23066	アドバンスジャンプ	170100	icon_skills.advancingleap_tex	連闘の紋章	icon_crest.e_crestpassiveattackup_tex	連係して「ノックダウンストライク」使用時、スキル威力が25％増加
 23067	ジョーブレイク	220100	icon_skills.jawbreaker_tex	闘志の紋章	icon_crest.e_crestpassiveattackup_tex	スキル威力が25%増加
 23068	ジョーブレイク	220100	icon_skills.jawbreaker_tex	闘志の紋章	icon_crest.e_crestpassiveattackup_tex	スキル威力が25%増加
-23069	ジョーブレイク	220100	icon_skills.jawbreaker_tex	連闘の紋章	icon_crest.e_crestnextskillattackup_tex	連係して「ブレードビセクション」使用時、スキル威力が25％上昇
+23069	ジョーブレイク	220100	icon_skills.jawbreaker_tex	連闘の紋章	icon_crest.e_crestnextskillattackup_tex	連係して「ブレードビセクション」使用時、スキル威力が60％上昇
 23070	ジョーブレイク	220100	icon_skills.jawbreaker_tex	集中の紋章	icon_crest.e_crestpassivecooltimedown_tex	クールタイムを20%短縮
-23071	ジョーブレイク	220100	icon_skills.jawbreaker_tex	連闘の紋章	icon_crest.e_crestnextskillattackup_tex	連係して「モータルスラッシュ」使用時、スキル威力が25％上昇
+23071	ジョーブレイク	220100	icon_skills.jawbreaker_tex	連闘の紋章	icon_crest.e_crestnextskillattackup_tex	連係して「モータルスラッシュ」使用時、スキル威力が60％上昇
 23072	執念	190100	icon_skills.tenacity_tex	精神の紋章	icon_crest.e_crestpassivepartympup_tex	50%の確率で1秒毎に全MPの6％を回復
 23073	回避	40100	icon_skills.tumbling_tex	活力の紋章	icon_crest.e_crestactivespeedup_tex	30%の確率で移動速度が15％上昇（10秒間持続）
 23074	ホームスラスト	120100	icon_skills.stingerblade_tex	闘志の紋章	icon_crest.e_crestpassiveattackup_tex	スキル威力が30%増加
@@ -267,7 +267,7 @@
 23081	モータルスラッシュ	230100	icon_skills.cuthead_tex	必殺の紋章	icon_crest.e_crestpassivecriticalup_tex	クリティカル発生率が3倍上昇
 23082	モータルスラッシュ	230100	icon_skills.cuthead_tex	闘志の紋章	icon_crest.e_crestpassiveattackup_tex	スキル威力が30%増加
 23083	ジョーブレイク	220100	icon_skills.jawbreaker_tex	闘志の紋章	icon_crest.e_crestpassiveattackup_tex	スキル威力が25%増加
-23084	ジョーブレイク	220100	icon_skills.jawbreaker_tex	連闘の紋章	icon_crest.e_crestnextskillattackup_tex	連係して「ブレードビセクション」使用時、スキル威力が25％上昇
+23084	ジョーブレイク	220100	icon_skills.jawbreaker_tex	連闘の紋章	icon_crest.e_crestnextskillattackup_tex	連係して「ブレードビセクション」使用時、スキル威力が60％上昇
 23085	ブレードビセクション	80100	icon_skills.cuttingslash_tex	機会の紋章	icon_crest.e_crestactivecooltimereset_tex	70%確率でクールタイム初期化
 23086	スラッシュペネトレイト	270100	icon_skills.slidingslash_tex	闘志の紋章	icon_crest.e_crestpassiveattackup_tex	スキル威力が25%増加
 24000	ウェポンディフェンス	20100	icon_skills.weapondefence_tex	精神の紋章	icon_crest.e_crestpassivempheal_tex	防御成功時、MPが3％回復
@@ -279,11 +279,11 @@
 24006	サイクロン	100100	icon_skills.whirlwind_tex	闘志の紋章	icon_crest.e_crestpassiveattackup_tex	オーバーチャージ時、増加した威力の24%威力増加
 24008	アースストライク	40100	icon_skills.bash_tex	迅速の紋章	icon_crest.e_crestpassiveskillspeedup_tex	攻撃速度が25%上昇
 24009	サイクロン	100100	icon_skills.whirlwind_tex	迅速の紋章	icon_crest.e_crestpassiveskillspeedup_tex	チャージ速度が25%上昇
-24010	Vampiric Blow	0		Carving Vampiric Blow	icon_crest.e_crestpassivecriticalup_tex	Triples the chance to crit when attacking monsters.
+24010	Vampiric Blow	0		Carving Vampiric Blow	icon_crest.e_crestpassivecriticalup_tex	モンスターへの攻撃時にクリティカルが発生する確率が3倍になる。
 24011	フェリーレイジ	80100	icon_skills.berserk_tex	力の紋章	icon_crest.e_crestactiveattackup_tex	30%の確率で力がさらに10％上昇（20秒間持続）
 24012	フェンシングカーブ	60100	icon_skills.turnback_tex	連精の紋章	icon_crest.e_crestnextskillmpdown_tex	連係して「アースストライク」使用時、消費MPが63減少
 24013	アースストライク	40100	icon_skills.bash_tex	闘志の紋章	icon_crest.e_crestpassiveattackup_tex	スキル威力が25%増加
-24014	Flatten	0		Carving Flatten	icon_crest.e_crestpassivecriticalup_tex	Triples the chance to crit when attacking monsters.
+24014	Flatten	0		Carving Flatten	icon_crest.e_crestpassivecriticalup_tex	モンスターへの攻撃時にクリティカルが発生する確率が3倍になる。
 24015	連撃	10100	icon_skills.comboattack_tex	精神の紋章	icon_crest.e_crestpassivemprecoveryup_tex	命中時のMP回復量が15%増加
 24016	気合	0		精神の紋章	icon_crest.e_crestpassivemprecoveryup_tex	30%の確率で１秒毎に全体MPの6％が持続的に回復
 24018	疾駆	50100	icon_skills.dash_tex	集中の紋章	icon_crest.e_crestpassivecooltimedown_tex	クールタイムを25%短縮
@@ -635,7 +635,7 @@
 27078	ガードスピリット	370100	icon_skills.energiesofprotection_tex	救済の紋章	icon_crest.e_crestactivehprecoveryup_tex	使用者とパーティーメンバーにHP回復量20%上昇効果付与
 27079	廻天の祈祷	100100	icon_skills.resurrect_tex	迅速の紋章	icon_crest.e_crestpassiveskillspeedup_tex	発動速度が20%上昇
 27080	リバースブレシング	120100	icon_skills.autoresurrect_tex	集中の紋章	icon_crest.e_crestpassivecooltimedown_tex	クールタイムを30%短縮
-27081	ヒールエネルギー	180100	icon_skills.hprefresher_tex	忍耐の紋章	icon_crest.e_crestpassivehprecoveryup_tex	スキル終了時、即時35,000HP回復
+27081	ヒールエネルギー	180100	icon_skills.hprefresher_tex	忍耐の紋章	icon_crest.e_crestpassivehprecoveryup_tex	スキル終了時、即時70,000HP回復
 27082	ライフエレメント	270100	icon_skills.summonspiritofheal_tex	時の紋章	icon_crest.e_crestpassivedurationup_tex	生命の精霊の召喚維持時間が25％延長
 27084	ペインカーズ	240100	icon_skills.painfulshackle_tex	弱化の紋章	icon_crest.e_crestactivedefencedown_tex	21秒間耐久力10%減少追加効果発生
 27085	復活	0		霊魂の紋章	icon_crest.e_crestpassivehprecoveryup_tex	復活時HP/MP100％回復
@@ -686,7 +686,7 @@
 28036	リカバリーブレシング	320100	icon_skills.restoration_tex	集中の紋章	icon_crest.e_crestpassivecooltimedown_tex	クールタイムを20%短縮
 28037	フィーブルプレディクション	300100	icon_skills.prophecyoflethargy_tex	集中の紋章	icon_crest.e_crestpassivecooltimedown_tex	クールタイムを20%短縮
 28038	リプロダクションウィンド	20100	icon_skills.healingwind_tex	連精の紋章	icon_crest.e_crestnextskillmpdown_tex	連係して「ヒールライト」使用時、消費MPが85減少
-28039	マナレジェン、レザルスペル	0		範囲の紋章	icon_crest.e_crestpassiveskillrangeup_tex	スキル適用半径50％増加
+28039	マナレジェン、レザルスペル	0		範囲の紋章	icon_crest.e_crestpassiveskillrangeup_tex	スキル適用半径100％増加
 28040	プロテクションアーマー	220100	icon_skills.armorofprotection_tex	保護の紋章	icon_crest.e_crestactivedefenceup_tex	使用者に限り、耐久力が追加で30％上昇（12秒間持続）
 28041	ブレシングアルン	50100	icon_skills.attackup_tex	活力の紋章	icon_crest.e_crestactivespeedup_tex	使用者に限り、戦闘移動速度が追加で15上昇（10分間持続）
 28042	同胞の助力	140100	icon_skills.recallfriend_tex	集中の紋章	icon_crest.e_crestpassivecooltimedown_tex	クールタイムを20%短縮
@@ -781,7 +781,7 @@
 29032	闇神降臨	160100	icon_skills.descentofdarkness_tex	精神の紋章	icon_crest.e_crestpassivempdown_tex	消費MPが150減少
 29033	闇神降臨	160100	icon_skills.descentofdarkness_tex	時の紋章	icon_crest.e_crestpassivedurationup_tex	効果の持続時間が30%延長
 29035	デッドリーリープ	200100	icon_skills.reversecapture_tex	集中の紋章	icon_crest.e_crestpassivecooltimedown_tex	クールタイムを20%短縮
-29036	デッドリーリープ	200100	icon_skills.reversecapture_tex	迅速の紋章	icon_crest.e_crestpassiveskillspeedup_tex	攻撃成功時、2.5秒間スキルの発動速度が50％上昇
+29036	デッドリーリープ	200100	icon_skills.reversecapture_tex	迅速の紋章	icon_crest.e_crestpassiveskillspeedup_tex	攻撃成功時、2.5秒間スキルの発動速度が30％上昇
 29037	ムーンスラッシュ	50100	icon_skills.chainsuperblow_tex	連闘の紋章	icon_crest.e_crestnextskillattackup_tex	連係して「ダークエクスプロージョン」使用時、スキル威力が20％増加
 29038	フラッシュスプリング	400100	icon_skills.instantleap_tex	集中の紋章	icon_crest.e_crestpassivecooltimedown_tex	クールタイムを15%短縮
 29039	フラッシュスプリング	400100	icon_skills.instantleap_tex	活力の紋章	icon_crest.e_crestactivespeedup_tex	戦闘状態での移動速度が50上昇（2秒間持続）
@@ -882,7 +882,7 @@
 31001	連打	10100	icon_skills.comboattack01_tex	精神の紋章	icon_crest.e_crestpassivemprecoveryup_tex	命中時のMP回復量が15%増加
 31002	連打	10100	icon_skills.comboattack01_tex	迅速の紋章	icon_crest.e_crestactiveattackspeedup_tex	10%の確率で攻撃速度が15％上昇（10秒間持続）
 31003	ガードブロウ	20100	icon_skills.smashattack02_tex	闘志の紋章	icon_crest.e_crestpassiveattackup_tex	スキル威力が20%増加
-31004	ガードブロウ	20100	icon_skills.smashattack02_tex	連闘の紋章	icon_crest.e_crestnextskillattackup_tex	ジャストガード成功時、 100%の確率でスキル威力が25％増加（6秒間持続）
+31004	ガードブロウ	20100	icon_skills.smashattack02_tex	連闘の紋章	icon_crest.e_crestnextskillattackup_tex	ジャストガード成功時、 100%の確率でスキル威力が15%増加（6秒間持続）、ギガントラースが発動中、ジャストガードの後18秒間、全てのスキルダメージを5%増加させる効果に変更。
 31005	スピンキック	70100	icon_skills.upperkick_tex	連闘の紋章	icon_crest.e_crestnextskillattackup_tex	スキル命中時、  100%の確率でスキル威力が10％増加（3秒間持続）
 31006	スピンキック	70100	icon_skills.upperkick_tex	保護の紋章	icon_crest.e_crestactivedefenceup_tex	スキル使用時、5秒以内に使用する「テンペスト」「トルネードダイブ」「デッドリーマグナム」の何れかに前方防御効果の適用
 31007	スピンキック	70100	icon_skills.upperkick_tex	集中の紋章	icon_crest.e_crestpassivecooltimedown_tex	クールタイムを15%短縮
@@ -951,7 +951,7 @@
 31070	ダウンキック	150100	icon_skills.kick2_tex	必殺の紋章	icon_crest.e_crestpassivecriticalup_tex	ダウンした敵にダメージが3倍増加
 31071	トルネードダイブ	80100	icon_skills.risingblow_tex	必殺の紋章	icon_crest.e_crestpassivecriticalup_tex	クリティカル発生率が2倍増加
 31072	ブラストゼロ	240100	icon_skills.oneinchpunch_tex	闘志の紋章	icon_crest.e_crestpassiveattackup_tex	スキル威力が10%増加
-31073	Provoke	0		Sapping Provoke	icon_crest.e_crestactivestun_tex	100% chance to stun target for 2 seconds when attacking a monster.
+31073	Provoke	0		Sapping Provoke	icon_crest.e_crestactivestun_tex	モンスターを攻撃した時、100％の確率で対象を2秒間スタン
 32000	連撃	10100	icon_skills.c12_meleecombo	闘志の紋章	icon_crest.e_crestpassiveattackup_tex	スキル威力が20%増加
 32001	連撃	10100	icon_skills.c12_meleecombo	精神の紋章	icon_crest.e_crestpassivemprecoveryup_tex	命中時のMP回復量が15%増加
 32002	連撃	10100	icon_skills.c12_meleecombo	迅速の紋章	icon_crest.e_crestactiveattackspeedup_tex	10%の確率で攻撃速度が10％上昇（5秒間持続）
@@ -969,7 +969,7 @@
 32014	反撃	100100	icon_skills.risingattack_tex	闘志の紋章	icon_crest.e_crestpassiveattackup_tex	スキル威力が20%増加
 32015	反撃	100100	icon_skills.risingattack_tex	集中の紋章	icon_crest.e_crestpassivecooltimedown_tex	クールタイムを20%短縮
 32018	三連殺	120100	icon_skills.c12_airstepstrike	精神の紋章	icon_crest.e_crestpassivempdown_tex	消費MPが125減少
-32019	三連殺	120100	icon_skills.c12_airstepstrike	必殺の紋章	icon_crest.e_crestpassivecriticalup_tex	クリティカル発生率が1.5倍上昇
+32019	三連殺	120100	icon_skills.c12_airstepstrike	必殺の紋章	icon_crest.e_crestpassivecriticalup_tex	クリティカル発生率が1.65倍上昇
 32020	三連殺	120100	icon_skills.c12_airstepstrike	連闘の紋章	icon_crest.e_crestnextskillattackup_tex	連係して「天地落とし」使用時、スキル威力が25％増加
 32021	天地落とし	130100	icon_skills.c12_rotateslash	精神の紋章	icon_crest.e_crestpassivempdown_tex	消費MPが175減少
 32022	天地落とし	130100	icon_skills.c12_rotateslash	闘志の紋章	icon_crest.e_crestpassiveattackup_tex	スキル威力が20%増加
@@ -995,7 +995,7 @@
 32042	変わり身の術	70100	icon_skills.c12_catchback	機会の紋章	icon_crest.e_crestactivecooltimereset_tex	モンスターに対して打撃成功時、 50%の確率で「二段斬り」のクールタイムが初期化
 32043	爆炎風車	80100	icon_skills.c12_flamestrike	必殺の紋章	icon_crest.e_crestpassivecriticalup_tex	クリティカル発生率が2倍上昇
 32044	三連殺	120100	icon_skills.c12_airstepstrike	連闘の紋章	icon_crest.e_crestnextskillattackup_tex	連係して「天地落とし」使用時、スキル威力が30％増加
-32045	三連殺	120100	icon_skills.c12_airstepstrike	必殺の紋章	icon_crest.e_crestpassivecriticalup_tex	クリティカル発生率が2倍上昇
+32045	三連殺	120100	icon_skills.c12_airstepstrike	必殺の紋章	icon_crest.e_crestpassivecriticalup_tex	クリティカル発生率が2.15倍上昇
 32046	天地落とし	130100	icon_skills.c12_rotateslash	闘志の紋章	icon_crest.e_crestpassiveattackup_tex	スキル威力が25%増加
 32047	二段斬り	140100	icon_skills.c12_twinslash	連闘の紋章	icon_crest.e_crestnextskillattackup_tex	連係して「三連殺」使用時、スキル威力が30％増加
 32048	二段斬り	140100	icon_skills.c12_twinslash	必殺の紋章	icon_crest.e_crestpassivecriticalup_tex	クリティカル発生率が2倍上昇
@@ -1039,7 +1039,7 @@
 33019	オーバースラッシュ	90100	icon_skills.cutting_tex	闘志の紋章	icon_crest.e_crestpassiveattackup_tex	スキル威力が20%増加
 33020	ブレードカーネイジ	100100	icon_skills.split_tex	迅速の紋章	icon_crest.e_crestpassiveskillspeedup_tex	発動速度20%上昇
 33021	ブレードカーネイジ	100100	icon_skills.split_tex	怠惰の紋章	icon_crest.e_crestpassivespeeddown_tex	5秒間、移動速度50％減少効果追加発生
-33022	ブレードカーネイジ	100100	icon_skills.split_tex	闘志の紋章	icon_crest.e_crestpassivecriticalup_tex	ダウンした敵にダメージが2倍増加
+33022	ブレードカーネイジ	100100	icon_skills.split_tex	闘志の紋章	icon_crest.e_crestpassivecriticalup_tex	ダウンした敵にダメージが3倍増加
 33023	ブレードカーネイジ	100100	icon_skills.split_tex	必殺の紋章	icon_crest.e_crestpassivecriticalup_tex	クリティカル発生率が2倍増加
 33024	月薙ぎ	110100	icon_skills.crescentcut_tex	精神の紋章	icon_crest.e_crestpassivempdown_tex	消費MPが50減少
 33025	月薙ぎ	110100	icon_skills.crescentcut_tex	闘志の紋章	icon_crest.e_crestpassiveattackup_tex	スキル威力が10%増加
@@ -1047,9 +1047,9 @@
 33027	朱月	120100	icon_skills.redmoon_tex	時間の紋章	icon_crest.e_crestpassivedurationup_tex	効果の持続時間が15%延長
 33028	ピアーズスパイク	130100	icon_skills.brust_tex	精神の紋章	icon_crest.e_creststrecover_tex	スキル命中時、ルナティックゲージが5追加回復
 33029	ピアーズスパイク	130100	icon_skills.brust_tex	必殺の紋章	icon_crest.e_creststrecover_tex	クリティカル威力が100%倍増加
-33030	ピアーズスパイク	130100	icon_skills.brust_tex	連闘の紋章	icon_crest.e_crestnextskillattackup_tex	連係して「エクステンドスラッシュ」使用時、スキル威力25％増加
+33030	ピアーズスパイク	130100	icon_skills.brust_tex	連闘の紋章	icon_crest.e_crestnextskillattackup_tex	連係して「エクステンドスラッシュ」使用時、スキル威力50％増加
 33032	エヴァシブロール	140100	icon_skills.moonshadow_tex	集中の紋章	icon_crest.e_crestpassivecooltimedown_tex	完全回避に成功時、「ピアーズスパイク」のクールタイム初期化
-33033	スピニングリッパー	150100	icon_skills.crossway_tex	連闘の紋章	icon_crest.e_crestnextskillattackup_tex	連係して「エクステンドスラッシュ」使用時、スキル威力25％増加
+33033	スピニングリッパー	150100	icon_skills.crossway_tex	連闘の紋章	icon_crest.e_crestnextskillattackup_tex	連係して「エクステンドスラッシュ」使用時、スキル威力100%増加
 33034	月鳴り	160100	icon_skills.moonlightdash_tex	闘志の紋章	icon_crest.e_crestpassiveattackup_tex	スキル威力が20%増加
 33035	月鳴り	160100	icon_skills.moonlightdash_tex	精神の紋章	icon_crest.e_creststrecover_tex	スキル命中時、ルナティックゲージが5追加回復
 33036	守護光玉	170100	icon_skills.moongracebuff_tex	忍耐の紋章	icon_crest.e_crestpassivehpheal_tex	スキル使用時、6秒間1秒毎に全HPの3％が回復
@@ -1085,4 +1085,4 @@
 33069	月鳴り	160100	icon_skills.moonlightdash_tex	闘志の紋章	icon_crest.e_crestpassiveattackup_tex	スキル威力が30%増加
 33070	回り込み	200100	icon_skills.mooncatch_tex	集中の紋章	icon_crest.e_crestpassivecooltimedown_tex	クールタイムを20%短縮
 33071	グレイブバースト	30100	icon_skills.throwglave_tex	闘志の紋章	icon_crest.e_crestpassiveattackup_tex	スキル威力が40%増加
-33072	Gungnir's Bite	0		Empowered Gungnir's Bite	icon_crest.e_crestpassiveattackup_tex	Increases skill damage by 15%.
+33072	新月	230100	icon_skills.halfmoon_tex	闘志の紋章	icon_crest.e_crestpassiveattackup_tex	スキル威力が15%増加

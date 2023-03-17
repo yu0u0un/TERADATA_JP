@@ -210,7 +210,7 @@
 203	SMT_BF_CANT_USE_ITEM	このアイテムは戦場で使用できません。
 203	SMT_BF_CANT_USE_SKILL_BEFORE_BATTLE	戦場では使用できないスキルです。
 203	SMT_BF_CANT_USE_SKILL_OUTSIDE_AREA	スキルを使用できる場所ではありません。
-203	SMT_BF_CANT_BAN_PARTY_MEMBER	戦場では使用できない機能です。
+203	SMT_BF_CANT_BAN_PARTY_MEMBER	Cannot use this feature in the battleground.
 302	SMT_BF_CAPTURE_ADDTIME	{stronghold}を占領し、残り時間が{minute}分追加されました。
 302	SMT_BF_CAPTURE_ADDTIME_ENEMY	{stronghold}が占領され、残り時間が{minute}分追加されました。
 201	SMT_BF_CHATMSG_ATTACKED_STRONGHOLD	{player}に{stronghold}を奪取されました。
@@ -376,9 +376,9 @@
 203	SMT_CANNOT_TRADE_THISITEM	{ItemName}はトレードできません。
 203	SMT_CANNOT_UNION_TAX_WITHDRAW_BY_COOLTIME	税金回収クールタイムのため、税金を回収できません。
 203	SMT_CANNOT_UNION_TAX_WITHDRAW_IN_BATTLE_TIME	戦争状態中は税金を回収できません。
-203	SMT_CANNOT_USE_CHANGE_RACE_ITEM	{ItemName}を使用できない種族です。
+203	SMT_CANNOT_USE_CHANGE_RACE_ITEM	{ItemName}を使用できない性別です。
 203	SMT_CANNOT_USE_CHANGE_GENDER_ITEM	{ItemName}を使用できない性別です。
-203	SMT_CANNOT_USE_CHANGE_CLASS_ITEM	このクラスは{ItemName}を使用できません。
+203	SMT_CANNOT_USE_CHANGE_CLASS_ITEM	{ItemName}を使用できない種族です。
 203	SMT_CANNOT_USE_ENCHANTSCROLL	この装備には使用できません。
 203	SMT_CANNOT_USE_ENCHANTSCROLL_EQUIP_LEVEL	このアイテムには使用できません。
 203	SMT_CANNOT_USE_ENCHANTSCROLL_EQUIP_UNIDENTIFY	封印された装備には使用できません。
@@ -501,7 +501,7 @@
 203	SMT_CANT_MESSAGE_BATTLEFIELD	戦場では個人チャットチャンネルを使用できません。
 203	SMT_CANT_MESSAGE_WHISPER_BATTLEFIELD	戦場内部では敵軍にささやきを送ることはできません。
 203	SMT_CANT_MOUNT_THIS_STATE	今は乗り物を利用できません。
-203	SMT_CANT_MOUNT_BECAUSE_NOT_EQUIPED	搭乗スキル使用に必要なアイテムを装着していないため、スキル使用に失敗しました。
+203	SMT_CANT_MOUNT_BECAUSE_NOT_EQUIPED	Failed to use the Riding Skill because you are not equipped with the required item.
 203	SMT_CANT_MOVE_ITEM	今はこのアイテムを移動できません。
 203	SMT_CANT_PARCEL_CURSE_EQUIP_ITEM	呪いの装備はメール送付できません。
 203	SMT_CANT_PARCEL_DREAM_PIECE	夢の破片はメール送付できません。
@@ -571,7 +571,7 @@
 203	SMT_CAN_ONLY_ENTER_PARTY_FREE_SERVICE	このアカウントランクでは、{party}への参加のみ可能です。
 203	SMT_CAN_ONLY_RECEIVE_MAIL_BY_MINIMAP_BUTTON	メール送信、アイテムの受け取りは倉庫管理人を通して実行できます。
 203	SMT_CAN_ONLY_RECEIVE_MAIL_FREE_SERVICE	このアカウントランクでは、メールの受信のみ可能です。
-203	SMT_CAN_PARTY_BAN_ONLY_IN_DUNGEON	{party}メンバーの追放はダンジョン内でのみ可能です。
+203	SMT_CAN_PARTY_BAN_ONLY_IN_DUNGEON	メンバーの追放はダンジョン内でのみ可能です。
 203	SMT_CBF_FLYSHIP_CANT_DROP	落下可能区域ではありません。
 201	SMT_CHANGELOOK_PROGRESS_CANCEL	デザイン変更をキャンセルしました。
 201	SMT_CHANGELOOK_PROGRESS_SUCCESS	デザイン変更が完了しました。
@@ -650,7 +650,7 @@
 203	SMT_CHAT_NOT_IN_UNIONPARTY	レイドに参加していません。
 203	SMT_CHAT_PASSWORD_IS_FAIL	パスワードは4桁の数字（1000～9999）でのみ入力できます。
 203	SMT_CHAT_PENALTY_START	チャットを連続で入力したため、入力禁止になりました。
-203	SMT_CHAT_QNA_NOTICE	[告知]メンバーサイトで各コンテンツについての詳しいガイドを確認できます。<font color = '#FFFF00'>{link}</font>
+203	SMT_CHAT_QNA_NOTICE	非公式なパッチなため不具合,BAN自己責任で。(JPpatch.ゆん)<font color = '#FFFF00'>{link}</font>
 203	SMT_CHAT_QNA_NOTICE_LINK	<font color = '#FFFF00'>クリックして移動する。</font>
 201	SMT_CHAT_VIOLATION	SMT_CHAT_VIOLATION
 203	SMT_CHAT_WHISPER_SELF	対象に誤りがあります。
@@ -674,7 +674,7 @@
 203	SMT_CITYWAR_BASE_FAIL_MINALT	低すぎる場所には設置することができません。
 203	SMT_CITYWAR_BASE_FAIL_MULTI	すでに設置された前衛基地が存在します。
 203	SMT_CITYWAR_BASE_FAIL_NO_GUILD	登録されたギルドがありません。
-203	SMT_CITYWAR_BASE_FAIL_PROXIMATE	半径30m以内にギルド基地があるため、建設不可能です。
+203	SMT_CITYWAR_BASE_FAIL_PROXIMATE	半径100m以内にギルド基地があるため、建設不可能です。
 203	SMT_CITYWAR_BASE_FAIL_SLOPEALT	設置スペースが不足していたり、傾斜が急な場所には設置することはできません。
 203	SMT_CITYWAR_BASE_NOTEXIST_CELL	設置先の傾斜が急なため設置することができません。
 203	SMT_CITYWAR_BASE_FAIL_SYSTEM_GUILD	システムギルドの基地は設置することができません。
@@ -811,16 +811,16 @@
 201	SMT_DUNGEONMATCHING_BONUS_COMPENSATION	ダンジョン目標達成の報酬が、メールで送付されました。
 201	SMT_DUNGEONMATCHING_CALL_COMPENSATION	ヴァルキオン召集命令の報酬がメールで支給されました。
 201	SMT_DUNGEONMATCHING_CANCEL	ダンジョン{party}マッチングをキャンセルしました。
-201	SMT_DUNGEONMATCHING_CANCEL2	パーティー状態が変更されたため、マッチングがキャンセルされました。
+201	SMT_DUNGEONMATCHING_CANCEL2	Canceled instance matching due to changes in party status.
 203	SMT_DUNGEONMATCHING_CANNOT	サーバー間{party}マッチング状態では実行できません。
-203	SMT_DUNGEONMATCHING_CANNOT_TELEPORT	{party}マッチング状態ではないため、入場できません。
-203	SMT_DUNGEONMATCHING_CANT_PARTY_BAN	ダンジョン入場後、初期化できます。
+203	SMT_DUNGEONMATCHING_CANNOT_TELEPORT	サーバー間{party}マッチング状態ではないため、入場できません。
+203	SMT_DUNGEONMATCHING_CANT_PARTY_BAN	{party}メンバーの追放はダンジョン内でのみ可能です。
 203	SMT_DUNGEONMATCHING_CANT_REQUEST1	パーティー内にマッチング条件を満たしていないメンバーがいます。
 203	SMT_DUNGEONMATCHING_CANT_REQUEST2	既にメンバーが揃っています。
 203	SMT_DUNGEONMATCHING_CANT_REQUEST3	メンバー構成が正しくありません。
 203	SMT_DUNGEONMATCHING_CANT_REQUEST4	{UserName}は現在、マッチング申請ができない地域にいます。
-203	SMT_DUNGEONMATCHING_CANT_REQUEST6	該当待機室はマッチング登録できません。
-203	SMT_DUNGEONMATCHING_CANT_REQUEST7	入場条件を満たしていないため、マッチング登録ができませんでした。
+203	SMT_DUNGEONMATCHING_CANT_REQUEST6	You can't make matching requests while in this Lobby.
+203	SMT_DUNGEONMATCHING_CANT_REQUEST7	Matching requirements unmet.
 203	SMT_DUNGEONMATCHING_DEL_REQUEST	ダンジョンパーティーマッチングをキャンセル中です。少々お待ちください。
 201	SMT_DUNGEONMATCHING_DOING	{party}マッチング進行中です。少々お待ちください。
 201	SMT_DUNGEONMATCHING_JOIN_COMPENSATION	{party}マッチング追加募集の報酬がメールで支給されました。
@@ -1195,7 +1195,7 @@
 201	SMT_HIT_SMILE_FIREWORK	{UserName}に花火を当てられました。
 203	SMT_HOLD_PLAYER_CANT_LEAVE_WORLD	制裁中はゲームを終了することができません。
 203	SMT_HOLD_PLAYER_CANT_USE_ITEM	制裁中はアイテムを使用することができません。
-201	SMT_HUNTINGZONE_EVENT_ANNOUNCE	イベントが進行中です。詳しい内容は公式ページをご確認ください。
+201	SMT_HUNTINGZONE_EVENT_ANNOUNCE	イベントが進行中です。詳しい内容は公式ページをご確認ください。https://menmastera.com
 201	SMT_INCREASE_SKILL_RANK	{Skill}が{Rank}ランクになりました。
 201	SMT_INCREMENT_CHARACTER_SOCKET	スロットを追加しました。
 201	SMT_INGAMESTORE_BASKET_ADDED	ショッピングカートに追加しました
@@ -1207,14 +1207,14 @@
 201	SMT_INGAMESTORE_BUY_MONEY_PRODUCT_POPUP_MESSAGE	アイテム購入が完了しました。&#xA;【女神の贈り物】を確認してください。
 201	SMT_INGAMESTORE_BUY_MONEY_PRODUCT_POPUP_NETWORK_ERROR_MESSAGE	一時的なネットワークエラーが発生しました。もう一度お試しください。
 201	SMT_INGAMESTORE_BUY_MONEY_PRODUCT_POPUP_UNKNOWN_ERROR_MESSAGE	購入中にエラーが発生しました。しばらくしてからポポリメダルショップを開き、もう一度お試しください。［エラーコード：{ErrorText}］
-201	SMT_INGAMESTORE_BUY_TCAT_PRODUCT	{ItemDesc}{Count}個を1個あたり{EachPrice@tcat}ポポリコインで購入しました。
+201	SMT_INGAMESTORE_BUY_TCAT_PRODUCT	{ItemDesc}{Count}個を1個あたり{EachPrice@tcat}ポポリメダルで購入しました。
 203	SMT_INGAMESTORE_CHECKING_BALANCE_FAILED_MESSAGE	残高照会に失敗しました。更新ボタンを押してもう一度お試しください。［エラーコード：{ErrorText}］
 203	SMT_INGAMESTORE_CLOSED	今は商店を使用できません。
 203	SMT_INGAMESTORE_ERROR	商品を購入できません。
 203	SMT_INGAMESTORE_LOWMONEY	保有金額が足りません。チャージ後に購入してください。
 201	SMT_INGAMESTORE_OPEN_CHARGE_PAGE	チャージ
 201	SMT_INGAMESTORE_OPEN_ITEM_CLAIM	女神の贈り物を開く
-203	SMT_INGAMESTORE_TCAT_BUYALERT	購入したアイテムは<font color = '#FFFFFF'>かばん</font>に届きます。<br><font color = '#FF0000'>ポポリコインで購入したアイテムは払い戻しできません。</font>
+203	SMT_INGAMESTORE_TCAT_BUYALERT	購入したアイテムは<font color = '#FFFFFF'>かばん</font>に届きます。<br><font color = '#FF0000'>ポポリメダルで購入したアイテムは払い戻しできません。</font>
 201	SMT_INGAMESTORE_TERA_SHOP	はい
 201	SMT_INVALID_CLIMBING_END_POS	［這い上がり］の最終座標が有効誤差範囲を超えました。
 203	SMT_INVALID_CUSTOMIZING_ITEM	このアイテムはクリスタルではありません。
@@ -1267,7 +1267,7 @@
 201	SMT_ITEM_MIX_SUCCESS	アイテム調合に成功しました。
 203	SMT_ITEM_RECEIVER_INVEN_FULL	{UserName}のかばんがいっぱいのため、アイテムを分配できません。
 203	SMT_ITEM_RESET_CANT	オプションを変更できるアイテムではありません。
-203	SMT_ITEM_RESET_BIND	帰属されていないアイテムには使用できません。
+203	SMT_ITEM_RESET_BIND	Cannot be used on an unbound item.
 201	SMT_ITEM_RESET_SUCCESS	オプションの変更に成功しました。
 204	SMT_ITEM_ROULETTE_VALUE	{ItemName}：{UserName}のダイス　{Amount}
 203	SMT_ITEM_UNBIND_MSGBOX_MESSAGE	{ItemName}は{UnbindCount}回解放可能です。解放しますか。
@@ -1384,7 +1384,7 @@
 201	SMT_LORD_START_REG_CANDIDATE_MSG1	{lordNumber}代領主選出のための立候補期間が始まりました。
 201	SMT_LORD_START_REG_CANDIDATE_MSG2	大都市にいる［選挙管理人］から立候補できます。
 201	SMT_LOST_DUNGEON_OWNERSHIP	間もなくテレポートで離脱します。
-203	SMT_LOW_TCAT_MESSAGE	ポポリコインが足りません。
+203	SMT_LOW_TCAT_MESSAGE	ポポリメダルが足りません。
 201	SMT_MANDATE_CONSUL	{username}が執政官に任命されました。
 203	SMT_MATCHING_CANT_REQUEST4	{party}メンバーの情報が正しくないため追加マッチングを申請できません。
 201	SMT_MAX_ENCHANT_SUCCEED	{UserName}が{ItemName}強化に成功しました。
@@ -1393,7 +1393,7 @@
 201	SMT_MEDIATE_CALCULATE	精算を完了しました。
 209	SMT_MEDIATE_CALCULATE_GET_ITEM	{ItemName}を{ItemAmount}個獲得しました。
 201	SMT_MEDIATE_CALCULATE_GET_MONEY	{Amount@money}を獲得しました。
-201	SMT_MEDIATE_CALCULATE_GET_TCAT	{Amount@tcat}ポポリコインを獲得しました。
+201	SMT_MEDIATE_CALCULATE_GET_TCAT	{Amount@tcat}ポポリメダルを獲得しました。
 203	SMT_MEDIATE_CANT_BARGAIN	{UserName}は交渉できない状態です。
 203	SMT_MEDIATE_CANT_BARGAIN_REQUEST	交渉を行うためには、かばんに空きスロットが必要です。
 203	SMT_MEDIATE_CANT_BUY_ITEM	交渉中のアイテムは購入できません。
@@ -1416,8 +1416,8 @@
 203	SMT_MEDIATE_REG_FAIL_IS_NO_AGENT_TYPE	取引仲介所に登録できないアイテムです。
 203	SMT_MEDIATE_REG_PRICE_UI_NO_REGISTERED_ITEM	取引中のアイテムがありません。
 201	SMT_MEDIATE_REG_SUCCESS_ITEM	取引仲介所に{ItemName}{Count}個を1個あたり{amount@money}で登録しました。
-201	SMT_MEDIATE_REG_SUCCESS_ITEM_MONEYTCAT	取引仲介所に{ItemName}{Count}個を1個あたり{amount@money}または{tcatPrice@tcat}ポポリコインで登録しました。
-201	SMT_MEDIATE_REG_SUCCESS_TCATITEM	取引仲介所に{ItemName}{Count}個を1個あたり{amount@tcat}ポポリコインに登録しました。
+201	SMT_MEDIATE_REG_SUCCESS_ITEM_MONEYTCAT	取引仲介所に{ItemName}{Count}個を1個あたり{amount@money}または{tcatPrice@tcat}ポポリメダルで登録しました。
+201	SMT_MEDIATE_REG_SUCCESS_TCATITEM	取引仲介所に{ItemName}{Count}個を1個あたり{amount@tcat}ポポリメダルに登録しました。
 201	SMT_MEDIATE_SUCCESS_BUY	取引仲介所で{ItemName}を購入しました。アイテムを精算してください。
 201	SMT_MEDIATE_SUCCESS_SELL	取引仲介所に登録された{ItemName}が売れました。仲介人の所で精算してください。
 201	SMT_MEDIATE_TRADE_CANCEL_ME	交渉をキャンセルしました。
@@ -1428,7 +1428,7 @@
 201	SMT_MEDIATE_TRADE_FINISH_BUY_ITEM	{ItemName}を{ItemAmount}個購入しました。
 201	SMT_MEDIATE_TRADE_FINISH_SELL_ITEM	{ItemName}を{ItemAmount}個販売しました。
 201	SMT_MEDIATE_TRADE_FINISH_USE_MONEY	購入代金{Amount@money}を支払いました。
-201	SMT_MEDIATE_TRADE_FINISH_USE_TCAT	購入代金としてポポリコイン{Amount@tcat}枚を支払いました。
+201	SMT_MEDIATE_TRADE_FINISH_USE_TCAT	購入代金としてポポリメダル{Amount@tcat}枚を支払いました。
 201	SMT_MEDIATE_TRADE_INPUT_MONEY	{UserName}が{Amount@money}を取引価格として提示しました。
 203	SMT_MEGAPHONE_POPUP_MESSAGE	メッセージを入力してください。最大{length}文字
 203	SMT_MEGAPHONE_POPUP_TITLE	メガホン
@@ -1622,7 +1622,7 @@
 208	SMT_PK_SYSMSG_KILL_OBJECT	{player}を倒しました。
 208	SMT_PK_SYSMSG_KILL_SUBJECT	{player}に倒されました。
 208	SMT_PK_SYSMSG_START	反逆宣言をしました。
-201	SMT_PLAYTIME_START	ようこそ、TERAの世界へ！
+201	SMT_PLAYTIME_START	ようこそ、Menma's TERAへ!. Discord : http://discord.gg/menmastera
 201	SMT_PLAYTIME_TIMER	ゲーム開始から{PlayTime}時間経過しました。
 201	SMT_PLAY_GUIDE_COMPLETE_EVENT	{EventName}に完了した指令があります。
 201	SMT_PLAY_GUIDE_NEW_EVENT	{EventName}に新しい指令があります。
@@ -1709,8 +1709,8 @@
 201	SMT_REJECT_TRADE	{UserName}がトレードを拒否しました。
 201	SMT_REJECT_TRADE_OPPONENT	{Opponent}がトレードを拒否しました。
 204	SMT_REJECT_VOTE_PARTYPLAYER_BAN	反対した人がいたため、追放投票が拒否されました。
-204	SMT_REJECT_VOTE_PARTY_DUNGEONRESET	反対した人がいたため、ダンジョンリセットが拒否されました。
-204	SMT_REJECT_VOTE_PARTY_DISMISS	反対した人がいたため、パーティー解散が拒否されました。
+204	SMT_REJECT_VOTE_PARTY_DUNGEONRESET	Someone has declined to reset the dungeon.
+204	SMT_REJECT_VOTE_PARTY_DISMISS	Someone has declined to disband the group.
 201	SMT_REMAIN_PLAY_TIME_HOUR	プレイ可能時間はあと{Hour}時間です。
 201	SMT_REMAIN_PLAY_TIME_MINUTE	プレイ可能時間はあと{Minute}分です。
 201	SMT_REMOVE_PARTY_SEARCH_FAILED	SMT_REMOVE_PARTY_SEARCH_FAILED
@@ -1752,13 +1752,13 @@
 203	SMT_RETURN_PCBANG_CRYSTAL_MESSAGE	ネットカフェでのみ使用可能な装備が削除された場合、既に装着されていたクリスタル、アーティファクトが返還されます。
 203	SMT_RETURN_PCBANG_CRYSTAL_SENDER	ネットカフェヘルプ
 203	SMT_RETURN_PCBANG_CRYSTAL_TITLE	クリスタル、アーティファクトの返却について
-203	SMT_RE_ABUSE_LETTER_RESTRICTION	既に使われているか、使用できない名前です。
+203	SMT_RE_ABUSE_LETTER_RESTRICTION	{desc}に使用できない単語が含まれています。
 203	SMT_RE_ALPHANUMERICONLY_RESTRICTION	{desc}には半角英数字のみ使用できます。
 203	SMT_RE_BLANK_RESTRICTION	{desc}にスペースは使用できません。
 203	SMT_RE_CHINESE_CLASSICS_RESTRICTION	{desc}には漢字は使用できません。
-203	SMT_RE_CONFIG_LETTER_RESTRICTION	既に使われているか、使用できない名前です。
+203	SMT_RE_CONFIG_LETTER_RESTRICTION	{desc}に設定上使用できない単語が含まれています。
 203	SMT_RE_EXPANDED_HANGEUL_RESTRICTION	{desc}に拡張ハングルは使用できません。
-203	SMT_RE_FORBIDDEN_NAME_RESTRICTION	既に使われているか、使用できない名前です。
+203	SMT_RE_FORBIDDEN_NAME_RESTRICTION	{desc}に使用できない単語が含まれています。
 203	SMT_RE_IMPERFECT_HANGEUL_RESTRICTION	{desc}に不完全ハングルは使用できません。
 203	SMT_RE_LENGTHASCIIONLY_RESTRICTION	{desc}の半角英数字は最大{max}字までです。
 203	SMT_RE_LENGTH_RESTRICTION	{desc}は最大{max}字までです。
@@ -1926,7 +1926,7 @@
 201	SMT_TOGGLE_UI	【Ctrl＋Z】を押すとUIが表示されます。
 201	SMT_TOGGLE_UI_FPMODE	【Ctrl＋Z】でスクリーンショットモードを解除できます。
 201	SMT_TOGGLE_UI_TPMODE	【Ctrl＋Z】で一人称モードに変更できます。
-203	SMT_TOOMANY_TCAT_MESSAGE	これ以上ポポリコインを持つことができません。
+203	SMT_TOOMANY_TCAT_MESSAGE	これ以上ポポリメダルを持つことができません。
 203	SMT_TOWN_TELEPORT_CANT_USE	移動先が近いため呪文書を使用できません。
 203	SMT_TRADE_BROKER_CANT_SEARCH_ALL	キーワードを入力してください。
 201	SMT_TRADE_CANCEL	トレードをキャンセルしました。
@@ -2102,7 +2102,7 @@
 203	SMT_WARNING_DELETE_PERIOD_ITEM	{Item}の使用期間が残りわずかです。期間が満了したアイテムは自動消滅します。
 203	SMT_WARNING_REINFORCED_OR_MASTERPIECE_EQUIPMENT	名品、または強化済みの装備です。
 201	SMT_WARN_EXISTING_WITHDRAW_ONLY_WAREHOUSE	臨時倉庫に物品が存在します。臨時倉庫を確認してください。
-203	SMT_WARN_PLAY_MATINEE	キャラクターを選択して、映像を再生してください。
+203	SMT_WARN_PLAY_MATINEE	キャラクターを選択していないか、選択したキャラクターで再生できる映像ではありません。
 201	SMT_WARN_TO_CHANGE_GUILD_NAME	サーバー統合により、ギルド名が変更になりました。ギルド情報項目で、ギルド名を変更できます。
 203	SMT_WORKOBJECT_CANT_USED_ALREADY_SPAWN	既に召喚された対象が存在します。
 201	SMT_WORLD_CHANNEL_MOVED	チャンネル{number}に移動しました。
@@ -2272,7 +2272,7 @@
 203	SMT_DUALOPTION_STRING_BEFORE	デュアルオプション開放：装備を Shift + 右クリック
 203	SMT_DUALOPTION_STRING_AFTER	デュアルオプション交換：[Shift+ 右クリック]<br>他オプション確認：[Ctrl]
 203	SMT_HUDDLEADDING_USER	{Username}様はアイテム及びゴールドの譲渡が制限された状態です。
-203	SMT_HUDDLEADDING_USER_LEVEL3	{Username}様はアイテム及びゴールドの譲渡が制限された状態です。
+203	SMT_HUDDLEADDING_USER_LEVEL3	{Username} can’t trade items or gold.
 302	SMT_CATCHBACK_SYSMSG_TOOCLOSE	相手との距離が近すぎるため、スキルを使用できません。
 203	SMT_CAN_USE_IN_DUNGEON_ONLY	ダンジョン内でのみ使用可能です。
 203	SMT_CAN_DUNGEON_RESET_ONLY_PARTY_CHIEF	該当機能はパーティーリーダーのみ使用可能です。
@@ -2349,7 +2349,7 @@
 203	SMT_CANNOT_FISHING_FULL_INVEN	かばんの空きスロットが不足しているため、使用できません。
 203	SMT_CANNOT_FISHING_SERVERDOWN	現在は「釣り」を発動できません。
 202	SMT_FISHING_BITE_WAIT	ヒットがあるまで待機します
-202	SMT_FISHING_BITE_STATE	ヒットしました！　{ActionKey}キーを押して釣り上げてください。	{autoWaitingTime}秒経過すると、自動で魚を釣り上げます。
+202	SMT_FISHING_BITE_STATE	ヒットしました！　{ActionKey}キーを押して釣り上げてください。 {autoWaitingTime}秒経過すると、自動で魚を釣り上げます。
 201	SMT_FISHING_RESULT_SUCCESS	獲物を釣り上げました
 201	SMT_FISHING_RESULT_FAIL	釣り上げに失敗しました
 201	SMT_FISHING_RESULT_CANCLE	釣りを中断しました

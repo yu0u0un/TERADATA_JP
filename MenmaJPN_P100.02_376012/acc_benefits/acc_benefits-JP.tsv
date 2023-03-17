@@ -63,7 +63,7 @@
 10334	1サーバーあたりのキャラクタースロット：8個<BR>1サーバーあたりの倉庫タブ：4個<BR>アルゴン軍馬使用可<BR>特別称号を支給<BR>取引仲介所登録個数：30個
 10433	冒険のコイン最大量及びコインチャージ速度上昇<BR>デイリークエスト実行可能回数2倍増加<BR>白狼（緋焔）使用可能<BR>天使の輪アイテム使用可能<BR>Daily Replenishing Inventory 使用可能<BR>旅行者の本:街支給<BR>NPC召喚スクロール、鍵支給<BR>取引仲介所登録個数：50個<BR>取引仲介所登録手数料：2％<BR>取引仲介所購入手数料：10%<BR>クリスタル保護<BR>製作所要時間大幅減少&#xA;装備熟練度獲得量増加<BR>狩り経験値獲得量増加<BR>釣り納品回数増加<BR>
 10434	1サーバーあたりのキャラクタースロット：8個<BR>1サーバーあたりの倉庫タブ：4個<BR>特別称号支給<BR>取引仲介所登録個数：30個
-10444	Active Bonuses During Membership:<BR>Instance cooldowns halved and entries doubled<BR>Increased maximum and faster regeneration of Adventure Coins<BR>Special mount and pet<BR>Free teleportation to cities, towns and villages plus your own teleport locations<BR>Various boosts such as 100% increased character experience<BR>NPC summoning scrolls and keys<BR>Up to 50 active offers on the brokerage<BR>Reduced earnest money and instant buy fees from the brokerage<BR>Permanent crystalbind<BR>Additional daily deliveries to fishing NPCs<BR>Twice as many daily quests<BR>+50% skill advancement XP<BR>+100% EP XP<BR>... and much more!
+10444	冒険のコイン最大量及びコインチャージ速度上昇<BR>デイリークエスト実行可能回数2倍増加<BR>白狼（緋焔）使用可能<BR>天使の輪アイテム使用可能<BR>Daily Replenishing Inventory 使用可能<BR>旅行者の本:街支給<BR>NPC召喚スクロール、鍵支給<BR>取引仲介所登録個数：50個<BR>取引仲介所登録手数料：2％<BR>取引仲介所購入手数料：10%<BR>クリスタル保護<BR>製作所要時間大幅減少&#xA;装備熟練度獲得量増加<BR>狩り経験値獲得量増加<BR>釣り納品回数増加<BR>
 10533	ダンジョンクールタイム1/2に短縮＆挑戦回数2倍<BR>デイリークエスト遂行可能回数2倍増加<BR>古代軍馬使用可能<BR>天使の輪アイテム使用可能<BR>Daily Replenishing Inventory 使用可能<BR>旅行者の本：街支給<BR>NPC召喚スクロール、鍵支給<BR>取引仲介所登録個数：50個<BR>取引仲介所登録手数料：免除<BR>取引仲介所購入手数料：10％&#xA;
 10534	特別称号を支給<BR>特別チャットアイコン支給
 10600	長期間未接続アカウントの被害を防止するため、ゴールド及びアイテム譲渡機能が制限された状態です。<br>制限状態は、アイコンを押して本人認証を完了すると解除されます。
@@ -95,7 +95,7 @@
 100435	パッケージ特典
 100436	パッケージ特典
 100437	パッケージ特典
-100444	Package Benefit
+100444	パッケージ特典
 100533	パッケージ特典
 100534	パッケージ特典
 100600	メール、取引仲介所利用、ユーザー取引、グループ決闘、ギルド倉庫

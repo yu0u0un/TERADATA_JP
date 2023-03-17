@@ -17,8 +17,8 @@
 117	クーマスキングダム
 118	クーマスパラダイス
 152	ヴェリカ：戦乱の時代
-154	Civil Unrest: Island of Dawn
-155	Civil Unrest: Celestial Hills
+154	黎明の島：戦乱の時代
+155	久遠の盆地：戦乱の時代
 156	金貨争奪戦
 200	ヴァルキオン保護領
 201	ヴェリカ直轄領
@@ -1013,7 +1013,7 @@
 90013	63～64
 90014	59～60
 90015	60～65
-90016	65
+90016	70
 97201	アンタレスの深淵入口
 99000	ティアラニア<br> 1~11
 99001	西部伐採地<br> 10~15
@@ -1063,7 +1063,7 @@
 99045	バラカニア丘陵<br>61~62
 99046	古代バラカ遺跡<br>62~63 （68）
 99047	帝国領地<br>63~65
-99048	黎明の島<br> 65
+99048	黎明の島<br>70~74
 99049	ロガッシュの庭園
 99050	エクソドール大農場
 99051	ビリディアン湿地帯
@@ -1235,7 +1235,7 @@
 303201	【練習】ベルアーク城砦秘密地域入口
 310301	狂気のコロシアム 控室
 310302	狂気のコロシアム 通路
-311002	Forbidden Arena Passage
+311002	狂気のコロシアム 通路
 320301	狂気のコロシアム 控室
 320302	狂気のコロシアム 通路
 469001	帝国の地：約50年前
@@ -1494,8 +1494,8 @@
 3019003	歪曲された空間
 3019004	歪曲された空間の入口
 3020000	探宝の金鱗号
-3024001	入場場所
-3025001	ダンジョン初期化後、帰還
+3024001	以前の場所に戻る
+3025001	以前の場所に戻る
 3026001	ケルサイク隠蔽地
 3026002	ケルサイクの殿堂
 3026003	衛星島
@@ -1540,7 +1540,7 @@
 3037002	【練習】バハールの神殿 - 封印の門
 3037003	【練習】バハールの神殿 - 火神の拝殿
 3037004	【練習】バハールの神殿 - 火神の拝殿
-3039001	Seren's Garden
+3039001	セレンの庭園
 3040001	Scorching Sky Cruiser Endeavor
 3040002	Trellum Consurgo's Southern Gate
 3040003	Messy Control Room
@@ -1558,7 +1558,7 @@
 3108001	Lost Abyss - The Confines
 3108002	Lost Abyss - Execution Ground
 3108003	Lost Abyss - Chamber of Trials
-3110001	Forbidden Arena
+3110001	狂気のコロシアム
 3201000	パルクイーンの巣入口
 3201001	蜜保存庫
 3201002	女王の寝所
@@ -2272,25 +2272,25 @@
 9994003	サイラクス研究室
 9999998	開発中の地域
 9999999	地図表示できない地域です。
-10230001	Azart Hatchery (Solo)
-10230002	Azart Hatchery
-25002501	Manahan Seal Site
-25002502	Forest of the Fallen
-25002503	Paesyn’s New World
-25002504	Operation Exodor
-25002530	Hero Training Ground
-25002531	Noble Cleric of Restoration
-25002532	Noble Cleric of Restoration
-30231000	Akalath Quarantine
-30231001	Akalath Quarantine - Storehouse
-30231002	Akalath Quarantine - Laboratory
-30232000	Federation Reliquary Station
-30270001	Forbidden Arena [Hagufna]
-30321000	[Training] Akalath Quarantine
-30321001	[Training] Akalath Quarantine - Storehouse
-30321002	[Training] Akalath Quarantine - Laboratory
-30371000	[Training] Bahaar's Sanctum
-31030001	Forbidden Arena [Undying Warlord]
-32030001	Forbidden Arena [Nightmare Undying Warlord]
-96431504	Shortcut
-302700001	Forbidden Arena Entrance
+10230001	アルガフ孵化場（ソロ）
+10230002	アルガフ孵化場
+25002501	マナアン封鎖地
+25002502	堕落者の森
+25002503	ポアロンの新世界
+25002504	エクソドール作戦
+25002530	英雄訓練所
+25002531	休息の神将
+25002532	休息の神将
+30231000	ベルアーク城砦秘密地域
+30231001	ベルアーク城砦秘密地域
+30231002	ベルアーク城砦秘密地域
+30232000	ヴァルキオン連合前進基地
+30270001	狂気のコロシアム［不滅の闘士］
+30321000	【練習】ベルアーク城砦秘密地域
+30321001	【練習】ベルアーク城砦秘密地域-貯蔵庫
+30321002	【練習】ベルアーク城砦秘密地域-実験室
+30371000	【練習】バハールの神殿
+31030001	狂気のコロシアム［永遠の闘神］
+32030001	狂気のコロシアム［不滅の闘神］
+96431504	近道
+302700001	狂気のコロシアム 入口

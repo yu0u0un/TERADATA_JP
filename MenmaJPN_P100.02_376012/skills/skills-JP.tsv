@@ -7398,7 +7398,6 @@
 1111411	Common	Common	Common	ユニコーン召喚			icon_skills.unicon_tex
 1111501	Common	Common	Common	雪豹召喚			icon_skills.trans_snowleopard_tex
 1111502	Common	Common	Common	雪豹召喚			icon_skills.trans_snowleopard_tex
-1111503	Common	Common	Common	風桜クク召喚(ネットカフェ)			icon_skills.vehicle_ostrich_tex
 1111511	Common	Common	Common	魔導機械BTS-001召喚			icon_skills.steelvehicle_tex
 1111512	Common	Common	Common	光獅子召喚			icon_skills.trans_lion_tex
 1111513	Common	Common	Common	太陽の祝祭絨毯召喚			icon_skills.vehicle_carpet_tex
@@ -7737,14 +7736,14 @@
 9010100	Popori	Common	Common	ヴェリカの呼びかけ			icon_skills.returnofvelica_tex
 9010100	Aman	Common	Common	カイアトールの呼びかけ			icon_skills.returnofkaiator_tex
 9010100	Highelf	Common	Common	コアの呼びかけ			icon_skills.returnofcore_tex
-9010100	Human	Common	Common	ヴェリカの呼びかけ			icon_skills.returnofvelica_tex
 9010100	Castanic	Common	Common	カイアトールの呼びかけ			icon_skills.returnofkaiator_tex
-9020100	Human	Common	Common	決闘の覇者			icon_skills.duelmastery_tex
-9020100	Popori	Common	Common	万物の盟友			icon_skills.naturesfriend_tex
-9020100	Castanic	Common	Common	紋章覚醒			icon_skills.markoflok_tex
-9020100	Baraka	Common	Common	万物融和			icon_skills.earthmeld_tex
+9010100	Human	Common	Common	ヴェリカの呼びかけ			icon_skills.returnofvelica_tex
 9020100	Aman	Common	Common	逆転の闘士			icon_skills.expertfighter_tex
+9020100	Baraka	Common	Common	万物融和			icon_skills.earthmeld_tex
+9020100	Castanic	Common	Common	紋章覚醒			icon_skills.markoflok_tex
 9020100	Highelf	Common	Common	コアの恩恵			icon_skills.activatelink_tex
+9020100	Popori	Common	Common	万物の盟友			icon_skills.naturesfriend_tex
+9020100	Human	Common	Common	決闘の覇者			icon_skills.duelmastery_tex
 9030100	Popori	Common	Common	旅の眼福			icon_skills.journeyman_tex
 9100001	Common	Common	Common	きまぐれなプレゼント I			icon_skills.bluebird_vehicleskill_rare_tex
 9100002	Common	Common	Common	きまぐれなプレゼント I			icon_skills.bluebird_vehicleskill_rare_tex
@@ -7807,7 +7806,6 @@
 12000003	Common	Common	Common	暴君ジャイアントパンダ(レア)召喚			icon_skills.vehicle_bear_c_tex
 12000004	Common	Common	Common	暴君ホワイトベアー(レア)召喚			icon_skills.vehicle_bear_a_tex
 12000005	Common	Common	Common	暴君ジャイアントパンダ(レア)召喚			icon_skills.vehicle_bear_b_tex
-12000006	Common	Common	Common	こぶたのオキ(ネットカフェ)召喚			icon_skills.vehicle_pig_d_gold_tex
 12000007	Common	Common	Common	フラッシュ-Y 2.85 ターボ召喚			icon_skills.vehicle_sportcar_tex
 12000008	Common	Common	Common	フラッシュ-R 2.8 ターボ召喚			icon_skills.vehicle_sportcar_b_tex
 12000009	Common	Common	Common	フラッシュ-B 2.8 ターボ召喚			icon_skills.vehicle_sportcar_a_tex
@@ -9506,8 +9504,8 @@
 14300016	Common	Common	Common	Darkan's Wings			icon_status.descentofdarkness_tex
 14300033	Common	Common	Common	Bravery Potion II			icon_items.potion10_tex
 14300039	Common	Common	Common	[Event] Special Shark Bait			icon_items.premium_pastebait_01_tex
-14400007	Common	Common	Common	Shape Change: Big Head (7 Days)			icon_items.icon_deadoo_item_tex
-14400009	Common	Common	Common	Shape Change: Big Head			icon_items.icon_deadoo_item_tex
+14400007	Common	Common	Common	サリサリSD錠 (7 Days)			icon_items.icon_deadoo_item_tex
+14400009	Common	Common	Common	サリサリSD錠			icon_items.icon_deadoo_item_tex
 14400010	Common	Common	Common	50 Vanguard Initiative Credits			icon_items.reputationpoint_tex
 14400011	Common	Common	Common	100 Vanguard Initiative Credits			icon_items.reputationpoint_tex
 14500000	Common	Common	Common	Smart Box: Guardex Photon Suit (30 Days)			icon_items.melissaparty_tex
@@ -12910,8 +12908,8 @@
 60310101	Common	Common	Common	【連合補給品】リジェネイトポーション			icon_items.potion14_tex
 60320101	Common	Common	Common	【連合補給品】リカバリポーション			icon_items.potion15_tex
 60330100	Common	Common	Common	【連合補給品】力の試薬			icon_items.rare_potion11_tex
-60330101	Common	Common	Common	Tempestuous Savage Draught			icon_items.potion11_tex
-60340101	Common	Common	Common	Inexorable Savage Draught			icon_items.potion17_tex
+60330101	Common	Common	Common	力の試薬			icon_items.potion11_tex
+60340101	Common	Common	Common	忍耐の試薬			icon_items.potion17_tex
 60340102	Common	Common	Common	Teleport Scroll: Premium-only Area			icon_items.dungeon_recall_tex
 60340103	Common	Common	Common	Teleport Scroll: Premium-only Area			icon_items.dungeon_recall_tex
 60340118	Common	Common	Common	Combat Accelerator Potion			icon_items.add_extract_potion_1_tex
@@ -13062,7 +13060,7 @@
 60410203	Common	Common	Common	勇猛のポーション			icon_items.potion10_tex
 60410204	Common	Common	Common	勇猛のポーション II			icon_items.potion10_tex
 60410205	Common	Common	Common	【ネットカフェ】勇猛のポーション II			icon_items.potion10_tex
-60410206	Common	Common	Common	Strong Bravery Potion			icon_items.potion10_tex
+60410206	Common	Common	Common	強靭な勇猛のポーション			icon_items.potion10_tex
 60410300	Common	Common	Common	［帰属］癒しの角笛			icon_items.hp_recovery_potion_tex
 60410400	Common	Common	Common	［帰属］癒しの香水			icon_items.mp_recovery_potion_tex
 60410503	Common	Common	Common	職人の秘薬（30分）			icon_items.parts_lightarmorc14_tex
@@ -14385,8 +14383,8 @@
 61985010	Common	Common	Common	男ゾンビ変身ポーション（1時間)			icon_items.rare_potion11_tex
 61985011	Common	Common	Common	女ゾンビ変身ポーション（1時間)			icon_items.rare_potion11_tex
 62000001	Common	Common	Common	ヴェリカの呼びかけ			
-62000050	Common	Common	Common	Canephora Potion			icon_items.rare_potion11_tex
-62000051	Common	Common	Common	Strong Canephora Potion			icon_items.rare_potion11_tex
+62000050	Common	Common	Common	強化のポーション			icon_items.rare_potion11_tex
+62000051	Common	Common	Common	強化のポーション			icon_items.rare_potion11_tex
 62000101	Common	Common	Common	Sweet Pumpkin Pie			icon_items.sweetypumpkinpie_tex
 62000500	Common	Common	Common	軍団の助力者召喚 I			icon_items.unionassistant_tex
 62000510	Common	Common	Common	軍団の助力者召喚 II			icon_items.unionassistant_tex
@@ -14521,25 +14519,25 @@
 65190029	Common	Common	Common	移動速度の玉			icon_items.potion2_tex
 65190030	Common	Common	Common	正体不明の玉			icon_items.potion2_tex
 70006000	Common	Common	Common	移動呪文書：守備隊の野営地			icon_items.townrecall_tex
-98140000	Common	Common	Common	Menma's Brave Multi-Nostrum			icon_items.menma_brave_multinostrum
+98140000	Common	Common	Common	Menma's 勇敢な万能秘薬			icon_items.menma_brave_multinostrum
 98140001	Common	Common	Common	Darkan's Wings			icon_status.descentofdarkness_tex
 98140003	Common	Common	Common	Darkan's Black Wings			icon_status.descentofdarkness3_tex
-98140006	Common	Common	Common	[Dimension] Hydrangea Teleport Scroll			icon_items.scroll_dot_protect_level_1_tex
-98140007	Common	Common	Common	Dragon's Nest Teleport Scroll			icon_items.dungeon_recall_tex
-98140015	Common	Common	Common	Faerie Pond Teleport Scroll			icon_items.dungeon_recall_tex
-98140016	Common	Common	Common	Garden Bridge Fishery Teleport Scroll			icon_items.dungeon_recall_tex
-98140017	Common	Common	Common	Cloudlake Island Teleport Scroll			icon_items.dungeon_recall_tex
-98140018	Common	Common	Common	Iridian Fishery Teleport Scroll			icon_items.dungeon_recall_tex
-98140019	Common	Common	Common	Azart Fish Farm Teleport Scroll			icon_items.dungeon_recall_tex
-98140020	Common	Common	Common	Verrak Fountain Fishery Teleport Scroll			icon_items.dungeon_recall_tex
+98140006	Common	Common	Common	移動呪文書：[Dimension] Hydrangea			icon_items.scroll_dot_protect_level_1_tex
+98140007	Common	Common	Common	移動呪文書：第1軍駐屯地			icon_items.dungeon_recall_tex
+98140015	Common	Common	Common	移動呪文書：妖精池の釣り島			icon_items.dungeon_recall_tex
+98140016	Common	Common	Common	移動呪文書：空中庭園の釣り島			icon_items.dungeon_recall_tex
+98140017	Common	Common	Common	移動呪文書：雲湖水島			icon_items.dungeon_recall_tex
+98140018	Common	Common	Common	移動呪文書：ビリディアンの釣り島			icon_items.dungeon_recall_tex
+98140019	Common	Common	Common	移動呪文書：アルガフ養殖場			icon_items.dungeon_recall_tex
+98140020	Common	Common	Common	移動呪文書：ベルアーク庭園の釣り島			icon_items.dungeon_recall_tex
 98140050	Common	Common	Common	God of Fire's Wings			icon_status.wrathstormcompleted_tex
 98140052	Common	Common	Common	Devil's Wings			icon_status.darkriftdestroy_tex
 98140054	Common	Common	Common	Elinu's Floral Veil			icon_items.raw_flower1
 98140055	Common	Common	Common	Ancient Dragon's Wings			icon_status.battlecommand04_tex
-98140057	Common	Common	Common	All-Purpose Potion			icon_items.union_quickheal_tex
+98140057	Common	Common	Common	万能洗浄ポーション			icon_items.union_quickheal_tex
 98140060	Common	Common	Common	[Event] Icefish Bait			icon_items.worm01_tex
 98140062	Common	Common	Common	Slowdown Potion			icon_items.potion9_tex
-98141000	Common	Common	Common	Menma's Strong Multi-Nostrum			icon_items.menma_strong_multinostrum
+98141000	Common	Common	Common	Menma's 強靭な万能秘薬			icon_items.menma_strong_multinostrum
 98240000	Common	Common	Common	Summon: Dapper Lloyd			icon_skills.vehicle_llama_d_tex
 98240001	Common	Common	Common	Summon: Free Traders Fortuna			icon_skills.horse_lord_c_tex
 98240002	Common	Common	Common	Summon: Iron Order Virtus			icon_skills.horse_lord_b_tex
@@ -14555,16 +14553,16 @@
 98245012	Common	Common	Common	Summon: Revivified Shandra Manaya			icon_skills.vehicle_sandramanaia_e_tex
 98245013	Common	Common	Common	Summon: War Horse			icon_skills.horse_darkness_tex
 98245014	Common	Common	Common	Summon: War Bengal Tiger			icon_skills.trans_tiger_d_tex
-98340001	Common	Common	Common	Lower Guild Supplies			icon_items.mysterybox5_tex
-98340010	Common	Common	Common	Heroic Oath Weapon Box			icon_items.gift_box04_tex
-98340011	Common	Common	Common	Heroic Oath Armor Box (Body)			icon_items.gift_box04_tex
-98340012	Common	Common	Common	Heroic Oath Armor Box (Hand)			icon_items.gift_box04_tex
-98340013	Common	Common	Common	Heroic Oath Armor Box (Foot)			icon_items.gift_box04_tex
-98340014	Common	Common	Common	Vanguard Reward Box 496			icon_items.tresurebox2_tex
-98340015	Common	Common	Common	Vanguard Reward Box 485			icon_items.tresurebox2_tex
-98340016	Common	Common	Common	Vanguard Reward Box 472/481			icon_items.tresurebox2_tex
-98340017	Common	Common	Common	Vanguard Reward Box 460			icon_items.tresurebox2_tex
-98340018	Common	Common	Common	Vanguard Reward Box 455			icon_items.tresurebox2_tex
+98340001	Common	Common	Common	下級ギルドボックス			icon_items.mysterybox5_tex
+98340010	Common	Common	Common	守護者の装備ボックス(武器)			icon_items.gift_box04_tex
+98340011	Common	Common	Common	守護者の装備ボックス(胴防具)			icon_items.gift_box04_tex
+98340012	Common	Common	Common	守護者の装備ボックス(腕防具)			icon_items.gift_box04_tex
+98340013	Common	Common	Common	守護者の装備ボックス(脚防具)			icon_items.gift_box04_tex
+98340014	Common	Common	Common	守護者の報酬ボックス 496			icon_items.tresurebox2_tex
+98340015	Common	Common	Common	守護者の報酬ボックス 485			icon_items.tresurebox2_tex
+98340016	Common	Common	Common	守護者の報酬ボックス 472/481			icon_items.tresurebox2_tex
+98340017	Common	Common	Common	守護者の報酬ボックス 460			icon_items.tresurebox2_tex
+98340018	Common	Common	Common	守護者の報酬ボックス 455			icon_items.tresurebox2_tex
 99910007	Common	Common	Common	ヒーリングポーション			icon_items.hp_durable_potion_level_49_tex
 99910008	Common	Common	Common	スピードブースター			icon_status.aura_of_wind_tex
 99910020	Common	Common	Common	ヒーリングポーション（小）			icon_items.potion2_tex
