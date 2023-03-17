@@ -1,0 +1,14 @@
+﻿/.vs
+/definition_dump
+/DC
+/opcode_dump
+/ReleaseRevision
+/sysmsg_dump
+/tera_network_crypto
+/build_tb_whitlistopcode.py
+/build_tb_whitlistopcode.bat
+*.dat
+*.exe
+*.map
+*.node
+*.txt
