@@ -210,7 +210,7 @@
 203	SMT_BF_CANT_USE_ITEM	このアイテムは戦場で使用できません。
 203	SMT_BF_CANT_USE_SKILL_BEFORE_BATTLE	戦場では使用できないスキルです。
 203	SMT_BF_CANT_USE_SKILL_OUTSIDE_AREA	スキルを使用できる場所ではありません。
-203	SMT_BF_CANT_BAN_PARTY_MEMBER	Cannot use this feature in the battleground.
+203	SMT_BF_CANT_BAN_PARTY_MEMBER	戦場では使用できない機能です。
 302	SMT_BF_CAPTURE_ADDTIME	{stronghold}を占領し、残り時間が{minute}分追加されました。
 302	SMT_BF_CAPTURE_ADDTIME_ENEMY	{stronghold}が占領され、残り時間が{minute}分追加されました。
 201	SMT_BF_CHATMSG_ATTACKED_STRONGHOLD	{player}に{stronghold}を奪取されました。
@@ -501,7 +501,7 @@
 203	SMT_CANT_MESSAGE_BATTLEFIELD	戦場では個人チャットチャンネルを使用できません。
 203	SMT_CANT_MESSAGE_WHISPER_BATTLEFIELD	戦場内部では敵軍にささやきを送ることはできません。
 203	SMT_CANT_MOUNT_THIS_STATE	今は乗り物を利用できません。
-203	SMT_CANT_MOUNT_BECAUSE_NOT_EQUIPED	Failed to use the Riding Skill because you are not equipped with the required item.
+203	SMT_CANT_MOUNT_BECAUSE_NOT_EQUIPED	搭乗スキル使用に必要なアイテムを装着していないため、スキル使用に失敗しました。
 203	SMT_CANT_MOVE_ITEM	今はこのアイテムを移動できません。
 203	SMT_CANT_PARCEL_CURSE_EQUIP_ITEM	呪いの装備はメール送付できません。
 203	SMT_CANT_PARCEL_DREAM_PIECE	夢の破片はメール送付できません。
@@ -650,7 +650,7 @@
 203	SMT_CHAT_NOT_IN_UNIONPARTY	レイドに参加していません。
 203	SMT_CHAT_PASSWORD_IS_FAIL	パスワードは4桁の数字（1000～9999）でのみ入力できます。
 203	SMT_CHAT_PENALTY_START	チャットを連続で入力したため、入力禁止になりました。
-203	SMT_CHAT_QNA_NOTICE	非公式なパッチなため不具合,BAN自己責任で。(JPpatch.ゆん)<font color = '#FFFF00'>{link}</font>
+203	SMT_CHAT_QNA_NOTICE	非公式なパッチなため不具合,BAN自己責任で。(JPpatch.ゆん)
 203	SMT_CHAT_QNA_NOTICE_LINK	<font color = '#FFFF00'>クリックして移動する。</font>
 201	SMT_CHAT_VIOLATION	SMT_CHAT_VIOLATION
 203	SMT_CHAT_WHISPER_SELF	対象に誤りがあります。
@@ -811,7 +811,7 @@
 201	SMT_DUNGEONMATCHING_BONUS_COMPENSATION	ダンジョン目標達成の報酬が、メールで送付されました。
 201	SMT_DUNGEONMATCHING_CALL_COMPENSATION	ヴァルキオン召集命令の報酬がメールで支給されました。
 201	SMT_DUNGEONMATCHING_CANCEL	ダンジョン{party}マッチングをキャンセルしました。
-201	SMT_DUNGEONMATCHING_CANCEL2	Canceled instance matching due to changes in party status.
+201	SMT_DUNGEONMATCHING_CANCEL2	パーティー状態が変更されたため、マッチングがキャンセルされました。
 203	SMT_DUNGEONMATCHING_CANNOT	サーバー間{party}マッチング状態では実行できません。
 203	SMT_DUNGEONMATCHING_CANNOT_TELEPORT	サーバー間{party}マッチング状態ではないため、入場できません。
 203	SMT_DUNGEONMATCHING_CANT_PARTY_BAN	{party}メンバーの追放はダンジョン内でのみ可能です。
@@ -819,7 +819,7 @@
 203	SMT_DUNGEONMATCHING_CANT_REQUEST2	既にメンバーが揃っています。
 203	SMT_DUNGEONMATCHING_CANT_REQUEST3	メンバー構成が正しくありません。
 203	SMT_DUNGEONMATCHING_CANT_REQUEST4	{UserName}は現在、マッチング申請ができない地域にいます。
-203	SMT_DUNGEONMATCHING_CANT_REQUEST6	You can't make matching requests while in this Lobby.
+203	SMT_DUNGEONMATCHING_CANT_REQUEST6	該当待機室はマッチング登録できません。
 203	SMT_DUNGEONMATCHING_CANT_REQUEST7	Matching requirements unmet.
 203	SMT_DUNGEONMATCHING_DEL_REQUEST	ダンジョンパーティーマッチングをキャンセル中です。少々お待ちください。
 201	SMT_DUNGEONMATCHING_DOING	{party}マッチング進行中です。少々お待ちください。
@@ -1267,7 +1267,7 @@
 201	SMT_ITEM_MIX_SUCCESS	アイテム調合に成功しました。
 203	SMT_ITEM_RECEIVER_INVEN_FULL	{UserName}のかばんがいっぱいのため、アイテムを分配できません。
 203	SMT_ITEM_RESET_CANT	オプションを変更できるアイテムではありません。
-203	SMT_ITEM_RESET_BIND	Cannot be used on an unbound item.
+203	SMT_ITEM_RESET_BIND	帰属されていないアイテムには使用できません。
 201	SMT_ITEM_RESET_SUCCESS	オプションの変更に成功しました。
 204	SMT_ITEM_ROULETTE_VALUE	{ItemName}：{UserName}のダイス　{Amount}
 203	SMT_ITEM_UNBIND_MSGBOX_MESSAGE	{ItemName}は{UnbindCount}回解放可能です。解放しますか。
@@ -1709,8 +1709,8 @@
 201	SMT_REJECT_TRADE	{UserName}がトレードを拒否しました。
 201	SMT_REJECT_TRADE_OPPONENT	{Opponent}がトレードを拒否しました。
 204	SMT_REJECT_VOTE_PARTYPLAYER_BAN	反対した人がいたため、追放投票が拒否されました。
-204	SMT_REJECT_VOTE_PARTY_DUNGEONRESET	Someone has declined to reset the dungeon.
-204	SMT_REJECT_VOTE_PARTY_DISMISS	Someone has declined to disband the group.
+204	SMT_REJECT_VOTE_PARTY_DUNGEONRESET	反対した人がいたため、ダンジョンリセットが拒否されました。
+204	SMT_REJECT_VOTE_PARTY_DISMISS	反対した人がいたため、パーティー解散が拒否されました。
 201	SMT_REMAIN_PLAY_TIME_HOUR	プレイ可能時間はあと{Hour}時間です。
 201	SMT_REMAIN_PLAY_TIME_MINUTE	プレイ可能時間はあと{Minute}分です。
 201	SMT_REMOVE_PARTY_SEARCH_FAILED	SMT_REMOVE_PARTY_SEARCH_FAILED
@@ -2272,7 +2272,7 @@
 203	SMT_DUALOPTION_STRING_BEFORE	デュアルオプション開放：装備を Shift + 右クリック
 203	SMT_DUALOPTION_STRING_AFTER	デュアルオプション交換：[Shift+ 右クリック]<br>他オプション確認：[Ctrl]
 203	SMT_HUDDLEADDING_USER	{Username}様はアイテム及びゴールドの譲渡が制限された状態です。
-203	SMT_HUDDLEADDING_USER_LEVEL3	{Username} can’t trade items or gold.
+203	SMT_HUDDLEADDING_USER_LEVEL3	{Username}様はアイテム及びゴールドの譲渡が制限された状態です。
 302	SMT_CATCHBACK_SYSMSG_TOOCLOSE	相手との距離が近すぎるため、スキルを使用できません。
 203	SMT_CAN_USE_IN_DUNGEON_ONLY	ダンジョン内でのみ使用可能です。
 203	SMT_CAN_DUNGEON_RESET_ONLY_PARTY_CHIEF	該当機能はパーティーリーダーのみ使用可能です。

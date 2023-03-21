@@ -6827,7 +6827,7 @@
 111210	Common	Common	Common	白虎（凱旋）召喚			icon_skills.trans_tiger_b_tex
 111211	Common	Common	Common	猛虎召喚			icon_skills.trans_tiger_c_tex
 111212	Common	Common	Common	猛虎（凱旋）召喚			icon_skills.trans_tiger_d_tex
-111213	Common	Common	Common	Summon: Lupus Argentum			icon_skills.trans_lion_wolf_metal_tex
+111213	Common	Common	Common	アルゴンウルフ（純銀）召喚			icon_skills.trans_lion_wolf_metal_tex
 111214	Common	Common	Common	アルゴンウルフ（黄金）召喚			icon_skills.trans_lion_wolf_gold_tex
 111215	Common	Common	Common	アルゴンウルフ（黄金）召喚			icon_skills.trans_lion_wolf_gold_tex
 111216	Common	Common	Common	アルゴンウルフ（黄金）召喚			icon_skills.trans_lion_wolf_gold_tex
@@ -6977,7 +6977,7 @@
 190045	Common	Common	Common	Tank Suicidal Landmine			icon_items.snowball_large_tex
 190046	Common	Common	Common	自爆攻撃			icon_skills.voidtrap_tex
 200001	Common	Common	Common	反逆宣言			icon_skills.declare_of_pk_tex
-200002	Common	Common	Common	Outlaw Declaration			icon_skills.declare_of_pk_tex
+200002	Common	Common	Common	反逆宣言			icon_skills.declare_of_pk_tex
 200003	Common	Common	Common	殺意			icon_skills.battlefield_high_ranking_tex
 200010	Common	Common	Common	紅翼の気			icon_skills.battlefield_high_ranking_tex
 200011	Common	Common	Common	邪魂の気			icon_skills.battlefield_high_ranking_tex
@@ -7736,14 +7736,14 @@
 9010100	Popori	Common	Common	ヴェリカの呼びかけ			icon_skills.returnofvelica_tex
 9010100	Aman	Common	Common	カイアトールの呼びかけ			icon_skills.returnofkaiator_tex
 9010100	Highelf	Common	Common	コアの呼びかけ			icon_skills.returnofcore_tex
-9010100	Castanic	Common	Common	カイアトールの呼びかけ			icon_skills.returnofkaiator_tex
 9010100	Human	Common	Common	ヴェリカの呼びかけ			icon_skills.returnofvelica_tex
-9020100	Aman	Common	Common	逆転の闘士			icon_skills.expertfighter_tex
-9020100	Baraka	Common	Common	万物融和			icon_skills.earthmeld_tex
-9020100	Castanic	Common	Common	紋章覚醒			icon_skills.markoflok_tex
-9020100	Highelf	Common	Common	コアの恩恵			icon_skills.activatelink_tex
-9020100	Popori	Common	Common	万物の盟友			icon_skills.naturesfriend_tex
+9010100	Castanic	Common	Common	カイアトールの呼びかけ			icon_skills.returnofkaiator_tex
 9020100	Human	Common	Common	決闘の覇者			icon_skills.duelmastery_tex
+9020100	Popori	Common	Common	万物の盟友			icon_skills.naturesfriend_tex
+9020100	Castanic	Common	Common	紋章覚醒			icon_skills.markoflok_tex
+9020100	Baraka	Common	Common	万物融和			icon_skills.earthmeld_tex
+9020100	Aman	Common	Common	逆転の闘士			icon_skills.expertfighter_tex
+9020100	Highelf	Common	Common	コアの恩恵			icon_skills.activatelink_tex
 9030100	Popori	Common	Common	旅の眼福			icon_skills.journeyman_tex
 9100001	Common	Common	Common	きまぐれなプレゼント I			icon_skills.bluebird_vehicleskill_rare_tex
 9100002	Common	Common	Common	きまぐれなプレゼント I			icon_skills.bluebird_vehicleskill_rare_tex
@@ -7875,6 +7875,8 @@
 12000074	Common	Common	Common	天駆けるバハールの銀獅子召喚			icon_skills.vehicle_lion_bahar_silver_tex
 12000075	Common	Common	Common	【イベント】キャラクター外見変更券 (1日)			icon_status.f2p_rewardbox_tex
 12000076	Common	Common	Common	【イベント】【スキル書】：Lv7スライム（プリン）召喚ボックス			icon_status.f2p_rewardbox_tex
+12000098	Common	Common	Common	ホワイトベアー召喚			icon_skills.vehicle_bear_a_tex
+12000099	Common	Common	Common	ワイルドベアー召喚			icon_skills.vehicle_bear_b_tex
 12100075	Common	Common	Common	[イベント]炎の翼タキ召喚			icon_skills.vehicle_ostrich_b_tex
 12200001	Common	Common	Common	鋼鉄の飛竜召喚			icon_equipments.vehicle_dragon_a_tex
 12200002	Common	Common	Common	灼熱の飛竜召喚			icon_equipments.vehicle_dragon_b_tex
@@ -9494,16 +9496,16 @@
 14100645	Common	Common	Common	Summon: Wintera Snowbite			
 14100646	Common	Common	Common	Summon: Dapper Llewellyn			icon_skills.vehicle_llama_b_tex
 14300001	Common	Common	Common	Chocolate Egg Basket			icon_items.ricecake_tex
-14300009	Common	Common	Common	Emblem of Success			icon_items.parts_magicweaponc15_tex
-14300010	Common	Common	Common	Memento of Fame			icon_items.parts_lightweaponc9_tex
-14300011	Common	Common	Common	Sigil of Indestructible Flame			icon_items.parts_magicweaponc6_tex
-14300012	Common	Common	Common	Permanent Fleetfoot Potion			icon_items.potion12_tex
+14300009	Common	Common	Common	Emblem of Eminence			icon_items.parts_magicweaponc15_tex
+14300010	Common	Common	Common	Glorious Memento			icon_items.parts_lightweaponc9_tex
+14300011	Common	Common	Common	Seal of the Undying Flame			icon_items.parts_magicweaponc6_tex
+14300012	Common	Common	Common	Fleetfoot Potion			icon_items.potion12_tex
 14300013	Common	Common	Common	Substantial Enchantment Blessing			icon_items.solventg12_tex
 14300014	Common	Common	Common	Greater Enchantment Blessing			icon_items.solventg13_tex
 14300015	Common	Common	Common	Massive Enchantment Blessing			icon_items.solventg14_tex
 14300016	Common	Common	Common	Darkan's Wings			icon_status.descentofdarkness_tex
 14300033	Common	Common	Common	Bravery Potion II			icon_items.potion10_tex
-14300039	Common	Common	Common	[Event] Special Shark Bait			icon_items.premium_pastebait_01_tex
+14300039	Common	Common	Common	[Event] Elemagnetic Bait			icon_items.premium_pastebait_01_tex
 14400007	Common	Common	Common	サリサリSD錠 (7 Days)			icon_items.icon_deadoo_item_tex
 14400009	Common	Common	Common	サリサリSD錠			icon_items.icon_deadoo_item_tex
 14400010	Common	Common	Common	50 Vanguard Initiative Credits			icon_items.reputationpoint_tex
@@ -9874,7 +9876,7 @@
 14600369	Common	Common	Common	Smart Box: Zuras's Weapon Skin			icon_items.gift_box04_tex
 14600370	Common	Common	Common	Smart Box: Flawless Weapon Skin			icon_items.gift_box04_tex
 14600371	Common	Common	Common	Smart Box: Volperon's Weapon Skin			icon_items.gift_box04_tex
-14600372	Common	Common	Common	Banyaka's Treasure			icon_items.tresurebox3_tex
+14600372	Common	Common	Common	バラカの宝箱			icon_items.tresurebox3_tex
 14600373	Common	Common	Common	Striped Swimsuit Smart Box			icon_items.gift_box04_tex
 14600374	Common	Common	Common	Color Stripe Swimsuit Smart Box			icon_items.gift_box04_tex
 14600375	Common	Common	Common	Fitted Beach Wear Smart Box			icon_items.gift_box04_tex
@@ -9955,16 +9957,16 @@
 14600451	Common	Common	Common	Smart Box: Dyeable Surfer Outfit			icon_items.gift_box04_tex
 14600452	Common	Common	Common	Smart Box: Dyeable Surfer Outfit (7 Days)			icon_items.gift_box04_tex
 14600453	Common	Common	Common	Smart Box: Dyeable Surfer Outfit (30 Days)			icon_items.gift_box04_tex
-14600454	Common	Common	Common	Smart Box: Gangster and Nurse (30 Days)			icon_items.gift_box04_tex
-14600455	Common	Common	Common	Smart Box: Embellished Party (3 Days)			icon_items.gift_box04_tex
-14600456	Common	Common	Common	Smart Box: Crazy Baron (3 Days)			icon_items.gift_box04_tex
-14600457	Common	Common	Common	Smart Box: Magic Costumes (3 Days)			icon_items.gift_box04_tex
-14600458	Common	Common	Common	Smart Box: Scary Weapons (3 Days)			icon_items.gift_box04_tex
-14600459	Common	Common	Common	Smart Box: Dark Outfit (3 Days)			icon_items.gift_box04_tex
-14600460	Common	Common	Common	[Event] Reward Box 1			icon_items.gift_box04_tex
-14600461	Common	Common	Common	[Event] Reward Box 2			icon_items.gift_box04_tex
-14600462	Common	Common	Common	[Event] Reward Box 3			icon_items.gift_box04_tex
-14600463	Common	Common	Common	[Event] Reward Box 4			icon_items.gift_box04_tex
+14600454	Common	Common	Common	Smart Box: Gangsters & Nurses (30 Days)			icon_items.gift_box04_tex
+14600455	Common	Common	Common	Smart Box: Embellished Party Animals (3 Days)			icon_items.gift_box04_tex
+14600456	Common	Common	Common	Smart Box: Mad Baron Medley (3 Days)			icon_items.gift_box04_tex
+14600457	Common	Common	Common	Smart Box: Illusive Titan Force (3 Days)			icon_items.gift_box04_tex
+14600458	Common	Common	Common	Smart Box: Sinister Weapons (3 Days)			icon_items.gift_box04_tex
+14600459	Common	Common	Common	Smart Box: Black Label Armor (3 Days)			icon_items.gift_box04_tex
+14600460	Common	Common	Common	[Event] Dragon Rewards Box			icon_items.gift_box04_tex
+14600461	Common	Common	Common	[Event] Dragon Rewards Box			icon_items.gift_box04_tex
+14600462	Common	Common	Common	[Event] Dragon Rewards Box			icon_items.gift_box04_tex
+14600463	Common	Common	Common	[Event] Dragon Rewards Box			icon_items.gift_box04_tex
 14600464	Common	Common	Common	Smart Box: Black Sailor Look			icon_items.gift_box04_tex
 14600465	Common	Common	Common	Smart Box: Checkered Sailor Look			icon_items.gift_box04_tex
 14600466	Common	Common	Common	Smart Box: Ribbon Sailor Look			icon_items.gift_box04_tex
@@ -9976,15 +9978,15 @@
 14600472	Common	Common	Common	Level 40 Box			icon_items.gift_box04_tex
 14600473	Common	Common	Common	Level 60 Box			icon_items.gift_box04_tex
 14600474	Common	Common	Common	Level 65 Box			icon_items.gift_box04_tex
-14600475	Common	Common	Common	Crystal of Daydreams [4]			icon_items.smallenergya10_tex
+14600475	Common	Common	Common	Radiant Diamond of Reverie			icon_items.smallenergya10_tex
 14600476	Common	Common	Common	Smart Box: Dyeable SWAT Team Uniform			icon_items.gift_box04_tex
-14600477	Common	Common	Common	[Event] Gift of the Stars #1			icon_equipments.acc_324_tex
-14600478	Common	Common	Common	[Event] Reward Box #2			icon_items.gift_box03_tex
-14600479	Common	Common	Common	[Event] Reward Box #3			icon_items.gift_box03_tex
-14600480	Common	Common	Common	[Event] Reward Box #4			icon_items.gift_box03_tex
-14600481	Common	Common	Common	[Event] Reward Box #5			icon_items.gift_box03_tex
-14600482	Common	Common	Common	[Event] Reward Box #6			icon_items.gift_box03_tex
-14600483	Common	Common	Common	Club Reward Box			icon_items.novicepackage_tex
+14600477	Common	Common	Common	[Event] 1st Astral Gift			icon_equipments.acc_324_tex
+14600478	Common	Common	Common	[Event] Glowing Chest			icon_items.gift_box03_tex
+14600479	Common	Common	Common	[Event] Glowing Chest			icon_items.gift_box03_tex
+14600480	Common	Common	Common	[Event] Glowing Chest			icon_items.gift_box03_tex
+14600481	Common	Common	Common	[Event] Glowing Chest			icon_items.gift_box03_tex
+14600482	Common	Common	Common	[Event] Glowing Chest			icon_items.gift_box03_tex
+14600483	Common	Common	Common	TERA Club Astral Box			icon_items.novicepackage_tex
 14600486	Common	Common	Common	Elin Gunner Reward Box			icon_items.gift_box04_tex
 14600487	Common	Common	Common	Level 15 Elin Gunner Reward Box			icon_items.gift_box04_tex
 14600488	Common	Common	Common	Level 20 Elin Gunner Reward Box			icon_items.gift_box04_tex
@@ -10004,28 +10006,28 @@
 14600503	Common	Common	Common	Level 65 Gunner Box			icon_items.gift_box04_tex
 14600504	Common	Common	Common	Silver Will Suit Box			icon_items.gift_box04_tex
 14600505	Common	Common	Common	Weapon Skin Box			icon_items.gift_box04_tex
-14600506	Common	Common	Common	Smart Box: Jewel Hair Style			icon_items.gift_box04_tex
-14600507	Common	Common	Common	Smart Box: Jewel Hair Style (non-trade)			icon_items.gift_box04_tex
-14600508	Common	Common	Common	Smart Box: Pixie Costume			icon_items.premiumbox_dress3_tex
-14600509	Common	Common	Common	Smart Box: Pixie Costume (3 Days)			icon_items.premiumbox_dress3_tex
-14600510	Common	Common	Common	Smart Box: Pixie Costume (7 Days)			icon_items.premiumbox_dress3_tex
-14600511	Common	Common	Common	Smart Box: Pixie Costume (14 Days)			icon_items.premiumbox_dress3_tex
-14600512	Common	Common	Common	Smart Box: Pixie Uniform (30 Days)			icon_items.premiumbox_dress3_tex
+14600506	Common	Common	Common	Smart Box: エクストラジュエルヘア変更券			icon_items.gift_box04_tex
+14600507	Common	Common	Common	Smart Box: エクストラジュエルヘア変更券			icon_items.gift_box04_tex
+14600508	Common	Common	Common	Smart Box: Wood Pixie Costume			icon_items.premiumbox_dress3_tex
+14600509	Common	Common	Common	Smart Box: Wood Pixie Costume (3 Days)			icon_items.premiumbox_dress3_tex
+14600510	Common	Common	Common	Smart Box: Wood Pixie Costume (7 Days)			icon_items.premiumbox_dress3_tex
+14600511	Common	Common	Common	Smart Box: Wood Pixie Costume (14 Days)			icon_items.premiumbox_dress3_tex
+14600512	Common	Common	Common	Smart Box: Wood Pixie Costume (30 Days)			icon_items.premiumbox_dress3_tex
 14600513	Common	Common	Common	Smart Box: Dyeable Pixie Costume			icon_items.premiumbox_dress3_tex
 14600514	Common	Common	Common	Smart Box: Dyeable Pixie Costume (3 Days)			icon_items.premiumbox_dress3_tex
 14600515	Common	Common	Common	Smart Box: Dyeable Pixie Costume (7 Days)			icon_items.premiumbox_dress3_tex
 14600516	Common	Common	Common	Smart Box: Dyeable Pixie Costume (14 Days)			icon_items.premiumbox_dress3_tex
-14600517	Common	Common	Common	Smart Box: Dyeable Pixie Uniform (30 Days)			icon_items.premiumbox_dress3_tex
-14600518	Common	Common	Common	Smart Box: CPU Costume			icon_items.gift_box04_tex
-14600519	Common	Common	Common	Smart Box: CPU Costume (30 Days)			icon_items.gift_box04_tex
-14600520	Common	Common	Common	Smart Box: CPU Costume (14 Days)			icon_items.gift_box04_tex
-14600521	Common	Common	Common	Smart Box: CPU Costume (7 Days)			icon_items.gift_box04_tex
-14600522	Common	Common	Common	Smart Box: CPU Costume (3 Days)			icon_items.gift_box04_tex
-14600523	Common	Common	Common	Smart Box: Rare CPU Costume			icon_items.gift_box04_tex
-14600524	Common	Common	Common	Smart Box: Rare CPU Costume (30 Days)			icon_items.gift_box04_tex
-14600525	Common	Common	Common	Smart Box: Rare CPU Costume (14 Days)			icon_items.gift_box04_tex
-14600526	Common	Common	Common	Smart Box: Rare CPU Costume (7 Days)			icon_items.gift_box04_tex
-14600527	Common	Common	Common	Smart Box: Rare CPU Costume (3 Days)			icon_items.gift_box04_tex
+14600517	Common	Common	Common	Smart Box: Dyeable Pixie Costume (30 Days)			icon_items.premiumbox_dress3_tex
+14600518	Common	Common	Common	Smart Box: Photon Suit			icon_items.gift_box04_tex
+14600519	Common	Common	Common	Smart Box: Photon Suit (30 Days)			icon_items.gift_box04_tex
+14600520	Common	Common	Common	Smart Box: Photon Suit (14 Days)			icon_items.gift_box04_tex
+14600521	Common	Common	Common	Smart Box: Photon Suit (7 Days)			icon_items.gift_box04_tex
+14600522	Common	Common	Common	Smart Box: Photon Suit (3 Days)			icon_items.gift_box04_tex
+14600523	Common	Common	Common	Smart Box: Guardex Photon Suit			icon_items.gift_box04_tex
+14600524	Common	Common	Common	Smart Box: Guardex Photon Suit (30 Days)			icon_items.gift_box04_tex
+14600525	Common	Common	Common	Smart Box: Guardex Photon Suit (14 Days)			icon_items.gift_box04_tex
+14600526	Common	Common	Common	Smart Box: Guardex Photon Suit (7 Days)			icon_items.gift_box04_tex
+14600527	Common	Common	Common	Smart Box: Guardex Photon Suit (3 Days)			icon_items.gift_box04_tex
 14600543	Common	Common	Common	Level 10 Valkyrie Box			icon_items.gift_box04_tex
 14600544	Common	Common	Common	Level 20 Valkyrie Box			icon_items.gift_box04_tex
 14600545	Common	Common	Common	Level 30 Valkyrie Box			icon_items.gift_box04_tex
@@ -10035,8 +10037,8 @@
 14600549	Common	Common	Common	Level 55 Valkyrie Box			icon_items.gift_box04_tex
 14600550	Common	Common	Common	Level 60 Valkyrie Box			icon_items.gift_box04_tex
 14600551	Common	Common	Common	Level 65 Valkyrie Box			icon_items.gift_box04_tex
-14600552	Common	Common	Common	[Classic] Reward Box H			icon_items.tresurebox3_tex
-14600553	Common	Common	Common	[Classic] Reward Box I			icon_items.tresurebox3_tex
+14600552	Common	Common	Common	[Classic] Imperturbable Chest			icon_items.tresurebox3_tex
+14600553	Common	Common	Common	[Classic] Club Support Chest			icon_items.tresurebox3_tex
 14600554	Common	Common	Common	Level up to 5 Box			icon_items.material_box_1_tex
 14600555	Common	Common	Common	Level up to 13 Box			icon_items.material_box_1_tex
 14600556	Common	Common	Common	Level up to 15 Box			icon_items.material_box_1_tex
@@ -10088,7 +10090,7 @@
 14600604	Common	Common	Common	Dyeable Male Leisure Shorts Box			icon_items.gift_box04_tex
 14600605	Common	Common	Common	Male Leisure Shorts Box			icon_items.gift_box04_tex
 14600606	Common	Common	Common	Fantastic Tube Box			icon_items.gift_box04_tex
-14600607	Common	Common	Common	Female Jaeron's White Nurse Uniform Costume Box 			icon_items.gift_box04_tex
+14600607	Common	Common	Common	Female Jaeron's White Nurse Uniform Costume Box			icon_items.gift_box04_tex
 14600608	Common	Common	Common	Dyeable Red Flame Jumpsuit Costume Box			icon_items.gift_box04_tex
 14600609	Common	Common	Common	v68 new angel (Rare) weapon box			icon_items.gift_box04_tex
 14600610	Common	Common	Common	v68 new angel (rare) Costume Box			icon_items.gift_box04_tex
@@ -10149,25 +10151,25 @@
 14600665	Common	Common	Common	Geen Hanbok Costume Box			icon_items.premiumbox_dress3_tex
 14600666	Common	Common	Common	Rare Green Hanbok Costume Box			icon_items.premiumbox_dress4_tex
 14600667	Common	Common	Common	Starglow Weapon Box (14 Days)			icon_items.gold_kaia_presentbox_tex
-14600676	Common	Common	Common	Half Moon Bear (Perm, Tade)			icon_items.gift_box04_tex
-14600677	Common	Common	Common	Smart Box: Half Moon Bear (Perm, Non-Tade)			icon_items.gift_box04_tex
-14600678	Common	Common	Common	Smart Box: Half Moon Bear (7 Days)			icon_items.gift_box04_tex
-14600679	Common	Common	Common	Guinea Pig (Perm, Tade)			icon_items.gift_box04_tex
-14600680	Common	Common	Common	Smart Box: Guinea Pig (Perm, Non-Tade)			icon_items.gift_box04_tex
-14600681	Common	Common	Common	Smart Box: Guinea Pig (7 Days)			icon_items.gift_box04_tex
-14600682	Common	Common	Common	Trade Chest: Jurassic Weapon			icon_items.cash_material_box_6_tex
-14600683	Common	Common	Common	Trade Chest: Jurassic Armour			icon_items.cash_material_box_6_tex
-14600684	Common	Common	Common	Smart Box: Gender Swap (norm) (Perm, Trade)			icon_items.gift_box04_tex
-14600685	Common	Common	Common	Smart Box: Gender Swap (norm) (Perm, Non-Trade)			icon_items.gift_box04_tex
-14600686	Common	Common	Common	Smart Box: Gender Swap (norm) (7 Days)			icon_items.gift_box04_tex
-14600688	Common	Common	Common	[Event] Harrowhold Phase 1			icon_items.dragon_pocket04_tex
-14600689	Common	Common	Common	[Event] Harrowhold Phase 2			icon_items.vergos_box03_tex
-14600690	Common	Common	Common	[Event] Harrowhold Phase 3			icon_items.vergos_box02_tex
-14600691	Common	Common	Common	[Event] Harrowhold Phase 4			icon_items.vergos_box01_tex
+14600676	Common	Common	Common	Smart Box: Brave Black Bear			icon_items.gift_box04_tex
+14600677	Common	Common	Common	Smart Box: Brave Black Bear			icon_items.gift_box04_tex
+14600678	Common	Common	Common	Smart Box: Brave Black Bear (7 Days)			icon_items.gift_box04_tex
+14600679	Common	Common	Common	Smart Box: Gutsy Guinea Pig			icon_items.gift_box04_tex
+14600680	Common	Common	Common	Smart Box: Gutsy Guinea Pig			icon_items.gift_box04_tex
+14600681	Common	Common	Common	Smart Box: Gutsy Guinea Pig (7 Days)			icon_items.gift_box04_tex
+14600682	Common	Common	Common	Trade Chest: Jurassic Weapon Scroll (100%)			icon_items.cash_material_box_6_tex
+14600683	Common	Common	Common	Trade Chest: Jurassic Armor Scroll (100%)			icon_items.cash_material_box_6_tex
+14600684	Common	Common	Common	Smart Box: Role Swap			icon_items.gift_box04_tex
+14600685	Common	Common	Common	Smart Box: Role Swap			icon_items.gift_box04_tex
+14600686	Common	Common	Common	Smart Box: Role Swap (7 Days)			icon_items.gift_box04_tex
+14600688	Common	Common	Common	[Event] First Stage Chest			icon_items.dragon_pocket04_tex
+14600689	Common	Common	Common	[Event] Second Stage Chest			icon_items.vergos_box03_tex
+14600690	Common	Common	Common	[Event] Third Stage Chest			icon_items.vergos_box02_tex
+14600691	Common	Common	Common	[Event] Fourth Stage Chest			icon_items.vergos_box01_tex
 15200004	Common	Common	Common	毒薬			icon_items.q_flaskseal_tex
 15210001	Common	Common	Common	戦闘黒鉄戦馬召喚			icon_skills.vehicle_horse_black_tex
 15210002	Common	Common	Common	戦闘獅子召喚			icon_skills.trans_lion_white_tex
-15300000	Common	Common	Common	Summon: Regal Frostlion			icon_skills.trans_lion_white_tex
+15300000	Common	Common	Common	【スキル書】白獅子召喚			icon_skills.trans_lion_white_tex
 15300001	Common	Common	Common	軍馬召喚（白）			icon_skills.mounthorse04_tex
 16300006	Common	Common	Common	Emblem of Success			icon_items.parts_magicweaponc15_tex
 16300007	Common	Common	Common	Memento of Fame			icon_items.parts_lightweaponc9_tex
@@ -10585,15 +10587,15 @@
 19000556	Common	Common	Common	アバターボックス（ウェストニア）			icon_items.gold_kaia_presentbox_tex
 19000559	Common	Common	Common	Black Dress & Suit Box			icon_items.gift_box04_tex
 19000564	Common	Common	Common	アバターボックス(ウェストニア)			icon_items.gold_kaia_presentbox_tex
-19000565	Common	Common	Common	 Starglow Weapon Skin Box			icon_items.gift_box04_tex
-19000566	Common	Common	Common	 Starglow Costume Box			icon_items.gift_box04_tex
+19000565	Common	Common	Common	Starglow Weapon Skin Box			icon_items.gift_box04_tex
+19000566	Common	Common	Common	Starglow Costume Box			icon_items.gift_box04_tex
 19000567	Common	Common	Common	Dyeable Female Gothic Dress Costume Box 			icon_items.gift_box04_tex
-19000568	Common	Common	Common	Dyeable Male Noblesse Suit Costume Box 			icon_items.gift_box04_tex
+19000568	Common	Common	Common	Dyeable Male Noblesse Suit Costume Box			icon_items.gift_box04_tex
 19000569	Common	Common	Common	Male Classic Butler's Uniform Costume Box 			icon_items.gift_box04_tex
-19000570	Common	Common	Common	Dyeable Female Classic Housekeeper Uniform Costume Box 			icon_items.gift_box04_tex
-19000571	Common	Common	Common	Male Fitted Beach Wear Costume Box 			icon_items.gift_box04_tex
+19000570	Common	Common	Common	Dyeable Female Classic Housekeeper Uniform Costume Box			icon_items.gift_box04_tex
+19000571	Common	Common	Common	Male Fitted Beach Wear Costume Box			icon_items.gift_box04_tex
 19000572	Common	Common	Common	Dyeable Female Striped Bikini Costume Box 			icon_items.gift_box04_tex
-19000573	Common	Common	Common	Female Striped Bikini Costume Box 			icon_items.gift_box04_tex
+19000573	Common	Common	Common	Female Striped Bikini Costume Box			icon_items.gift_box04_tex
 19000574	Common	Common	Common	Dyeable Bomber JacketCostume Box			icon_items.gift_box04_tex
 19000575	Common	Common	Common	Bomber Jacket Costume Box			icon_items.gift_box04_tex
 19000576	Common	Common	Common	Female Dyeable 2017 Maid Costume Costume Box 			icon_items.gift_box04_tex
@@ -13435,7 +13437,7 @@
 60411211	Common	Common	Common	クリスタル商人出張要請書			icon_items.premium_summonnpc_02_tex
 60411212	Common	Common	Common	倉庫管理人出張要請書			icon_items.premium_summonnpc_03_tex
 60411213	Common	Common	Common	取引仲介人出張要請書			icon_items.premium_summonnpc_04_tex
-60411214	Common	Common	Common	Summon NPC: XXX [Vanguard Initiative]			icon_items.premium_summonnpc_02_tex
+60411214	Common	Common	Common	Summon NPC: Sionne			icon_items.premium_summonnpc_02_tex
 60411215	Common	Common	Common	アルガフ孵化場次元の門召喚スクロール			icon_items.scroll_dot_protect_level_1_tex
 60411300	Common	Common	Common	製作熟練度高速成長（1時間）			icon_items.small_insecta8_tex
 60411301	Common	Common	Common	アルガフの霊薬			icon_items.orb_of_dragonpower_tex
