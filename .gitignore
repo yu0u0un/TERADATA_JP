@@ -6,6 +6,7 @@
 /sysmsg_dump
 /tera_network_crypto
 /trans_menma.py
+/trans_menma.bat
 /build_tb_whitlistopcode.py
 /build_tb_whitlistopcode.bat
 *.dat

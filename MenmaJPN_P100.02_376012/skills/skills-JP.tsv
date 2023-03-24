@@ -12912,8 +12912,8 @@
 60330100	Common	Common	Common	【連合補給品】力の試薬			icon_items.rare_potion11_tex
 60330101	Common	Common	Common	力の試薬			icon_items.potion11_tex
 60340101	Common	Common	Common	忍耐の試薬			icon_items.potion17_tex
-60340102	Common	Common	Common	Teleport Scroll: Premium-only Area			icon_items.dungeon_recall_tex
-60340103	Common	Common	Common	Teleport Scroll: Premium-only Area			icon_items.dungeon_recall_tex
+60340102	Common	Common	Common	移動呪文書：プレミアムフィールド（プレミアム）			icon_items.dungeon_recall_tex
+60340103	Common	Common	Common	移動呪文書：プレミアムフィールド（プレミアム）			icon_items.dungeon_recall_tex
 60340118	Common	Common	Common	Combat Accelerator Potion			icon_items.add_extract_potion_1_tex
 60340119	Common	Common	Common	補給品：ノクタニウム強化弾			icon_items.union_supplies5_tex
 60340121	Common	Common	Common	猛獣の秘薬 I			icon_items.griffon_potion_level_1_tex

@@ -193,6 +193,7 @@
       <Section id="912" mapId="WMap_BF_FreeFight" nameId="118001" />
       <Section id="913" mapId="WMap_BF_Honor" nameId="118002" />
       <Section id="915" mapId="WMap_DG_BF_NewBattle" nameId="156" />
+      <Section id="916" mapId="WMap_DG_BF_NewBattle" nameId="157" />
     </Guard>
   </World>
   <World id="9999" mapId="" nameId="0">
@@ -307,6 +308,7 @@
       <Section id="303702" mapId="WMap_DG_Baharr_Sanctuary_Boss01_01" nameId="3037003" type="dungeon" />
       <Section id="303703" mapId="WMap_DG_Baharr_Sanctuary_Boss02_01" nameId="3037004" type="dungeon" />
       <Section id="3020" mapId="WMap_DG_Seaship" nameId="3020" type="dungeon" />
+      <Section id="158" mapId="WMap_DG_AEN_C_Quest_BG" nameId="158001" />
     </Guard>
     <Guard id="10" mapId="" nameId="0" continentId="2">
       <Section id="9008" mapId="WMap_DG_AL_A_Quest" nameId="9008001" />
