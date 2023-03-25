@@ -6374,9 +6374,9 @@
 		<Monster name="納品馬車" id="1277" isBoss="False" hp="91545" speciesId="0" />
 		<Monster name="バレク" id="1278" isBoss="False" hp="10000" speciesId="0" />
 		<Monster name="Caramel" id="1957" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="Mylen" id="1959" isBoss="False" hp="0" speciesId="0" />
-		<Monster name="Dylen" id="1960" isBoss="False" hp="0" speciesId="0" />
-		<Monster name="Aylen" id="1961" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="マレン" id="1959" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="ダレン" id="1960" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="アレン" id="1961" isBoss="False" hp="0" speciesId="0" />
 		<Monster name="深い川・ムラム" id="2001" isBoss="False" hp="10000" speciesId="0" />
 		<Monster name="赤き星・オマル" id="2002" isBoss="False" hp="10000" speciesId="0" />
 		<Monster name="仕える手・マンド" id="2003" isBoss="False" hp="10000" speciesId="0" />
@@ -6694,7 +6694,7 @@
 		<Monster name="ポノン" id="1021" isBoss="False" hp="10000" speciesId="0" />
 		<Monster name="カディム・ナクトゥム" id="1022" isBoss="False" hp="10000" speciesId="0" />
 		<Monster name="ジェシア・レノン" id="1023" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="レオン・ケネディ" id="1024" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="レオン・ブラックウェル" id="1024" isBoss="False" hp="10000" speciesId="0" />
 		<Monster name="妖精の魔法石" id="1025" isBoss="False" hp="10000" speciesId="0" />
 		<Monster name="連合任務掲示板" id="1026" isBoss="False" hp="10000" speciesId="0" />
 		<Monster name="連合任務掲示板" id="1027" isBoss="False" hp="10000" speciesId="0" />
@@ -18912,7 +18912,7 @@
 		<Monster name="クーマスの幻影" id="1005" isBoss="False" hp="0" speciesId="0" />
 		<Monster name="アルガフの幻影" id="1006" isBoss="False" hp="27448770" speciesId="0" />
 		<Monster name="アルガフの幻影" id="1007" isBoss="False" hp="27448770" speciesId="0" />
-		<Monster name="Rampaging RK-9" id="7000" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="Burst RK-9" id="7000" isBoss="False" hp="0" speciesId="0" />
 	</Zone>
 	<Zone id="3036" name="Sky Cruiser Endeavor (Hard)" >
 		<Monster name="【ボス】次元の魔法石を通じて烈風のエルカラス号に移動後、暴走したダルカンを討伐せよ" id="914" isBoss="False" hp="0" speciesId="0" />

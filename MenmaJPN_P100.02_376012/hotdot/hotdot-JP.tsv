@@ -3552,9 +3552,9 @@
 690100	Immune	Buff	True	9	650	0	0	Remanant Evade			Your going so fast your remanent image still let you evade attacks.	icon_status.speedystatus_tex	icon_status.speedystatus_tex	True
 690100	StatusImmune	Buff	True	swch	650	0	0	Remanant Evade			Your going so fast your remanent image still let you evade attacks.	icon_status.speedystatus_tex	icon_status.speedystatus_tex	True
 690101	ReloadingSkill	Buff	True	swch	350	0	7038	Repeatable Backstep			Can use backstep again.	icon_skills.backstep_tex	icon_skills.backstep_tex	True
-690128	Attack	Buff	True	swch	0	0	1.1	Furious Blows			Your tank's fury is spreading to the party!$BRIncrease Skill Damage by $H_W_GOOD10%$COLOR_END.	icon_status.furiousblows_tex	icon_status.furiousblows_tex	True
-690131	Attack	Buff	True	perc	8000	0	1.037	Haymaker: Resonance			Increases Skill Damage by 3.7%.	icon_items.q_whitecore_tex	icon_items.q_whitecore_tex	True
-690131	BuffNearbyParty	Buff	True	seta	8000	2	10153551	Haymaker: Resonance			Increases Skill Damage by 3.7%.	icon_items.q_whitecore_tex	icon_items.q_whitecore_tex	True
+690128	Attack	Buff	True	swch	0	0	1.1	猛烈な打撃			[英語名] Furious Blows $BRファイターから怒りが伝わってきます…!$BRスキル威力が$H_W_GOOD10%$COLOR_END増加します.	icon_status.furiousblows_tex	icon_status.furiousblows_tex	True
+690131	Attack	Buff	True	perc	8000	0	1.037	デッドリーマグナム：共鳴			[英語名] Haymaker: Resonance $BRスキル威力が3.7%増加する.	icon_items.q_whitecore_tex	icon_items.q_whitecore_tex	True
+690131	BuffNearbyParty	Buff	True	seta	8000	2	10153551	デッドリーマグナム：共鳴			[英語名] Haymaker: Resonance $BRスキル威力が3.7%増加する.	icon_items.q_whitecore_tex	icon_items.q_whitecore_tex	True
 690132	Endurance	Buff	True	perc	300	0	1	剣を持つ者			スキル威力が約$H_W_GOOD6%$COLOR_END上昇.$BR60秒以下の攻撃スキルのCTを約$H_W_GOOD7%$COLOR_END減少させる.	icon_status.onewiththesword_tex	icon_status.onewiththesword_tex	True
 690134	AtkPotion	Buff	True	perc	18000	0	1.05	Glyph of Powerlink			Increases skill damage by $H_W_GOOD5%$COLOR_END	icon_crest.crestnextskillattackup_tex	icon_crest.crestnextskillattackup_tex	True
 690135	Endurance	Buff	False	perc	15000	0	1	ギガントラース（変則）			効果持続中[レイジインダクション]を使用できないが、後方スキル威力45％、力$calcValue(multiple,3,0,3)、クリティカル発生が50増加し、攻撃速度10、全てのスキルのクールタイムが30％、敵対値が60％減少します。	icon_skills.rampage_tex	icon_skills.rampage_tex	True
@@ -9205,6 +9205,21 @@
 88837258	MPChange	Buff	True	abs	3000	1	76	魔力回復			毎秒、MPが$H_W_GOOD76$COLOR_ENDずつ回復する。攻撃を受けると解除される。	icon_ep.ep_resources_mpmore_tex	icon_ep.ep_resources_mpmore_tex	True
 88837259	MPChange	Buff	True	abs	3000	1	84	魔力回復			毎秒、MPが$H_W_GOOD84$COLOR_ENDずつ回復する。攻撃を受けると解除される。	icon_ep.ep_resources_mpmore_tex	icon_ep.ep_resources_mpmore_tex	True
 88837260	MPChange	Buff	True	abs	3000	1	92	魔力回復			毎秒、MPが$H_W_GOOD92$COLOR_ENDずつ回復する。攻撃を受けると解除される。	icon_ep.ep_resources_mpmore_tex	icon_ep.ep_resources_mpmore_tex	True
+89003101	AtkPotion	Buff	True	perc	5000	0	1.03	デスクリーブパワーリンク			フラッシュサイズのスキル威力を$H_W_GOOD3%$COLOR_END上昇させる。	icon_ep.ep_attack_strong_tex	icon_ep.ep_attack_strong_tex	True
+89003102	AtkPotion	Buff	True	perc	5000	0	1.035	デスクリーブパワーリンク			フラッシュサイズのスキル威力を$H_W_GOOD3.5%$COLOR_END上昇させる。	icon_ep.ep_attack_strong_tex	icon_ep.ep_attack_strong_tex	True
+89003103	AtkPotion	Buff	True	perc	5000	0	1.04	デスクリーブパワーリンク			フラッシュサイズのスキル威力を$H_W_GOOD4%$COLOR_END上昇させる。	icon_ep.ep_attack_strong_tex	icon_ep.ep_attack_strong_tex	True
+89003104	AtkPotion	Buff	True	perc	5000	0	1.045	デスクリーブパワーリンク			フラッシュサイズのスキル威力を$H_W_GOOD4.5%$COLOR_END上昇させる。	icon_ep.ep_attack_strong_tex	icon_ep.ep_attack_strong_tex	True
+89003105	AtkPotion	Buff	True	perc	5000	0	1.05	デスクリーブパワーリンク			フラッシュサイズのスキル威力を$H_W_GOOD5%$COLOR_END上昇させる。	icon_ep.ep_attack_strong_tex	icon_ep.ep_attack_strong_tex	True
+89003106	AtkPotion	Buff	True	perc	5000	0	1.055	デスクリーブパワーリンク			フラッシュサイズのスキル威力を$H_W_GOOD5.5%$COLOR_END上昇させる。	icon_ep.ep_attack_strong_tex	icon_ep.ep_attack_strong_tex	True
+89003107	AtkPotion	Buff	True	perc	5000	0	1.06	デスクリーブパワーリンク			フラッシュサイズのスキル威力を$H_W_GOOD6%$COLOR_END上昇させる。	icon_ep.ep_attack_strong_tex	icon_ep.ep_attack_strong_tex	True
+89003108	AtkPotion	Buff	True	perc	5000	0	1.065	デスクリーブパワーリンク			フラッシュサイズのスキル威力を$H_W_GOOD6.5%$COLOR_END上昇させる。	icon_ep.ep_attack_strong_tex	icon_ep.ep_attack_strong_tex	True
+89003109	AtkPotion	Buff	True	perc	5000	0	1.07	デスクリーブパワーリンク			フラッシュサイズのスキル威力を$H_W_GOOD7%$COLOR_END上昇させる。	icon_ep.ep_attack_strong_tex	icon_ep.ep_attack_strong_tex	True
+89003110	AtkPotion	Buff	True	perc	5000	0	1.075	デスクリーブパワーリンク			フラッシュサイズのスキル威力を$H_W_GOOD7.5%$COLOR_END上昇させる。	icon_ep.ep_attack_strong_tex	icon_ep.ep_attack_strong_tex	True
+89003111	AtkPotion	Buff	True	perc	5000	0	1.08	デスクリーブパワーリンク			フラッシュサイズのスキル威力を$H_W_GOOD8%$COLOR_END上昇させる。	icon_ep.ep_attack_strong_tex	icon_ep.ep_attack_strong_tex	True
+89003112	AtkPotion	Buff	True	perc	5000	0	1.085	デスクリーブパワーリンク			フラッシュサイズのスキル威力を$H_W_GOOD8.5%$COLOR_END上昇させる。	icon_ep.ep_attack_strong_tex	icon_ep.ep_attack_strong_tex	True
+89003113	AtkPotion	Buff	True	perc	5000	0	1.09	デスクリーブパワーリンク			フラッシュサイズのスキル威力を$H_W_GOOD9%$COLOR_END上昇させる。	icon_ep.ep_attack_strong_tex	icon_ep.ep_attack_strong_tex	True
+89003114	AtkPotion	Buff	True	perc	5000	0	1.095	デスクリーブパワーリンク			フラッシュサイズのスキル威力を$H_W_GOOD9.5%$COLOR_END上昇させる。	icon_ep.ep_attack_strong_tex	icon_ep.ep_attack_strong_tex	True
+89003115	AtkPotion	Buff	True	perc	5000	0	1.1	デスクリーブパワーリンク			フラッシュサイズのスキル威力を$H_W_GOOD10%$COLOR_END上昇させる。	icon_ep.ep_attack_strong_tex	icon_ep.ep_attack_strong_tex	True
 89011311	Crit	Buff	True	abs	3000	0	6	致命傷・裂			クリティカル発生が$H_W_GOOD6$COLOR_END増加する。	icon_ep.ep_fatal_hitfinish_tex	icon_ep.ep_fatal_hitfinish_tex	True
 89011312	Crit	Buff	True	abs	3000	0	7	致命傷・裂			クリティカル発生が$H_W_GOOD7$COLOR_END増加する。	icon_ep.ep_fatal_hitfinish_tex	icon_ep.ep_fatal_hitfinish_tex	True
 89011313	Crit	Buff	True	abs	3000	0	8	致命傷・裂			クリティカル発生が$H_W_GOOD8$COLOR_END増加する。	icon_ep.ep_fatal_hitfinish_tex	icon_ep.ep_fatal_hitfinish_tex	True
