@@ -5813,7 +5813,7 @@
 		<Monster name="Sheep" id="3001" isBoss="False" hp="100000000" speciesId="0" />
 		<Monster name="Sergeorius" id="4001" isBoss="False" hp="10000" speciesId="0" />
 		<Monster name="Chroas" id="4002" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="Guild Tower" id="5001" isBoss="False" hp="400000000" speciesId="0" />
+		<Monster name="Guild Tower" id="5001" isBoss="False" hp="325000000" speciesId="0" />
 		<Monster name="Ankhrias" id="6001" isBoss="False" hp="13038" speciesId="0" />
 		<Monster name="Ghadern" id="6002" isBoss="False" hp="945" speciesId="0" />
 		<Monster name="Jarmia" id="6003" isBoss="False" hp="945" speciesId="0" />
