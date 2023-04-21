@@ -6499,6 +6499,7 @@
 		<Monster name="タクルム・ドンカン" id="9999" isBoss="False" hp="10000" speciesId="0" />
 		<Monster name="鉱物収集家ミネルン" id="20000" isBoss="False" hp="10000" speciesId="0" />
 		<Monster name="結晶取集商人" id="20050" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Berryl" id="20090" isBoss="False" hp="10000" speciesId="0" />
 		<Monster name="ネネルン" id="200000" isBoss="False" hp="10000" speciesId="0" />
 		<Monster name="ジェリリン" id="200002" isBoss="False" hp="10000" speciesId="0" />
 		<Monster name="マスルン" id="200003" isBoss="False" hp="10000" speciesId="0" />
@@ -13129,6 +13130,7 @@
 		<Monster name="BFO-1" id="9998" isBoss="False" hp="5000000" speciesId="0" />
 	</Zone>
 	<Zone id="643" name="魔法使いの砦" >
+		<Monster name="Mobile Siege Weapon" id="1000" isBoss="False" hp="0" speciesId="0" />
 		<Monster name="バルガス" id="1001" isBoss="True" hp="161159398" speciesId="1" />
 		<Monster name="ハウルド" id="1002" isBoss="True" hp="161159398" speciesId="0" />
 		<Monster name="キークロプス" id="1003" isBoss="True" hp="1020182550" speciesId="0" />
@@ -19220,7 +19222,7 @@
 	</Zone>
 	<Zone id="3203" name="Forbidden Arena" >
 		<Monster name="不滅の闘神を討伐せよ" id="100" isBoss="False" hp="0" speciesId="0" />
-		<Monster name="不滅の闘神" id="1000" isBoss="True" hp="58000000000" speciesId="0" />
+		<Monster name="不滅の闘神" id="1000" isBoss="True" hp="60000000000" speciesId="0" />
 		<Monster name="不滅の闘神" id="1001" isBoss="True" hp="20089331250" speciesId="0" />
 		<Monster name="不滅の闘神" id="1002" isBoss="True" hp="20089331250" speciesId="0" />
 		<Monster name="次元の魔法石" id="1501" isBoss="False" hp="10000" speciesId="0" />

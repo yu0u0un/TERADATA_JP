@@ -6570,6 +6570,14 @@
 91900002	icon_skills.battlefield_high_ranking_tex
 91900003	icon_skills.battlefield_high_ranking_tex
 91900004	icon_skills.battlefield_high_ranking_tex
+91900010	icon_items.enchantsource2_tex
+91900011	icon_items.enchantsource2_tex
+91900012	icon_items.enchantsource2_tex
+91900013	icon_items.enchantsource2_tex
+91900017	icon_skills.fightingwill_tex
+91900019	icon_items.enchantsource2_tex
+91900020	icon_skills.sp_attack1_tex
+91900021	icon_status.minusmove_tex
 91900200	icon_status.lightweight_tex
 91900201	icon_skills.seduction_tex
 91900202	icon_skills.guildskills_ccres_tex
@@ -7418,6 +7426,9 @@
 303600058	icon_status.balanceup_tex
 303600059	icon_status.darkriftarearage_tex
 303600060	icon_status.fearstatus_tex
+303800001	icon_status.godspell_tex
+303800002	icon_status.yellowaura_tex
+303800003	icon_status.orangeaura_tex
 303900001	icon_items.raw_flower1
 303900002	icon_status.yellowaura_tex
 303900003	icon_status.orangeaura_tex

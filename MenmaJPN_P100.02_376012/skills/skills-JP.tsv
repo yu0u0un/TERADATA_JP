@@ -2695,6 +2695,7 @@
 170200	Common	Common	Lancer	バトルウィル II	False		icon_skills.fightingwill_tex
 170240	Common	Common	Lancer	バトルウィル II	False		icon_skills.fightingwill_tex
 170250	Common	Common	Lancer	バトルウィル II	False		icon_skills.fightingwill_tex
+170260	Common	Common	Lancer	バトルウィル II	False		icon_skills.fightingwill_tex
 180100	Common	Common	Lancer	シールドバレッジ I	False	hit 1	icon_skills.shieldattack_tex
 180101	Common	Common	Lancer	シールドバレッジ I	False	hit 2	icon_skills.shieldattack_tex
 180200	Common	Common	Lancer	シールドバレッジ II	False	hit 1	icon_skills.shieldattack_tex
@@ -13437,12 +13438,13 @@
 60411211	Common	Common	Common	クリスタル商人出張要請書			icon_items.premium_summonnpc_02_tex
 60411212	Common	Common	Common	倉庫管理人出張要請書			icon_items.premium_summonnpc_03_tex
 60411213	Common	Common	Common	取引仲介人出張要請書			icon_items.premium_summonnpc_04_tex
-60411214	Common	Common	Common	Summon NPC: Sionne			icon_items.premium_summonnpc_02_tex
+60411214	Common	Common	Common	ヴァルキオン信用商人出張要請書			icon_items.premium_summonnpc_02_tex
 60411215	Common	Common	Common	アルガフ孵化場次元の門召喚スクロール			icon_items.scroll_dot_protect_level_1_tex
 60411300	Common	Common	Common	製作熟練度高速成長（1時間）			icon_items.small_insecta8_tex
 60411301	Common	Common	Common	アルガフの霊薬			icon_items.orb_of_dragonpower_tex
 60411302	Common	Common	Common	エクソドールコアの浄水			icon_status.godspell_tex
 60411303	Common	Common	Common	エクソドールコアの浄水			icon_status.godspell_tex
+60411304	Common	Common	Common	Kaia's Blessing			icon_status.godspell_tex
 60411919	Common	Common	Common	ワラ玉転がし景品ボックス			icon_items.presentbox1_tex
 60411920	Common	Common	Common	ピグリン集め景品ボックス			icon_items.presentbox2_tex
 60411921	Common	Common	Common	カエルの卵			icon_items.homonegg5_tex

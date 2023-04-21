@@ -73,12 +73,15 @@
 122	9005		1501	降りる	icon_skills.vehicleex_getoff_tex
 123	9005		1301	砲弾発射	icon_skills.vehicleex_att01_tex
 123	9005		1501	降りる	icon_skills.vehicleex_getoff_tex
-191	1601	砲台	1101	砲弾発射	icon_skills.vehicleex_att01_tex
-191	1601	砲台	1102	砲弾発射	icon_skills.vehicleex_att01_tex
+159	1000		1101	砲弾発射	icon_skills.vehicleex_att01_tex
+159	1000		1102	砲弾発射	icon_skills.vehicleex_att01_tex
+159	1000		1201	降りる	icon_skills.vehicleex_getoff_tex
+191	1601	砲台	1101	出発	icon_skills.vehicleex_att01_tex
+191	1601	砲台	1102	出発	icon_skills.vehicleex_att01_tex
 191	1601	砲台	1201	降りる	icon_skills.vehicleex_getoff_tex
 191	1604	飛空艇	1101	出発	icon_skills.vehicle_drive_tex
 191	1604	飛空艇	1201	降りる	icon_skills.vehicleex_getoff_tex
-191	1605	飛空艇	1101	出発	icon_skills.vehicle_drive_tex
+191	1605	飛空艇	1101	砲弾発射	icon_skills.vehicle_drive_tex
 191	1605	飛空艇	1201	降りる	icon_skills.vehicleex_getoff_tex
 210	2999	水大砲	1101	砲弾発射	icon_items.q_arogonnmucus_tex
 210	2999	水大砲	1201	降りる	icon_skills.vehicleex_getoff_tex
@@ -107,9 +110,9 @@
 447	310	ハロウィン大砲	2101	カボチャ発射	icon_skills.vehicleex_att01_tex
 447	310	ハロウィン大砲	2102	カボチャ発射	icon_skills.vehicleex_att01_tex
 447	311	ハロウィン大砲	1201	降りる	icon_skills.vehicleex_getoff_tex
-447	311	ハロウィン大砲	2101	カボチャ発射	icon_skills.vehicleex_att01_tex
-447	311	ハロウィン大砲	2102	カボチャ発射	icon_skills.vehicleex_att01_tex
-450	5000	飛空艇	1101	出発	icon_skills.vehicle_drive_tex
+447	311	ハロウィン大砲	2101	固いカボチャ発射	icon_skills.vehicleex_att01_tex
+447	311	ハロウィン大砲	2102	固いカボチャ発射	icon_skills.vehicleex_att01_tex
+450	5000	飛空艇	1101	砲弾発射	icon_skills.vehicle_drive_tex
 450	5000	飛空艇	1201	降りる	icon_skills.vehicleex_getoff_tex
 453	500		1101	砲弾発射	icon_skills.vehicleex_att01_tex
 453	500		1201	降りる	icon_skills.vehicleex_getoff_tex
@@ -120,23 +123,23 @@
 643	4000	移動型砲台	1201	降りる	icon_skills.vehicleex_getoff_tex
 725	8041	大砲	1101	砲弾発射	icon_skills.vehicleex_att01_tex
 725	8041	大砲	1201	降りる	icon_skills.vehicleex_getoff_tex
-743	4000	移動型砲台	1101	砲弾発射	icon_skills.vehicleex_att01_tex
-743	4000	移動型砲台	1102	砲弾発射	icon_skills.vehicleex_att01_tex
+743	4000	移動型砲台	1101	出発	icon_skills.vehicleex_att01_tex
+743	4000	移動型砲台	1102	出発	icon_skills.vehicleex_att01_tex
 743	4000	移動型砲台	1201	降りる	icon_skills.vehicleex_getoff_tex
 885	885158	幻影の大砲	1101	砲弾発射	icon_skills.vehicleex_att01_tex
 885	885158	幻影の大砲	1201	降りる	icon_skills.vehicleex_getoff_tex
-950	2003		4120	連続発射	icon_status.shotarrowblindly_tex
-950	2003		4121	連続発射	icon_status.shotarrowblindly_tex
-950	2003		4130	矢の発射	icon_status.shotarrow_tex
-950	2003		4131	矢の発射	icon_status.shotarrow_tex
-950	2003		4160	緊急起動	icon_status.accelration_tex
+950	2003		4120	ロケット花火発射	icon_status.shotarrowblindly_tex
+950	2003		4121	ロケット花火発射	icon_status.shotarrowblindly_tex
+950	2003		4130	エネルギーボルト	icon_status.shotarrow_tex
+950	2003		4131	エネルギーボルト	icon_status.shotarrow_tex
+950	2003		4160	前転	icon_status.accelration_tex
 950	2003		4500	降りる	icon_status.vehicleex_getoff_tex
-950	2005	神界の巨大弓	4120	連続発射	icon_status.shotarrowblindly_tex
-950	2005	神界の巨大弓	4121	連続発射	icon_status.shotarrowblindly_tex
-950	2005	神界の巨大弓	4130	矢の発射	icon_status.shotarrow_tex
-950	2005	神界の巨大弓	4131	矢の発射	icon_status.shotarrow_tex
-950	2005	神界の巨大弓	4160	緊急起動	icon_status.accelration_tex
+950	2005	神界の巨大弓	4120	ロケット花火発射	icon_status.shotarrowblindly_tex
+950	2005	神界の巨大弓	4121	ロケット花火発射	icon_status.shotarrowblindly_tex
+950	2005	神界の巨大弓	4130	エネルギーボルト	icon_status.shotarrow_tex
+950	2005	神界の巨大弓	4131	エネルギーボルト	icon_status.shotarrow_tex
+950	2005	神界の巨大弓	4160	前転	icon_status.accelration_tex
 950	2005	神界の巨大弓	4500	降りる	icon_status.vehicleex_getoff_tex
-1023	3000007	連盟大砲	1101	砲弾発射	icon_skills.vehicleex_att01_tex
-1023	3000007	連盟大砲	1102	砲弾発射	icon_skills.vehicleex_att01_tex
-1023	3000007	連盟大砲	1201	降りる	icon_skills.vehicleex_getoff_tex
+1023	3000007	連盟大砲	1101	Fire Salvo	icon_skills.vehicleex_att01_tex
+1023	3000007	連盟大砲	1102	Fire Salvo	icon_skills.vehicleex_att01_tex
+1023	3000007	連盟大砲	1201	Dismount	icon_skills.vehicleex_getoff_tex
