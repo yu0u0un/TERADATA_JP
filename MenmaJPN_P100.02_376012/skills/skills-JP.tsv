@@ -13444,7 +13444,7 @@
 60411301	Common	Common	Common	アルガフの霊薬			icon_items.orb_of_dragonpower_tex
 60411302	Common	Common	Common	エクソドールコアの浄水			icon_status.godspell_tex
 60411303	Common	Common	Common	エクソドールコアの浄水			icon_status.godspell_tex
-60411304	Common	Common	Common	Kaia's Blessing			icon_status.godspell_tex
+60411304	Common	Common	Common	カイアの加護			icon_status.godspell_tex
 60411919	Common	Common	Common	ワラ玉転がし景品ボックス			icon_items.presentbox1_tex
 60411920	Common	Common	Common	ピグリン集め景品ボックス			icon_items.presentbox2_tex
 60411921	Common	Common	Common	カエルの卵			icon_items.homonegg5_tex
@@ -14526,7 +14526,7 @@
 98140000	Common	Common	Common	Menma's 勇敢な万能秘薬			icon_items.menma_brave_multinostrum
 98140001	Common	Common	Common	Darkan's Wings			icon_status.descentofdarkness_tex
 98140003	Common	Common	Common	Darkan's Black Wings			icon_status.descentofdarkness3_tex
-98140006	Common	Common	Common	移動呪文書：[Dimension] Hydrangea			icon_items.scroll_dot_protect_level_1_tex
+98140006	Common	Common	Common	移動呪文書：ハイドランジア			icon_items.scroll_dot_protect_level_1_tex
 98140007	Common	Common	Common	移動呪文書：第1軍駐屯地			icon_items.dungeon_recall_tex
 98140015	Common	Common	Common	移動呪文書：妖精池の釣り島			icon_items.dungeon_recall_tex
 98140016	Common	Common	Common	移動呪文書：空中庭園の釣り島			icon_items.dungeon_recall_tex
@@ -14536,7 +14536,7 @@
 98140020	Common	Common	Common	移動呪文書：ベルアーク庭園の釣り島			icon_items.dungeon_recall_tex
 98140050	Common	Common	Common	God of Fire's Wings			icon_status.wrathstormcompleted_tex
 98140052	Common	Common	Common	Devil's Wings			icon_status.darkriftdestroy_tex
-98140054	Common	Common	Common	Elinu's Floral Veil			icon_items.raw_flower1
+98140054	Common	Common	Common	女神エリーヌの守護			icon_items.raw_flower1
 98140055	Common	Common	Common	Ancient Dragon's Wings			icon_status.battlecommand04_tex
 98140057	Common	Common	Common	万能洗浄ポーション			icon_items.union_quickheal_tex
 98140060	Common	Common	Common	[Event] Icefish Bait			icon_items.worm01_tex
