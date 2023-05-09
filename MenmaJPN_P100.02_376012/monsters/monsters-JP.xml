@@ -16799,7 +16799,7 @@
 		<Monster name="セントリータワー I" id="30301001" isBoss="False" hp="36532" speciesId="0" />
 		<Monster name="セントリータワー II" id="30301002" isBoss="False" hp="56414" speciesId="0" />
 		<Monster name="セントリータワー III" id="30301003" isBoss="False" hp="90553" speciesId="0" />
-		<Monster name="セントリータワー IV" id="30301004" isBoss="False" hp="370954" speciesId="0" />
+		<Monster name="セントリータワー IV" id="30301004" isBoss="False" hp="9900000" speciesId="0" />
 		<Monster name="セントリータワー" id="30301005" isBoss="False" hp="0" speciesId="0" />
 		<Monster name="ディスペンサー I" id="30302001" isBoss="False" hp="7270" speciesId="0" />
 		<Monster name="ディスペンサー II" id="30302002" isBoss="False" hp="12509" speciesId="0" />

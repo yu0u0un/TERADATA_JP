@@ -838,7 +838,7 @@
 4952	AtkPotion	Buff	True	perc	0	0	1.12	Rookie's Fervor			与えるダメージが$H_W_GOOD12%$COLOR_END増加する.$BRダンジョンマッチングで受けた効果とは重複しない.	icon_status.plusattack_tex	icon_status.plusattack_tex	True
 4953	AtkPotion	Buff	True	perc	3600000	0	1.12	強化のポーション	150543	強化のポーション	攻撃力が$H_W_GOOD12％$COLOR_END上昇します。	icon_status.plusattack_tex	icon_status.plusattack_tex	True
 4954	Resurrect	Buff	True	seta	0	0	1	カイアの祝福			戦神カイアの祝福を受けて、死亡時にその場所でHP、MPが回復した状態で1回復活が可能です。	icon_skills.autoresurrect_tex	icon_skills.autoresurrect_tex	True
-4955	AtkPotion	Buff	True	perc	1800000	0	1.15	強化のポーション	150534	強化のポーション	攻撃力が$H_W_GOOD15％$COLOR_END上昇します。	icon_status.plusattack_tex	icon_status.plusattack_tex	True
+4955	AtkPotion	Buff	True	perc	1800000	0	1.15	強化のポーション	150534	強靭な強化のポーション	攻撃力が$H_W_GOOD15％$COLOR_END上昇します。	icon_status.plusattack_tex	icon_status.plusattack_tex	True
 4956	HPChange	Buff	True	perc	1000	1	0.15	イースターエッグのバスケット	151377	Chocolate Egg Basket	全HPの$H_W_GOOD15％$COLOR_ENDが即時に回復します。	icon_items.ricecake_tex	icon_items.ricecake_tex	False
 4957	HPChange	Buff	True	perc	1000	1	0.15	キューブバスケット			全HPの$H_W_GOOD15％$COLOR_ENDを即時に回復。	icon_items.sweetypumpkinpie_tex	icon_items.sweetypumpkinpie_tex	False
 5050	ReloadingSkill	Buff	True	swch	1	0	8008	懲罰の幕_クールタイム初期化			(ハイド)アースレイジ命中時、懲罰の幕クールタイム初期化	icon_ep.ep_cooltime_restart_tex	icon_ep.ep_cooltime_restart_tex	False
@@ -9668,11 +9668,12 @@
 91900011	Endurance	Buff	True	perc	100	0	1	PvP Resurrection Cuckery			We're removing your buffs. Don't be too salty about it.	icon_items.enchantsource2_tex	icon_items.enchantsource2_tex	True
 91900012	Endurance	Buff	True	perc	100	0	1	PvP Resurrection Cuckery			We're removing your buffs. Don't be too salty about it.	icon_items.enchantsource2_tex	icon_items.enchantsource2_tex	True
 91900013	Endurance	Buff	True	perc	100	0	1	PvP Resurrection Cuckery			We're removing your buffs. Don't be too salty about it.	icon_items.enchantsource2_tex	icon_items.enchantsource2_tex	True
-91900017	BuffNearbyParty	Buff	True	seta	20000	3	91900020	バトルウィル				icon_skills.fightingwill_tex	icon_skills.fightingwill_tex	False
+91900017	BuffNearbyParty	Buff	True	seta	20000	3	91900020	バトルウィル II				icon_skills.fightingwill_tex	icon_skills.fightingwill_tex	False
 91900019	Endurance	Buff	True	perc	100	0	1	PvP Resurrection Cuckery			We're removing your buffs. Don't be too salty about it.	icon_items.enchantsource2_tex	icon_items.enchantsource2_tex	True
 91900020	AtkPotion	Buff	True	perc	0	0	0.86	PvP Damage decrease			Decrease PvP damage by 14%.	icon_skills.sp_attack1_tex	icon_skills.sp_attack1_tex	True
 91900021	MovSpd	Debuff	False	setp	3000	0	0.85	Scattershot			Decreases Movement Speed by $H_W_BAD15%$COLOR_END.	icon_status.minusmove_tex	icon_status.minusmove_tex	True
 91900021	HPDrain	Debuff	False	perc	3000	0	0.9	Scattershot			Decreases Movement Speed by $H_W_BAD15%$COLOR_END.	icon_status.minusmove_tex	icon_status.minusmove_tex	True
+91900022	AtkPotion	Buff	True	perc	20000	0	0.86	バトルウィル II			Decrease PvP damage by 14%.	icon_skills.fightingwill_tex	icon_skills.fightingwill_tex	True
 91900200	MovSpd	Buff	True	perc	15000	0	1.3	Christmas wind			You have additional speed.	icon_status.lightweight_tex	icon_status.lightweight_tex	True
 91900201	AllowAggro	Buff	True	swch	10000	0	0	Christmas Eve			You have ability to steal some gifts.	icon_skills.seduction_tex	icon_skills.seduction_tex	True
 91900201	Visibility	Buff	True	swch	10000	0	0	Christmas Eve			You have ability to steal some gifts.	icon_skills.seduction_tex	icon_skills.seduction_tex	True
@@ -10968,10 +10969,10 @@
 303800003	HPChange	Debuff	False	perc	0	1	-0.33	カイアの激怒			[英語名] Kaia's fury $BR時間経過とともにHPが急激に減少する。	icon_status.orangeaura_tex	icon_status.orangeaura_tex	True
 303900001	CritPower	Buff	True	abs	1200000	0	-3	セレンの穏やかな旋律	282142	女神エリーヌの守護	[英語名] Seren's Calm Melody $BRセレンの庭園の神秘的なエネルギーが活動している間はダメージを受けない。.<br>セレンは平和的であることが知られており、その結果、あなたのクリティカル威力は3減少する。	icon_items.raw_flower1	icon_items.raw_flower1	True
 303900001	371	Buff	True	seta	1200000	966	1	セレンの穏やかな旋律	282142	女神エリーヌの守護	[英語名] Seren's Calm Melody $BRセレンの庭園の神秘的なエネルギーが活動している間はダメージを受けない。.<br>セレンは平和的であることが知られており、その結果、あなたのクリティカル威力は3減少する。	icon_items.raw_flower1	icon_items.raw_flower1	True
-303900002	DelayedEffect	Debuff	False	seta	10000	0	303900003	セレンの叫び声			[英語名] Seren's Shriek $BR謎の強力なエネルギーにさらされ、10秒後に死にます。 $BR死なないようにするには、<font color = '#F9B600'>Elinu's Floral Veil</font>を使用する必要があります..	icon_status.yellowaura_tex	icon_status.yellowaura_tex	True
-303900002	330	Debuff	False	swch	10000	0	0	セレンの叫び声			[英語名] Seren's Shriek $BR謎の強力なエネルギーにさらされ、10秒後に死にます。 $BR死なないようにするには、<font color = '#F9B600'>Elinu's Floral Veil</font>を使用する必要があります..	icon_status.yellowaura_tex	icon_status.yellowaura_tex	True
-303900002	331	Debuff	False	swch	10000	0	0	セレンの叫び声			[英語名] Seren's Shriek $BR謎の強力なエネルギーにさらされ、10秒後に死にます。 $BR死なないようにするには、<font color = '#F9B600'>Elinu's Floral Veil</font>を使用する必要があります..	icon_status.yellowaura_tex	icon_status.yellowaura_tex	True
-303900003	HPChange	Debuff	False	perc	0	1	-0.33	大自然の怒り			[英語名] Wrath of Nature $BR時間経過とともにHPが急速に減少する.	icon_status.orangeaura_tex	icon_status.orangeaura_tex	True
+303900002	DelayedEffect	Debuff	False	seta	500	0	303900003	セレンの叫び声			[英語名] Seren's Shriek $BR謎の強力なエネルギーにさらされ、10秒後に死にます。 $BR死なないようにするには、<font color = '#F9B600'>Elinu's Floral Veil</font>を使用する必要があります..	icon_status.yellowaura_tex	icon_status.yellowaura_tex	True
+303900002	330	Debuff	False	swch	500	0	0	セレンの叫び声			[英語名] Seren's Shriek $BR謎の強力なエネルギーにさらされ、10秒後に死にます。 $BR死なないようにするには、<font color = '#F9B600'>Elinu's Floral Veil</font>を使用する必要があります..	icon_status.yellowaura_tex	icon_status.yellowaura_tex	True
+303900002	331	Debuff	False	swch	500	0	0	セレンの叫び声			[英語名] Seren's Shriek $BR謎の強力なエネルギーにさらされ、10秒後に死にます。 $BR死なないようにするには、<font color = '#F9B600'>Elinu's Floral Veil</font>を使用する必要があります..	icon_status.yellowaura_tex	icon_status.yellowaura_tex	True
+303900003	HPChange	Debuff	False	perc	0	1	-0.9	大自然の怒り			[英語名] Wrath of Nature $BR時間経過とともにHPが急速に減少する.	icon_status.orangeaura_tex	icon_status.orangeaura_tex	True
 950700002	Stun	Stun	True	swch	10000	0	5	瀕死			ケマルデアの攻撃で瀕死状態になりました。	icon_status.exhaustion_tex	icon_status.exhaustion_tex	True
 950800003	HPChange	Buff	True	perc	0	3	0.03	ミステルの加護			ミステルの加護でHP、MPが持続回復され、覚醒スキルのクールタイムが減少します。	icon_skills.moonlight_tex	icon_skills.moonlight_tex	True
 950800003	MPChange	Buff	True	perc	0	3	0.03	ミステルの加護			ミステルの加護でHP、MPが持続回復され、覚醒スキルのクールタイムが減少します。	icon_skills.moonlight_tex	icon_skills.moonlight_tex	True
@@ -11043,7 +11044,7 @@
 999001036	ASpd	Buff	True	perc	20000	0	1.12	古竜の降臨	51028	古竜のブローチ	古竜の力が宿りました。力$H_W_GOOD30$COLOR_END、クリティカル発生$H_W_GOOD30$COLOR_END、攻撃速度が$H_W_GOOD12%$COLOR_END 向上します。	icon_items.brooch_vergos_tex	icon_items.brooch_vergos_tex	True
 999001036	Block	Buff	True	swch	20000	0	0	古竜の降臨	51028	古竜のブローチ	古竜の力が宿りました。力$H_W_GOOD30$COLOR_END、クリティカル発生$H_W_GOOD30$COLOR_END、攻撃速度が$H_W_GOOD12%$COLOR_END 向上します。	icon_items.brooch_vergos_tex	icon_items.brooch_vergos_tex	True
 999001037	Block	Buff	True	swch	20000	0	0	古竜の降臨			古竜の力が宿りました。力$H_W_GOOD30$COLOR_END、クリティカル発生$H_W_GOOD30$COLOR_END、攻撃速度が$H_W_GOOD12%$COLOR_END 向上します。	icon_items.brooch_vergos_tex	icon_items.brooch_vergos_tex	False
-999001038	190	Buff	True	swch	20000	0	1	老兵クロアスの徽章	20161	老兵クロアスの徽章				False
+999001038	190	Buff	True	swch	20000	0	1	古竜のブローチ	51028	古竜のブローチ				False
 999001039	190	Buff	True	swch	20000	0	1	ベルセルク			怒りが頂点に達し暴走状態に入ります。ベルセルクスキル以外のスキル、アイテムが使用できなくなります。	icon_skills.rage2_tex	icon_skills.rage2_tex	False
 999001040	XPBoost	Buff	True	perc	7200000	0	3	成長の楽しさ（経験値+200%）			パーティーの人数が多いほど、獲得経験値が上昇します。	icon_skills.guildskill1_level2_tex	icon_skills.guildskill1_level2_tex	True
 999001041	XPBoost	Buff	True	perc	7200000	0	5	成長の楽しさ（経験値+400%）			パーティーの人数が多いほど、獲得経験値が上昇します。	icon_skills.guildskill1_level3_tex	icon_skills.guildskill1_level3_tex	True
@@ -11052,10 +11053,10 @@
 999001044	Power	Buff	True	abs	20000	0	30	燦爛たる女神の加護	51029	燦爛たる胸飾り	燦爛たる女神の加護が感じられます。力$H_W_GOOD30$COLOR_END、クリティカル発生$H_W_GOOD30$COLOR_END、攻撃速度$H_W_GOOD12%$COLOR_END上昇します。	icon_items.parts_magicweaponc8_tex	icon_items.parts_magicweaponc8_tex	True
 999001044	Crit	Buff	True	abs	20000	0	30	燦爛たる女神の加護	51029	燦爛たる胸飾り	燦爛たる女神の加護が感じられます。力$H_W_GOOD30$COLOR_END、クリティカル発生$H_W_GOOD30$COLOR_END、攻撃速度$H_W_GOOD12%$COLOR_END上昇します。	icon_items.parts_magicweaponc8_tex	icon_items.parts_magicweaponc8_tex	True
 999001044	ASpd	Buff	True	perc	20000	0	1.12	燦爛たる女神の加護	51029	燦爛たる胸飾り	燦爛たる女神の加護が感じられます。力$H_W_GOOD30$COLOR_END、クリティカル発生$H_W_GOOD30$COLOR_END、攻撃速度$H_W_GOOD12%$COLOR_END上昇します。	icon_items.parts_magicweaponc8_tex	icon_items.parts_magicweaponc8_tex	True
-999001045	Power	Buff	True	abs	20000	0	30	悪竜の邪悪な気運	20161	老兵クロアスの徽章	悪竜の邪悪な気運が感じられます。力$H_W_GOOD30$COLOR_END、クリティカル発生$H_W_GOOD30$COLOR_END、攻撃速度$H_W_GOOD12%$COLOR_END上昇します。	icon_items.brooch_vergos_tex	icon_items.brooch_vergos_tex	True
-999001045	Crit	Buff	True	abs	20000	0	30	悪竜の邪悪な気運	20161	老兵クロアスの徽章	悪竜の邪悪な気運が感じられます。力$H_W_GOOD30$COLOR_END、クリティカル発生$H_W_GOOD30$COLOR_END、攻撃速度$H_W_GOOD12%$COLOR_END上昇します。	icon_items.brooch_vergos_tex	icon_items.brooch_vergos_tex	True
-999001045	ASpd	Buff	True	perc	20000	0	1.12	悪竜の邪悪な気運	20161	老兵クロアスの徽章	悪竜の邪悪な気運が感じられます。力$H_W_GOOD30$COLOR_END、クリティカル発生$H_W_GOOD30$COLOR_END、攻撃速度$H_W_GOOD12%$COLOR_END上昇します。	icon_items.brooch_vergos_tex	icon_items.brooch_vergos_tex	True
-999001045	Block	Buff	True	swch	20000	0	0	悪竜の邪悪な気運	20161	老兵クロアスの徽章	悪竜の邪悪な気運が感じられます。力$H_W_GOOD30$COLOR_END、クリティカル発生$H_W_GOOD30$COLOR_END、攻撃速度$H_W_GOOD12%$COLOR_END上昇します。	icon_items.brooch_vergos_tex	icon_items.brooch_vergos_tex	True
+999001045	Power	Buff	True	abs	20000	0	30	悪竜の邪悪な気運	51030	悪竜の胸飾り	悪竜の邪悪な気運が感じられます。力$H_W_GOOD30$COLOR_END、クリティカル発生$H_W_GOOD30$COLOR_END、攻撃速度$H_W_GOOD12%$COLOR_END上昇します。	icon_items.brooch_vergos_tex	icon_items.brooch_vergos_tex	True
+999001045	Crit	Buff	True	abs	20000	0	30	悪竜の邪悪な気運	51030	悪竜の胸飾り	悪竜の邪悪な気運が感じられます。力$H_W_GOOD30$COLOR_END、クリティカル発生$H_W_GOOD30$COLOR_END、攻撃速度$H_W_GOOD12%$COLOR_END上昇します。	icon_items.brooch_vergos_tex	icon_items.brooch_vergos_tex	True
+999001045	ASpd	Buff	True	perc	20000	0	1.12	悪竜の邪悪な気運	51030	悪竜の胸飾り	悪竜の邪悪な気運が感じられます。力$H_W_GOOD30$COLOR_END、クリティカル発生$H_W_GOOD30$COLOR_END、攻撃速度$H_W_GOOD12%$COLOR_END上昇します。	icon_items.brooch_vergos_tex	icon_items.brooch_vergos_tex	True
+999001045	Block	Buff	True	swch	20000	0	0	悪竜の邪悪な気運	51030	悪竜の胸飾り	悪竜の邪悪な気運が感じられます。力$H_W_GOOD30$COLOR_END、クリティカル発生$H_W_GOOD30$COLOR_END、攻撃速度$H_W_GOOD12%$COLOR_END上昇します。	icon_items.brooch_vergos_tex	icon_items.brooch_vergos_tex	True
 999001046	XPBoost	Buff	True	setp	7200000	0	1.5	成長の楽しさ（経験値1.5倍）			パーティーの人数が多いほど、獲得経験値が上昇します。<br><br>2人 : 1.5倍<br>3人 : 1.9倍	icon_skills.guildskill1_level2_tex	icon_skills.guildskill1_level2_tex	True
 999001047	XPBoost	Buff	True	setp	7200000	0	1.9	成長の楽しさ（経験値1.9倍）			パーティーの人数が多いほど、獲得経験値が上昇します。<br><br>2人 : 1.5倍<br>3人 : 1.9倍	icon_skills.guildskill1_level3_tex	icon_skills.guildskill1_level3_tex	True
 999001048	XPBoost	Buff	True	setp	7200000	0	1.666667	エンジョイパーティー！			獲得する経験値が、パーティーメンバーの数によって変動しません。	icon_skills.guildskill1_level1_tex	icon_skills.guildskill1_level1_tex	True

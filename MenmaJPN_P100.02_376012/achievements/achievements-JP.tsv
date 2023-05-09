@@ -11785,6 +11785,16 @@
 540051003	Use the Lucky Title Token.
 540051004	Valkyon Federation
 540051005	Lucky
+549998001	Menma's Platform Manager
+549998002	Awarded to the currently serving members of Menma's TERA Team!
+549998003	Awarded to the currently serving members of Menma's TERA Team!
+549998011	Become Menma's TERA Platform Manager
+549998501	Platform Manager
+549999001	Menma's Operations Manager
+549999002	Awarded to the currently serving members of Menma's TERA Team!
+549999003	Awarded to the currently serving members of Menma's TERA Team!
+549999011	Become Menma's TERA Operation Manager
+549999501	Operations Manager
 550000001	Menma's Content Lead
 550000002	Awarded to the currently serving members of Menma's TERA Team!
 550000003	Awarded to the currently serving members of Menma's TERA Team!
@@ -11842,6 +11852,7 @@
 550012002	Earned first rank in Shore Hold.
 550012003	Earned first rank in Shore Hold.
 550012004	Valkyon Federation
+550012005	Earned first rank in Shore Hold:
 550013001	Shoreline Tactician
 550013002	Earned first rank in Shore Hold 10 times.
 550013003	Earned first rank in Shore Hold 10 times.
@@ -11864,7 +11875,6 @@
 550017003	Earned first rank in Shore Hold 200 times.
 550017004	Valkyon Federation
 550017005	Unrivaled on the Beach
-550017005	Earned first rank in Shore Hold:
 550018001	Its a Turtle, Not a Tortoise!
 550018002	Defeated Seashore Turtle 10 times in Shore Hold.
 550018003	Defeated Seashore Turtle 10 times in Shore Hold.
@@ -11892,16 +11902,16 @@
 550023003	Use the Black Pearl Title Token.
 550023004	Valkyon Federation
 550023005	Black Pearl
-550024001	Mercenery
-550024002	Use the Mercenery Title Token.
-550024003	Use the Mercenery Title Token.
+550024001	Mercenary
+550024002	Use the Mercenary Title Token.
+550024003	Use the Mercenary Title Token.
 550024004	Valkyon Federation
-550024005	Mercenery
-550025001	Three's Crowd
-550025002	Use the Three's Crowd Title Token.
-550025003	Use the Three's Crowd Title Token.
+550024005	Mercenary
+550025001	Three’s A Crowd
+550025002	Use the Three’s A Crowd Title Token.
+550025003	Use the Three’s A Crowd Title Token.
 550025004	Valkyon Federation
-550025005	Three's Crowd
+550025005	Three’s A Crowd
 550026001	Legion
 550026002	Use the Legion Title Token.
 550026003	Use the Legion Title Token.
@@ -11979,3 +11989,5 @@
 800000050	Azuki
 800000051	Monachopsis
 800000052	Infamous
+800000053	Liebe Mich
+800000054	Ignorant
