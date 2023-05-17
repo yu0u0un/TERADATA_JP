@@ -18963,20 +18963,20 @@
 		<Monster name="エレメンタリストバフ魔石" id="7002" isBoss="False" hp="0" speciesId="0" />
 	</Zone>
 	<Zone id="3038" name="Hydrangea" >
-		<Monster name="Varraz" id="1000" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="Teechand" id="1001" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="Dakur" id="1002" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="Ferukol" id="1003" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="Arun's Flower" id="8000" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="Arun's Flower" id="8001" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="Arun's Flower" id="8002" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="Seren's Garden Teleportal" id="9980" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="Monarch Guard" id="9992" isBoss="False" hp="53904618" speciesId="0" />
-		<Monster name="Murderwing Guard" id="9993" isBoss="False" hp="53904618" speciesId="0" />
-		<Monster name="Murderwing Guard" id="9994" isBoss="False" hp="53904618" speciesId="0" />
-		<Monster name="Abandoned Book" id="9997" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="Summoned Portal" id="9998" isBoss="False" hp="615" speciesId="0" />
-		<Monster name="Broken Seal" id="9999" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="ヴァーラズ" id="1000" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="ティーチャンド" id="1001" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="ダクル" id="1002" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="フェルコル" id="1003" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="アルンの花" id="8000" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="アルンの花" id="8001" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="アルンの花" id="8002" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="セレンの庭園 次元の魔法石" id="9980" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="パルプリンセス ガード" id="9992" isBoss="False" hp="53904618" speciesId="0" />
+		<Monster name="パルプリンセス ガード" id="9993" isBoss="False" hp="53904618" speciesId="0" />
+		<Monster name="パルプ ガード" id="9994" isBoss="False" hp="53904618" speciesId="0" />
+		<Monster name="捨てられた本" id="9997" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="次元の門" id="9998" isBoss="False" hp="615" speciesId="0" />
+		<Monster name="次元の門" id="9999" isBoss="False" hp="10000" speciesId="0" />
 	</Zone>
 	<Zone id="3039" name="Seren's Garden" >
 		<Monster name="Exit Teleportal" id="1501" isBoss="False" hp="10000" speciesId="0" />
