@@ -5803,7 +5803,7 @@
 		<Monster name="Frygaras" id="7002" isBoss="True" hp="737685828" speciesId="0" />
 		<Monster name="Sabranak" id="7003" isBoss="True" hp="737685828" speciesId="0" />
 	</Zone>
-	<Zone id="154" name="Civil Unrest: Island of Dawn" >
+	<Zone id="154" name="黎明の島：戦乱の時代" >
 		<Monster name="Lavathus" id="1001" isBoss="True" hp="350000000" speciesId="0" />
 		<Monster name="Drakhan" id="1002" isBoss="True" hp="350000000" speciesId="0" />
 		<Monster name="Kaithan" id="1003" isBoss="True" hp="350000000" speciesId="0" />
@@ -18916,7 +18916,7 @@
 		<Monster name="アルガフの幻影" id="1007" isBoss="False" hp="27448770" speciesId="0" />
 		<Monster name="Burst RK-9" id="7000" isBoss="False" hp="0" speciesId="0" />
 	</Zone>
-	<Zone id="3036" name="Sky Cruiser Endeavor (Hard)" >
+	<Zone id="3036" name="暴風のエルカラス号 (ハード)" >
 		<Monster name="【ボス】次元の魔法石を通じて烈風のエルカラス号に移動後、暴走したダルカンを討伐せよ" id="914" isBoss="False" hp="0" speciesId="0" />
 		<Monster name="暴走したダルカン" id="1000" isBoss="True" hp="38255229568" speciesId="10" />
 		<Monster name="ダルカン" id="1001" isBoss="True" hp="22098264375" speciesId="10" />
@@ -18962,7 +18962,7 @@
 		<Monster name="プリーストバフ魔石" id="7001" isBoss="False" hp="0" speciesId="0" />
 		<Monster name="エレメンタリストバフ魔石" id="7002" isBoss="False" hp="0" speciesId="0" />
 	</Zone>
-	<Zone id="3038" name="Hydrangea" >
+	<Zone id="3038" name="ハイドランジア" >
 		<Monster name="ヴァーラズ" id="1000" isBoss="False" hp="10000" speciesId="0" />
 		<Monster name="ティーチャンド" id="1001" isBoss="False" hp="10000" speciesId="0" />
 		<Monster name="ダクル" id="1002" isBoss="False" hp="10000" speciesId="0" />
@@ -18978,12 +18978,12 @@
 		<Monster name="次元の門" id="9998" isBoss="False" hp="615" speciesId="0" />
 		<Monster name="次元の門" id="9999" isBoss="False" hp="10000" speciesId="0" />
 	</Zone>
-	<Zone id="3039" name="Seren's Garden" >
+	<Zone id="3039" name="セレンの庭園" >
 		<Monster name="Exit Teleportal" id="1501" isBoss="False" hp="10000" speciesId="0" />
 		<Monster name="Elinu's Blessing" id="6004" isBoss="False" hp="0" speciesId="0" />
 		<Monster name="Titania" id="9999" isBoss="False" hp="10000" speciesId="0" />
 	</Zone>
-	<Zone id="3040" name="Scorching Sky Cruiser Endeavor" >
+	<Zone id="3040" name="烈風のエルカラス号" >
 		<Monster name="Confront Perimos" id="911" isBoss="False" hp="0" speciesId="0" />
 		<Monster name="Kill the Monsters" id="912" isBoss="False" hp="0" speciesId="0" />
 		<Monster name="Defeat Perimos" id="913" isBoss="False" hp="0" speciesId="0" />
@@ -19024,7 +19024,7 @@
 		<Monster name="Dougal's Escort" id="99903" isBoss="False" hp="91545" speciesId="0" />
 		<Monster name="Soldier" id="99904" isBoss="False" hp="91545" speciesId="0" />
 	</Zone>
-	<Zone id="3060" name="Hall of the Argon Queen (Hard)" >
+	<Zone id="3060" name="シャンドラ・マナイア (ハード)" >
 		<Monster name="Exit Teleportal" id="1501" isBoss="False" hp="10000" speciesId="0" />
 		<Monster name="Hall of Argon Queen Teleportal" id="1502" isBoss="False" hp="10000" speciesId="0" />
 		<Monster name="Nightmare Shandra Manaya" id="2001" isBoss="True" hp="4500000000" speciesId="2" />
@@ -19089,7 +19089,7 @@
 		<Monster name="次元の魔法石" id="1502" isBoss="False" hp="10000" speciesId="0" />
 		<Monster name="捨てられた本" id="6000" isBoss="False" hp="10000" speciesId="0" />
 	</Zone>
-	<Zone id="3104" name="Lumikan" >
+	<Zone id="3104" name="ルクミアの幻夢" >
 		<Monster name="ルクミアを討伐せよ" id="100" isBoss="False" hp="0" speciesId="0" />
 		<Monster name="ルクミア" id="1000" isBoss="False" hp="0" speciesId="0" />
 		<Monster name="次元の魔法石" id="1503" isBoss="False" hp="0" speciesId="0" />
@@ -19167,7 +19167,7 @@
 		<Monster name="ほら穴" id="5007" isBoss="False" hp="0" speciesId="0" />
 		<Monster name="ほら穴" id="5008" isBoss="False" hp="0" speciesId="0" />
 	</Zone>
-	<Zone id="3110" name="Forbidden Arena" >
+	<Zone id="3110" name="狂気のコロシアム" >
 		<Monster name="Defeat Ur." id="100" isBoss="False" hp="0" speciesId="0" />
 		<Monster name="Ur" id="1000" isBoss="True" hp="28000000000" speciesId="0" />
 		<Monster name="Exit Teleportal" id="1502" isBoss="False" hp="10000" speciesId="0" />
@@ -19220,7 +19220,7 @@
 		<Monster name="次元の魔法石" id="1503" isBoss="False" hp="10000" speciesId="0" />
 		<Monster name="次元の魔法石" id="1504" isBoss="False" hp="10000" speciesId="0" />
 	</Zone>
-	<Zone id="3203" name="Forbidden Arena" >
+	<Zone id="3203" name="狂気のコロシアム" >
 		<Monster name="不滅の闘神を討伐せよ" id="100" isBoss="False" hp="0" speciesId="0" />
 		<Monster name="不滅の闘神" id="1000" isBoss="True" hp="60000000000" speciesId="0" />
 		<Monster name="不滅の闘神" id="1001" isBoss="True" hp="20089331250" speciesId="0" />
@@ -19229,7 +19229,7 @@
 		<Monster name="次元の魔法石" id="1502" isBoss="False" hp="10000" speciesId="0" />
 		<Monster name="捨てられた本" id="6000" isBoss="False" hp="10000" speciesId="0" />
 	</Zone>
-	<Zone id="3204" name="Lumikan" >
+	<Zone id="3204" name="残酷なルクミアの幻夢" >
 		<Monster name="ルクミアを討伐せよ" id="100" isBoss="False" hp="0" speciesId="0" />
 		<Monster name="悪夢の主ルクミア" id="1000" isBoss="False" hp="10000000000" speciesId="0" />
 		<Monster name="悪夢の痕跡" id="1021" isBoss="False" hp="0" speciesId="0" />
