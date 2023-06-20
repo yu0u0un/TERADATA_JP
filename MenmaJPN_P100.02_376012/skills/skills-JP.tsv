@@ -14526,14 +14526,14 @@
 98140000	Common	Common	Common	Menma's 勇敢な万能秘薬			icon_items.menma_brave_multinostrum
 98140001	Common	Common	Common	Darkan's Wings			icon_status.descentofdarkness_tex
 98140003	Common	Common	Common	Darkan's Black Wings			icon_status.descentofdarkness3_tex
-98140006	Common	Common	Common	移動呪文書：ハイドランジア			icon_items.scroll_dot_protect_level_1_tex
-98140007	Common	Common	Common	移動呪文書：第1軍駐屯地			icon_items.dungeon_recall_tex
-98140015	Common	Common	Common	移動呪文書：妖精池の釣り島			icon_items.dungeon_recall_tex
-98140016	Common	Common	Common	移動呪文書：空中庭園の釣り島			icon_items.dungeon_recall_tex
-98140017	Common	Common	Common	移動呪文書：雲湖水島			icon_items.dungeon_recall_tex
-98140018	Common	Common	Common	移動呪文書：ビリディアンの釣り島			icon_items.dungeon_recall_tex
-98140019	Common	Common	Common	移動呪文書：アルガフ養殖場			icon_items.dungeon_recall_tex
-98140020	Common	Common	Common	移動呪文書：ベルアーク庭園の釣り島			icon_items.dungeon_recall_tex
+98140006	Common	Common	Common	移動呪文書:ハイドランジア			icon_items.scroll_dot_protect_level_1_tex
+98140007	Common	Common	Common	移動呪文書:第1軍駐屯地			icon_items.dungeon_recall_tex
+98140015	Common	Common	Common	移動呪文書:妖精池の釣り島			icon_items.dungeon_recall_tex
+98140016	Common	Common	Common	移動呪文書:空中庭園の釣り島			icon_items.dungeon_recall_tex
+98140017	Common	Common	Common	移動呪文書:雲湖水島			icon_items.dungeon_recall_tex
+98140018	Common	Common	Common	移動呪文書:ビリディアンの釣り島			icon_items.dungeon_recall_tex
+98140019	Common	Common	Common	移動呪文書:アルガフ養殖場			icon_items.dungeon_recall_tex
+98140020	Common	Common	Common	移動呪文書:ベルアーク庭園の釣り島			icon_items.dungeon_recall_tex
 98140050	Common	Common	Common	God of Fire's Wings			icon_status.wrathstormcompleted_tex
 98140052	Common	Common	Common	Devil's Wings			icon_status.darkriftdestroy_tex
 98140054	Common	Common	Common	女神エリーヌの守護			icon_items.raw_flower1

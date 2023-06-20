@@ -6499,7 +6499,7 @@
 		<Monster name="タクルム・ドンカン" id="9999" isBoss="False" hp="10000" speciesId="0" />
 		<Monster name="鉱物収集家ミネルン" id="20000" isBoss="False" hp="10000" speciesId="0" />
 		<Monster name="結晶取集商人" id="20050" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="Berryl" id="20090" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="ベリル" id="20090" isBoss="False" hp="10000" speciesId="0" />
 		<Monster name="ネネルン" id="200000" isBoss="False" hp="10000" speciesId="0" />
 		<Monster name="ジェリリン" id="200002" isBoss="False" hp="10000" speciesId="0" />
 		<Monster name="マスルン" id="200003" isBoss="False" hp="10000" speciesId="0" />
