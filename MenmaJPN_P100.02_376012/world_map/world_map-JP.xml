@@ -65,6 +65,10 @@
       <Section id="72" mapId="WMap_DG_PIC_2F" nameId="11010" type="dungeon" />
       <Section id="73" mapId="WMap_DG_PIC_B1F" nameId="11015" type="dungeon" />
     </Guard>
+    <Guard id="7" mapId="WMap_ACN_Guard" nameId="207" continentId="7006">
+      <Section id="4" mapId="WMap_ACN_Field" nameId="1001" />
+      <Section id="58" mapId="WMap_ACN_Vill_01" nameId="1002" />
+    </Guard>
     <Guard id="10" mapId="WMap_AL_Guard" nameId="210" continentId="2">
       <Section id="101" mapId="WMap_AL_City" nameId="72001" />
       <Section id="102" mapId="WMap_AL_Field_01" nameId="72002" />
@@ -177,6 +181,9 @@
     <Guard id="28" mapId="" nameId="154" continentId="0">
       <Section id="72" mapId="WMap_ATW_Death_Field_CU" nameId="154" />
     </Guard>
+    <Guard id="29" mapId="" nameId="159" continentId="0">
+      <Section id="1" mapId="WMap_ASW_Field_02_CU" nameId="159" />
+    </Guard>
   </World>
   <World id="8888" mapId="" nameId="0">
     <Guard id="60" mapId="" nameId="260" continentId="116">
@@ -193,7 +200,6 @@
       <Section id="912" mapId="WMap_BF_FreeFight" nameId="118001" />
       <Section id="913" mapId="WMap_BF_Honor" nameId="118002" />
       <Section id="915" mapId="WMap_DG_BF_NewBattle" nameId="156" />
-      <Section id="916" mapId="WMap_DG_BF_NewBattle" nameId="157" />
     </Guard>
   </World>
   <World id="9999" mapId="" nameId="0">
@@ -236,7 +242,6 @@
       <Section id="9019" mapId="WMap_DG_AX2" nameId="9019001" />
       <Section id="9020" mapId="WMap_DG_ANC_A_SD" nameId="9020001" />
       <Section id="9090" mapId="WMap_DG_ANC_A" nameId="9090001" />
-      <Section id="9710" mapId="WMap_DG_Lakan_Twisted" nameId="9710001" type="dungeon" />
       <Section id="9713" mapId="EX_Ghillian_SD" nameId="9713001" />
     </Guard>
     <Guard id="4" mapId="" nameId="0" continentId="9088">
@@ -326,7 +331,6 @@
       <Section id="3027" mapId="WMap_DG_Colosseum" nameId="3027001" type="dungeon" />
       <Section id="3103" mapId="WMap_DG_Gaun_Traning" nameId="3103001" type="dungeon" />
       <Section id="3203" mapId="WMap_LDG_Gaun_Traning" nameId="3203001" type="dungeon" />
-      <Section id="3110" mapId="WMap_DG_Colosseum" nameId="3110001" type="dungeon" />
     </Guard>
     <Guard id="12" mapId="" nameId="0" continentId="9071">
       <Section id="626" mapId="WMap_DG_SD_06" nameId="9071001" type="dungeon" />
@@ -405,6 +409,7 @@
       <Section id="90271" mapId="WMap_SWC_SD_02CH" nameId="9027002" />
       <Section id="3060" mapId="WMap_SWC_SD_02BH" nameId="3060001" />
       <Section id="30601" mapId="WMap_SWC_SD_02CH" nameId="3060002" />
+      <Section id="9034" mapId="WMap_DG_SD_08_DS" nameId="9034" type="dungeon" />
     </Guard>
     <Guard id="23" mapId="" nameId="0" continentId="0">
       <Section id="3024" mapId="WMap_DG_EX_Guladsh_SD" nameId="3024" type="dungeon" />
@@ -460,7 +465,7 @@
       <Section id="30362" mapId="WMap_DG_Airship_Ext_Hard" nameId="3036001" type="dungeon" />
       <Section id="3040" mapId="WMap_DG_Airship_1F2F" nameId="3040001" type="dungeon" />
       <Section id="30401" mapId="WMap_DG_Airship_3F" nameId="3040001" type="dungeon" />
-      <Section id="30402" mapId="WMap_DG_Airship_Ext" nameId="3040001" type="dungeon" />
+      <Section id="30402" mapId="WMap_DG_Airship_Ext_scorched" nameId="3040001" type="dungeon" />
     </Guard>
     <Guard id="25" mapId="" nameId="0" continentId="9827">
       <Section id="9827" mapId="WMap_A_Island_02" nameId="599001" type="dungeon" />

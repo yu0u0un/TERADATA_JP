@@ -6986,6 +6986,10 @@
 211141	Common	Common	Common	ユニコーン召喚			icon_skills.unicon_tex
 211145	Common	Common	Common	死魔戦馬召喚			icon_skills.vehicle_horse_undead_tex
 211150	Common	Common	Common	雪豹召喚			icon_skills.trans_snowleopard_tex
+280214	Common	Common	Common	【召喚】力の旗			icon_items.scroll_dot_protect_level_1_tex
+280215	Common	Common	Common	【召喚】耐久力の旗			icon_items.scroll_dot_protect_level_1_tex
+280216	Common	Common	Common	【召喚】鉄の守護者			icon_items.scroll_dot_protect_level_1_tex
+280217	Common	Common	Common	【召喚】柵			icon_skills.guildskills_basehp_tex
 900001	Common	Common	Common	古代軍馬召喚			icon_skills.vehicle_horse_red_tex
 1000000	Common	Common	Common	30% Gold Hunter Boost (1 Hour)			icon_items.f2p_dropgoldbooster_tex
 1000001	Common	Common	Common	30% Quester's Gold Boost (1 Hour)			icon_items.f2p_questrewardbooster_tex
@@ -8557,7 +8561,7 @@
 13600283	Common	Common	Common	【8周年】守護者のレコードボックス			icon_items.gold_kaia_presentbox_tex
 13600284	Common	Common	Common	【8周年】守護者のレコードボックス			icon_items.gold_kaia_presentbox_tex
 13600285	Common	Common	Common	【8周年】守護者のレコードボックス			icon_items.gold_kaia_presentbox_tex
-13600287	Common	Common	Common	生態系保護活動家の証			icon_items.chronoscroll_tex
+13600287	Common	Common	Common	生態系保護活動家の証			icon_items.dreamclub_tex
 13600288	Common	Common	Common	アバターボックス（【1日】2012水着）			icon_items.gift_box04_tex
 13600289	Common	Common	Common	アバターボックス（【1日】カル・ノワール海賊団）			icon_items.gift_box04_tex
 13600290	Common	Common	Common	アバターボックス（【1日】メイド＆サーバント）			icon_items.gift_box04_tex
@@ -9497,9 +9501,6 @@
 14100645	Common	Common	Common	Summon: Wintera Snowbite			
 14100646	Common	Common	Common	Summon: Dapper Llewellyn			icon_skills.vehicle_llama_b_tex
 14300001	Common	Common	Common	Chocolate Egg Basket			icon_items.ricecake_tex
-14300009	Common	Common	Common	Emblem of Eminence			icon_items.parts_magicweaponc15_tex
-14300010	Common	Common	Common	Glorious Memento			icon_items.parts_lightweaponc9_tex
-14300011	Common	Common	Common	Seal of the Undying Flame			icon_items.parts_magicweaponc6_tex
 14300012	Common	Common	Common	Fleetfoot Potion			icon_items.potion12_tex
 14300013	Common	Common	Common	Substantial Enchantment Blessing			icon_items.solventg12_tex
 14300014	Common	Common	Common	Greater Enchantment Blessing			icon_items.solventg13_tex
@@ -10168,7 +10169,7 @@
 14600690	Common	Common	Common	[Event] Third Stage Chest			icon_items.vergos_box02_tex
 14600691	Common	Common	Common	[Event] Fourth Stage Chest			icon_items.vergos_box01_tex
 15200004	Common	Common	Common	毒薬			icon_items.q_flaskseal_tex
-15210001	Common	Common	Common	戦闘黒鉄戦馬召喚			icon_skills.vehicle_horse_black_tex
+15210001	Common	Common	Common	戦闘黒鉄戦馬召喚			icon_skills.vehicle_elephant_tex
 15210002	Common	Common	Common	戦闘獅子召喚			icon_skills.trans_lion_white_tex
 15300000	Common	Common	Common	【スキル書】白獅子召喚			icon_skills.trans_lion_white_tex
 15300001	Common	Common	Common	軍馬召喚（白）			icon_skills.mounthorse04_tex
@@ -10334,6 +10335,7 @@
 19000174	Common	Common	Common	Smart Box: Darkan's Weapon Skin (30 Days)			icon_items.gift_box04_tex
 19000175	Common	Common	Common	Smart Box: Darkan's Weapon Skin (7 Days)			icon_items.gift_box04_tex
 19000176	Common	Common	Common	Smart Box: Darkan's Weapon Skin			icon_items.gift_box04_tex
+19000191	Common	Common	Common	Smart Box: Manaya's Armory Gear			icon_items.premiumbox_weapon3_tex
 19000192	Common	Common	Common	武器アバターボックス（ドラグーン・白竜）			icon_items.gift_box03_tex
 19000193	Common	Common	Common	武器アバターボックス（ドラグーン・黒竜）			icon_items.gift_box03_tex
 19000194	Common	Common	Common	武器アバターボックス（ドラグーン・黒炎竜）			icon_items.gift_box03_tex
@@ -11713,6 +11715,7 @@
 19001964	Common	Common	Common	Smartbox: Princess Wand FUN Weapon (3 days)			icon_items.premiumbox_weapon3_tex
 19001965	Common	Common	Common	Smartbox: Princess Wand FUN Weapon (tradable)			icon_items.premiumbox_weapon3_tex
 19001966	Common	Common	Common	Smartbox: Princess Wand FUN Weapon (non-tradable)			icon_items.premiumbox_weapon3_tex
+19001974	Common	Common	Common	Smart Box: Weapon of Mass Devotion			icon_items.cube_reward05_tex
 19001975	Common	Common	Common	Smart Box: Princess Wand Weapon (7 Days)			icon_items.gift_box04_tex
 19001976	Common	Common	Common	Smart Box: Princess Wand Weapon (Perm, Non-Trade)			icon_items.gift_box04_tex
 19001977	Common	Common	Common	Smart Box: Princess Wand Weapon (Perm, Trade)			icon_items.gift_box04_tex
@@ -14524,8 +14527,8 @@
 65190030	Common	Common	Common	正体不明の玉			icon_items.potion2_tex
 70006000	Common	Common	Common	移動呪文書：守備隊の野営地			icon_items.townrecall_tex
 98140000	Common	Common	Common	Menma's 勇敢な万能秘薬			icon_items.menma_brave_multinostrum
-98140001	Common	Common	Common	Darkan's Wings			icon_status.descentofdarkness_tex
-98140003	Common	Common	Common	Darkan's Black Wings			icon_status.descentofdarkness3_tex
+98140001	Common	Common	Common	ダルカンの翼			icon_status.descentofdarkness_tex
+98140003	Common	Common	Common	ダルカンの黒翼			icon_status.descentofdarkness3_tex
 98140006	Common	Common	Common	移動呪文書:ハイドランジア			icon_items.scroll_dot_protect_level_1_tex
 98140007	Common	Common	Common	移動呪文書:第1軍駐屯地			icon_items.dungeon_recall_tex
 98140015	Common	Common	Common	移動呪文書:妖精池の釣り島			icon_items.dungeon_recall_tex
@@ -14534,29 +14537,88 @@
 98140018	Common	Common	Common	移動呪文書:ビリディアンの釣り島			icon_items.dungeon_recall_tex
 98140019	Common	Common	Common	移動呪文書:アルガフ養殖場			icon_items.dungeon_recall_tex
 98140020	Common	Common	Common	移動呪文書:ベルアーク庭園の釣り島			icon_items.dungeon_recall_tex
-98140050	Common	Common	Common	God of Fire's Wings			icon_status.wrathstormcompleted_tex
-98140052	Common	Common	Common	Devil's Wings			icon_status.darkriftdestroy_tex
+98140050	Common	Common	Common	バハールの翼			icon_status.wrathstormcompleted_tex
+98140052	Common	Common	Common	悪魔の翼			icon_status.darkriftdestroy_tex
 98140054	Common	Common	Common	女神エリーヌの守護			icon_items.raw_flower1
-98140055	Common	Common	Common	Ancient Dragon's Wings			icon_status.battlecommand04_tex
+98140055	Common	Common	Common	真・飛竜の翼			icon_status.battlecommand04_tex
 98140057	Common	Common	Common	万能洗浄ポーション			icon_items.union_quickheal_tex
-98140060	Common	Common	Common	[Event] Icefish Bait			icon_items.worm01_tex
-98140062	Common	Common	Common	Slowdown Potion			icon_items.potion9_tex
+98140058	Common	Common	Common	不安定な冷却爆弾			icon_items.homonpcrts2c_tex
+98140060	Common	Common	Common	[イベント] アイスフィッシュの餌			icon_items.worm01_tex
+98140062	Common	Common	Common	減速のポーション			icon_items.potion9_tex
 98141000	Common	Common	Common	Menma's 強靭な万能秘薬			icon_items.menma_strong_multinostrum
-98240000	Common	Common	Common	Summon: Dapper Lloyd			icon_skills.vehicle_llama_d_tex
-98240001	Common	Common	Common	Summon: Free Traders Fortuna			icon_skills.horse_lord_c_tex
-98240002	Common	Common	Common	Summon: Iron Order Virtus			icon_skills.horse_lord_b_tex
-98240003	Common	Common	Common	Summon: Enlightened Union			icon_skills.horse_lord_a_tex
-98240005	Common	Common	Common	Summon: Hello Kitty Squealer			icon_skills.vehicle_pig_kitty_tex
-98245005	Common	Common	Common	Summon: Shandra Manaya			icon_skills.vehicle_sandramanaia_a_tex
-98245006	Common	Common	Common	Summon: Silent Shandra Manaya			icon_skills.vehicle_sandramanaia_b_tex
-98245007	Common	Common	Common	Summon: Destructive Shandra Manaya			icon_skills.vehicle_sandramanaia_c_tex
-98245008	Common	Common	Common	Summon: Windforce Shandra Manaya			icon_skills.vehicle_sandramanaia_d_tex
-98245009	Common	Common	Common	Summon: Dawn Carmine			icon_skills.vehicle_raptor_a_tex
-98245010	Common	Common	Common	Summon: Dawn Lupus Noctus			icon_skills.trans_lion_wolf_black_tex
-98245011	Common	Common	Common	Summon: Dawn Mare			icon_skills.horseinferno_tex
-98245012	Common	Common	Common	Summon: Revivified Shandra Manaya			icon_skills.vehicle_sandramanaia_e_tex
-98245013	Common	Common	Common	Summon: War Horse			icon_skills.horse_darkness_tex
-98245014	Common	Common	Common	Summon: War Bengal Tiger			icon_skills.trans_tiger_d_tex
+98150000	Common	Common	Common	入場回数追加券 [Scorching Sky Cruiser]			icon_items.dungeonresetscroll_tex
+98150002	Common	Common	Common	入場回数追加券 [陥落したヴェリックの神殿 ]			icon_items.dungeonresetscroll_tex
+98150003	Common	Common	Common	入場回数追加券 [アンタレスの深淵 (Hard)]			icon_items.dungeonresetscroll_tex
+98150004	Common	Common	Common	入場回数追加券 [暴君デュリオンの潜伏地]			icon_items.dungeonresetscroll_tex
+98150005	Common	Common	Common	入場回数追加券 [The Plexus (Hard)]			icon_items.dungeonresetscroll_tex
+98150006	Common	Common	Common	入場回数追加券 [暗黒のテネブリス城砦]			icon_items.dungeonresetscroll_tex
+98150007	Common	Common	Common	入場回数追加券 [蛮勇な革命団の隠し砦]			icon_items.dungeonresetscroll_tex
+98150008	Common	Common	Common	入場回数追加券 [破られたヴェリカ地下関門]			icon_items.dungeonresetscroll_tex
+98150009	Common	Common	Common	入場回数追加券 [ヴェリックの神殿 ]			icon_items.dungeonresetscroll_tex
+98150010	Common	Common	Common	入場回数追加券 [バルロナの時空間]			icon_items.dungeonresetscroll_tex
+98150011	Common	Common	Common	入場回数追加券 [アンタレスの深淵 (Normal)]			icon_items.dungeonresetscroll_tex
+98150012	Common	Common	Common	入場回数追加券 [Shadow Sanguinary (Normal)]			icon_items.dungeonresetscroll_tex
+98150013	Common	Common	Common	入場回数追加券 [テネブリス城砦 (Normal)]			icon_items.dungeonresetscroll_tex
+98150014	Common	Common	Common	入場回数追加券 [Ruinous Manor (Normal)]			icon_items.dungeonresetscroll_tex
+98150015	Common	Common	Common	入場回数追加券 [Red Refuge (Normal)]			icon_items.dungeonresetscroll_tex
+98150016	Common	Common	Common	[GM Tool] 入場回数追加券			icon_items.dungeonresetscroll_tex
+98150019	Common	Common	Common	奇妙なポーション			icon_items.q_oddpotion_tex
+98150020	Common	Common	Common	不気味なポーション			icon_items.q_weirdpotion_tex
+98150021	Common	Common	Common	温かいポーション			icon_items.q_warm_potion_tex
+98240000	Common	Common	Common	オリバー(茶)召喚			icon_skills.vehicle_llama_d_tex
+98240001	Common	Common	Common	連盟軍馬召喚（ヴェリカ）			icon_skills.horse_lord_c_tex
+98240002	Common	Common	Common	連盟軍馬召喚（アルレマンシア）			icon_skills.horse_lord_b_tex
+98240003	Common	Common	Common	連盟軍馬召喚（カイアトール）			icon_skills.horse_lord_a_tex
+98240005	Common	Common	Common	ハローキティなこぶた召喚			icon_skills.vehicle_pig_kitty_tex
+98245005	Common	Common	Common	シャンドラ・マナイア召喚			icon_skills.vehicle_sandramanaia_a_tex
+98245006	Common	Common	Common	静かなるシャンドラ・マナイア召喚			icon_skills.vehicle_sandramanaia_b_tex
+98245007	Common	Common	Common	破滅なるシャンドラ・マナイア召喚			icon_skills.vehicle_sandramanaia_c_tex
+98245008	Common	Common	Common	風纏うシャンドラ・マナイア召喚			icon_skills.vehicle_sandramanaia_d_tex
+98245009	Common	Common	Common	黎明のハミルの召喚			icon_skills.vehicle_raptor_a_tex
+98245010	Common	Common	Common	黎明のアルゴンウルフ(漆黒)召喚			icon_skills.trans_lion_wolf_black_tex
+98245011	Common	Common	Common	黎明のMare召喚			icon_skills.horseinferno_tex
+98245012	Common	Common	Common	復活したシャンドラ・マナイア召喚			icon_skills.vehicle_sandramanaia_e_tex
+98245013	Common	Common	Common	古代軍馬召喚			icon_skills.horse_darkness_tex
+98245014	Common	Common	Common	戦場猛虎召喚（凱旋）召喚			icon_skills.trans_tiger_d_tex
+98245015	Common	Common	Common	威厳ある古代のシャンドラ・マナイア召喚			icon_skills.vehicle_sandramanaia_e_tex
+98245016	Common	Common	Common	シャンドラの蘇生			icon_skills.shandramanaia_vehicleskill_legend_tex
+98245017	Common	Common	Common	ローレルアントラー召喚			icon_skills.vehicle_gianthaechi_a_tex
+98245018	Common	Common	Common	全能のローレルアントラー召喚			icon_skills.vehicle_gianthaechi_b_tex
+98245021	Common	Common	Common	ホウキ召喚			icon_skills.vehicle_battlepass_dragon_tex
+98245022	Common	Common	Common	魔法のホウキ召喚			icon_skills.vehicle_halloweenbroomstick_a_tex
+98245023	Common	Common	Common	祝福された魔法のホウキ召喚			icon_skills.vehicle_halloweenbroomstick_b_tex
+98245024	Common	Common	Common	碧海燿龍召喚			icon_skills.vehicle_orientaldragon_a_tex
+98245025	Common	Common	Common	全能の碧海燿龍召喚			icon_skills.vehicle_orientaldragon_b_tex
+98245026	Common	Common	Common	緑叢燿龍召喚			icon_skills.vehicle_orientaldragon_c_tex
+98245027	Common	Common	Common	全能の緑叢燿龍召喚			icon_skills.vehicle_orientaldragon_d_tex
+98245028	Common	Common	Common	黄金燿龍召喚			icon_skills.vehicle_orientaldragon_e_tex
+98245029	Common	Common	Common	瑪瑙焔獣召喚			icon_skills.vehicle_statdragon_e_tex
+98245030	Common	Common	Common	全能の瑪瑙焔獣召喚			icon_skills.vehicle_statdragon_e_tex
+98245031	Common	Common	Common	藍宝焔獣召喚			icon_skills.vehicle_statdragon_z_tex
+98245032	Common	Common	Common	白妙焔獣召喚			icon_skills.vehicle_statdragon_f_tex
+98245033	Common	Common	Common	全能の白妙焔獣召喚			icon_skills.vehicle_statdragon_f_tex
+98245034	Common	Common	Common	幽虎召喚			icon_skills.vehicle_trans_tiger_e_tex
+98245035	Common	Common	Common	全能の幽虎召喚			icon_skills.vehicle_trans_tiger_f_tex
+98245036	Common	Common	Common	シャーク召喚			icon_skills.vehicle_shark_a_tex
+98245037	Common	Common	Common	キングシャーク召喚			icon_skills.vehicle_shark_b_tex
+98245038	Common	Common	Common	動くレザーソファ			icon_skills.vehicle_sofa_a_tex
+98245039	Common	Common	Common	空飛ぶ世紀末ソファ			icon_skills.vehicle_sofa_b_tex
+98245040	Common	Common	Common	もっちり柴犬（茶）			icon_skills.vehicle_shina_a_tex
+98245041	Common	Common	Common	もっちり柴犬・ジェット（茶）			icon_skills.vehicle_shina_b_tex
+98245042	Common	Common	Common	もっちり柴犬（黒）			icon_skills.vehicle_shina_c_tex
+98245043	Common	Common	Common	もっちり柴犬・ジェット（黒）			icon_skills.vehicle_shina_d_tex
+98245044	Common	Common	Common	もっちり柴犬（グレー）			icon_skills.vehicle_shina_e_tex
+98245045	Common	Common	Common	もっちり柴犬・ジェット（グレー）			icon_skills.vehicle_shina_f_tex
+98245046	Common	Common	Common	アナザーディメンション召喚			icon_skills.vehicle_spaceship_tex
+98245047	Common	Common	Common	こいのぼり（きん）			icon_skills.vehicle_koinobori_h_tex
+98245048	Common	Common	Common	こいのぼりの群れ（きん）			icon_skills.vehicle_koinobori_i_tex
+98245049	Common	Common	Common	迅速なファイア・ウィング			icon_skills.vehicle_kirin_tex
+98245050	Common	Common	Common	迅速なグリーン・ウィング			icon_skills.vehicle_kirin_green_tex
+98245051	Common	Common	Common	迅速なシルバー・ウィング			icon_skills.vehicle_kirin_silver_tex
+98245052	Common	Common	Common	超電荷・魔導機械BTS-001召喚			icon_skills.steelvehicle_tex
+98245053	Common	Common	Common	迅速なレインボウ			icon_skills.unicon_tex
+98245054	Common	Common	Common	死魔戦馬召喚			icon_skills.vehicle_horse_undead_tex
+98245055	Common	Common	Common	ローレルアントラー召喚			icon_skills.vehicle_gianthaechi_b_tex
 98340001	Common	Common	Common	下級ギルドボックス			icon_items.mysterybox5_tex
 98340010	Common	Common	Common	守護者の装備ボックス(武器)			icon_items.gift_box04_tex
 98340011	Common	Common	Common	守護者の装備ボックス(胴防具)			icon_items.gift_box04_tex
@@ -14566,7 +14628,8 @@
 98340015	Common	Common	Common	守護者の報酬ボックス 485			icon_items.tresurebox2_tex
 98340016	Common	Common	Common	守護者の報酬ボックス 472/481			icon_items.tresurebox2_tex
 98340017	Common	Common	Common	守護者の報酬ボックス 460			icon_items.tresurebox2_tex
-98340018	Common	Common	Common	守護者の報酬ボックス 455			icon_items.tresurebox2_tex
+98340018	Common	Common	Common	守護者の報酬ボックス 455			icon_items.f2p_rewardboxlower_tex
+98340019	Common	Common	Common	バラカの宝箱			icon_items.guylian_secret_box_tex
 99910007	Common	Common	Common	ヒーリングポーション			icon_items.hp_durable_potion_level_49_tex
 99910008	Common	Common	Common	スピードブースター			icon_status.aura_of_wind_tex
 99910020	Common	Common	Common	ヒーリングポーション（小）			icon_items.potion2_tex

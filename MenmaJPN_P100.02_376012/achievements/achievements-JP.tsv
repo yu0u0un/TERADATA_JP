@@ -5069,7 +5069,6 @@
 999204	アルン北部大陸探険
 999205	その他
 999206	エクソドール探検
-999207	Dimensions
 999208	Island of Dawn
 999300	クエスト
 999301	ミッションクエスト
@@ -8035,31 +8034,6 @@
 2066004	ヴァルキオン連合
 2066501	深淵の征服者
 2066800	虚ろなアンタレスを77回討伐
-2067001	塔の中腹で何を見る
-2067002	幻影の塔 5階を攻略する
-2067003	幻影の塔 5階を攻略する
-2067004	ヴァルキオン連合
-2067800	幻影の塔 5階攻略
-2068001	ファントムは守護者の夢を見るか？
-2068002	幻影の塔 10階を攻略する
-2068003	幻影の塔 10階を攻略する
-2068004	ヴァルキオン連合
-2068800	幻影の塔 10階攻略
-2069001	死を克服してこその
-2069002	幻影の塔の全階を死亡せずに攻略する
-2069003	幻影の塔の全階を死亡せずに攻略する
-2069004	ヴァルキオン連合
-2069501	戦神のエンピレオ
-2069800	幻影の塔 1階を死亡せずに攻略
-2069801	幻影の塔 2階を死亡せずに攻略
-2069802	幻影の塔 3階を死亡せずに攻略
-2069803	幻影の塔 4階を死亡せずに攻略
-2069804	幻影の塔 5階を死亡せずに攻略
-2069805	幻影の塔 6階を死亡せずに攻略
-2069806	幻影の塔 7階を死亡せずに攻略
-2069807	幻影の塔 8階を死亡せずに攻略
-2069808	幻影の塔 9階を死亡せずに攻略
-2069809	幻影の塔 10階を死亡せずに攻略
 2070001	ゴロゴロ岩のお通りだ！
 2070002	リアンの古城で転がる岩攻撃を受けずにネドゥラーを討伐する
 2070003	リアンの古城で転がる岩攻撃を受けずに、ネドゥラーを討伐する
@@ -8675,6 +8649,11 @@
 2187801	Worthy Opponent
 2187802	You can't kill me!
 2187803	Shoot...
+2263001	Balderon Tourist
+2263002	Visit Balderon and speak with Heil near the Dungeon Gates.
+2263003	Visit Balderon and speak with Heil near the Dungeon Gates.
+2263004	Valkyon Federation
+2263800	Visit Balderon and speak with Heil near the Dungeon Gates.
 3124001	She Should’ve Stayed In 2012
 3124002	Defeat Nightmare Shandra Manaya in The Plexus (Hard) without dying once.
 3124003	Defeat Nightmare Shandra Manaya in The Plexus (Hard) without dying once.
@@ -10025,6 +10004,30 @@
 55556609	Participate in the first Elin Event and use the Bane of the Battlefield Title Token.
 55556610	Use the Bane of the Battlefield Title Token.
 55556611	Bane of the Battlefield
+55556701	Novice Adventurer
+55556702	Completed 1 Balderon Board quest and start your adventure.
+55556703	Completed 1 Balderon Board quest.
+55556704	Valkyon Federation
+55556705	Completed 1 Balderon Board quest.
+55556706	D-Rank Adventurer
+55556801	Trusted Friend
+55556802	Achieved 'Friendly' with Arun's Legacy reputation.
+55556803	Achieved 'Friendly' with Arun's Legacy reputation.
+55556804	Valkyon Federation
+55556805	'Friendly' with Arun's Legacy
+55556806	B-Rank Adventurer
+55556901	Valiant Protector
+55556902	Achieved 'Trusted' with Arun's Legacy reputation.
+55556903	Achieved 'Trusted' with Arun's Legacy reputation.
+55556904	Valkyon Federation
+55556905	'Trusted' with Arun's Legacy
+55556906	A-Rank Adventurer
+55557001	Hero of the Initiative
+55557002	Achieved 'Revered' with Arun's Legacy reputation.
+55557003	Achieved 'Revered' with Arun's Legacy reputation.
+55557004	Valkyon Federation
+55557005	'Revered' with Arun's Legacy
+55557006	S-Rank Adventurer 
 55559001	Are We Alone Here?
 55559002	Discover an Abandoned Book in Highwatch.
 55559003	Discover an Abandoned Book in Highwatch.
@@ -10102,6 +10105,16 @@
 99108003	今シーズン2、3位
 99108004	ヴァルキオン連合
 99108005	白浜の海嘯
+99109001	First Place on the Battleground Leaderboard - Gridiron
+99109002	1st place in the current season
+99109003	1st place in the current season
+99109004	Valkyon Federation
+99109005	Last One Standing
+99110001	Place on the Battleground Leaderboard - Gridiron
+99110002	2nd or 3rd place in the current season
+99110003	2nd or 3rd place in the current season
+99110004	Valkyon Federation
+99110005	Serial Killer
 99111001	PVEランキングボード報酬虚ろなアンタレスの深淵1位（見えたらBTS）
 99111002	今シーズン1位
 99111003	今シーズン1位
@@ -10257,635 +10270,6 @@
 99142003	下の目標を達成する
 99142501	バハールの神殿の熟練者
 99142800	我こそダンジョンマスター！完了
-99152500	TBA
-99152501	TBAで勝利！
-99152502	TBA 5回勝利！
-99152503	TBA 10回勝利！
-99152504	TBA 20回勝利！
-99152505	TBA 30回勝利！
-99152506	TBA 40回勝利！
-99152507	TBA 50回勝利！
-99152508	TBA 70回勝利！
-99152509	TBA 90回勝利！
-99152510	TBA 100回勝利！
-99152511	TBA 150回勝利！
-99152512	TBA 200回勝利！
-99152513	TBA 250回勝利！
-99152514	TBA 300回勝利！
-99152515	TBA 350回勝利！
-99152516	TBA 400回勝利！
-99152517	TBA 450回勝利！
-99152518	TBA 500回勝利！
-99152519	TBA 600回勝利！
-99152520	TBA 700回勝利！
-99152521	TBA 800回勝利！
-99152522	TBA 900回勝利！
-99152523	TBA 999回勝利！
-99152524	TBA
-99152525	TBAで敗北！
-99152526	TBA 5回敗北！
-99152527	TBA 10回敗北！
-99152528	TBA 20回敗北！
-99152529	TBA 30回敗北！
-99152530	TBA 40回敗北！
-99152531	TBA 50回敗北！
-99152532	TBA 70回敗北！
-99152533	TBA 90回敗北！
-99152534	TBA 100回敗北！
-99152535	TBA 150回敗北！
-99152536	TBA 200回敗北！
-99152537	TBA 250回敗北！
-99152538	TBA 300回敗北！
-99152539	TBA 350回敗北！
-99152540	TBA 400回敗北！
-99152541	TBA 450回敗北！
-99152542	TBA 500回敗北！
-99152543	TBA 600回敗北！
-99152544	TBA 700回敗北！
-99152545	TBA 800回敗北！
-99152546	TBA 900回敗北！
-99152547	TBA 999回敗北！
-99152548	TBA
-99152549	TBA で遊ぼう！
-99152550	TBA 5回プレイ！
-99152551	TBA 10回プレイ！
-99152552	TBA 20回プレイ！
-99152553	TBA 30回プレイ！
-99152554	TBA 40回プレイ！
-99152555	TBA 50回プレイ！
-99152556	TBA 70回プレイ！
-99152557	TBA 90回プレイ！
-99152558	TBA 100回プレイ！
-99152559	TBA 150回プレイ！
-99152560	TBA 200回プレイ！
-99152561	TBA 250回プレイ！
-99152562	TBA 300回プレイ！
-99152563	TBA 350回プレイ！
-99152564	TBA 400回プレイ！
-99152565	TBA 450回プレイ！
-99152566	TBA 500回プレイ！
-99152567	TBA 600回プレイ！
-99152568	TBA 700回プレイ！
-99152569	TBA 800回プレイ！
-99152570	TBA 900回プレイ！
-99152571	TBA 999回プレイ！
-99152572	TBA
-99152573	敵を討伐せよ！
-99152574	5名討伐！
-99152575	10名討伐！
-99152576	20名討伐！
-99152577	30名討伐！
-99152578	40名討伐！
-99152579	50名討伐！
-99152580	70名討伐！
-99152581	90名討伐！
-99152582	100名討伐！
-99152583	150名討伐！
-99152584	200名討伐！
-99152585	250名討伐！
-99152586	300名討伐！
-99152587	350名討伐！
-99152588	400名討伐！
-99152589	450名討伐！
-99152590	500名討伐！
-99152591	600名討伐！
-99152592	700名討伐！
-99152593	800名討伐！
-99152594	900名討伐！
-99152595	999名討伐！
-99152596	TBA
-99152597	アシストをせよ！
-99152598	アシスト5回達成！
-99152599	アシスト10回達成！
-99152600	アシスト20回達成！
-99152601	アシスト30回達成！
-99152602	アシスト40回達成！
-99152603	アシスト50回達成！
-99152604	アシスト70回達成！
-99152605	アシスト90回達成！
-99152606	アシスト100回達成！
-99152607	アシスト150回達成！
-99152608	アシスト200回達成！
-99152609	アシスト250回達成！
-99152610	アシスト300回達成！
-99152611	アシスト350回達成！
-99152612	アシスト400回達成！
-99152613	アシスト450回達成！
-99152614	アシスト500回達成！
-99152615	アシスト600回達成！
-99152616	アシスト700回達成！
-99152617	アシスト800回達成！
-99152618	アシスト900回達成！
-99152619	アシスト999回達成！
-99152620	TBA
-99152621	ブラガで勝利せよ！
-99152622	ブラガで5回勝利！
-99152623	ブラガで10回勝利！
-99152624	ブラガで20回勝利！
-99152625	ブラガで30回勝利！
-99152626	ブラガで40回勝利！
-99152627	ブラガで50回勝利！
-99152628	ブラガで70回勝利！
-99152629	ブラガで90回勝利！
-99152630	ブラガで100回勝利！
-99152631	ブラガで150回勝利！
-99152632	ブラガで200回勝利！
-99152633	ブラガで250回勝利！
-99152634	ブラガで300回勝利！
-99152635	ブラガで350回勝利！
-99152636	ブラガで400回勝利！
-99152637	ブラガで450回勝利！
-99152638	ブラガで500回勝利！
-99152639	ブラガで600回勝利！
-99152640	ブラガで700回勝利！
-99152641	ブラガで800回勝利！
-99152642	ブラガで900回勝利！
-99152643	ブラガで999回勝利！
-99152644	TBA
-99152645	ギルバート・グレイスで勝利せよ！
-99152646	ギルバート・グレイスで5回勝利！
-99152647	ギルバート・グレイスで10回勝利！
-99152648	ギルバート・グレイスで20回勝利！
-99152649	ギルバート・グレイスで30回勝利！
-99152650	ギルバート・グレイスで40回勝利！
-99152651	ギルバート・グレイスで50回勝利！
-99152652	ギルバート・グレイスで70回勝利！
-99152653	ギルバート・グレイスで90回勝利！
-99152654	ギルバート・グレイスで100回勝利！
-99152655	ギルバート・グレイスで150回勝利！
-99152656	ギルバート・グレイスで200回勝利！
-99152657	ギルバート・グレイスで250回勝利！
-99152658	ギルバート・グレイスで300回勝利！
-99152659	ギルバート・グレイスで350回勝利！
-99152660	ギルバート・グレイスで400回勝利！
-99152661	ギルバート・グレイスで450回勝利！
-99152662	ギルバート・グレイスで500回勝利！
-99152663	ギルバート・グレイスで600回勝利！
-99152664	ギルバート・グレイスで700回勝利！
-99152665	ギルバート・グレイスで800回勝利！
-99152666	ギルバート・グレイスで900回勝利！
-99152667	ギルバート・グレイスで999回勝利！
-99152668	TBA
-99152669	ロードスで勝利せよ！
-99152670	ロードスで5回勝利！
-99152671	ロードスで10回勝利！
-99152672	ロードスで20回勝利！
-99152673	ロードスで30回勝利！
-99152674	ロードスで40回勝利！
-99152675	ロードスで50回勝利！
-99152676	ロードスで70回勝利！
-99152677	ロードスで90回勝利！
-99152678	ロードスで100回勝利！
-99152679	ロードスで150回勝利！
-99152680	ロードスで200回勝利！
-99152681	ロードスで250回勝利！
-99152682	ロードスで300回勝利！
-99152683	ロードスで350回勝利！
-99152684	ロードスで400回勝利！
-99152685	ロードスで450回勝利！
-99152686	ロードスで500回勝利！
-99152687	ロードスで600回勝利！
-99152688	ロードスで700回勝利！
-99152689	ロードスで800回勝利！
-99152690	ロードスで900回勝利！
-99152691	ロードスで999回勝利！
-99152692	TBA
-99152693	フレイア・ローヘンで勝利せよ！
-99152694	フレイア・ローヘンで5回勝利！
-99152695	フレイア・ローヘンで10回勝利！
-99152696	フレイア・ローヘンで20回勝利！
-99152697	フレイア・ローヘンで30回勝利！
-99152698	フレイア・ローヘンで40回勝利！
-99152699	フレイア・ローヘンで50回勝利！
-99152700	フレイア・ローヘンで70回勝利！
-99152701	フレイア・ローヘンで90回勝利！
-99152702	フレイア・ローヘンで100回勝利！
-99152703	フレイア・ローヘンで150回勝利！
-99152704	フレイア・ローヘンで200回勝利！
-99152705	フレイア・ローヘンで250回勝利！
-99152706	フレイア・ローヘンで300回勝利！
-99152707	フレイア・ローヘンで350回勝利！
-99152708	フレイア・ローヘンで400回勝利！
-99152709	フレイア・ローヘンで450回勝利！
-99152710	フレイア・ローヘンで500回勝利！
-99152711	フレイア・ローヘンで600回勝利！
-99152712	フレイア・ローヘンで700回勝利！
-99152713	フレイア・ローヘンで800回勝利！
-99152714	フレイア・ローヘンで900回勝利！
-99152715	フレイア・ローヘンで999回勝利！
-99152716	TBA
-99152717	エルリオン・クベルで勝利せよ！
-99152718	エルリオン・クベルで5回勝利！
-99152719	エルリオン・クベルで10回勝利！
-99152720	エルリオン・クベルで20回勝利！
-99152721	エルリオン・クベルで30回勝利！
-99152722	エルリオン・クベルで40回勝利！
-99152723	エルリオン・クベルで50回勝利！
-99152724	エルリオン・クベルで70回勝利！
-99152725	エルリオン・クベルで90回勝利！
-99152726	エルリオン・クベルで100回勝利！
-99152727	エルリオン・クベルで150回勝利！
-99152728	エルリオン・クベルで200回勝利！
-99152729	エルリオン・クベルで250回勝利！
-99152730	エルリオン・クベルで300回勝利！
-99152731	エルリオン・クベルで350回勝利！
-99152732	エルリオン・クベルで400回勝利！
-99152733	エルリオン・クベルで450回勝利！
-99152734	エルリオン・クベルで500回勝利！
-99152735	エルリオン・クベルで600回勝利！
-99152736	エルリオン・クベルで700回勝利！
-99152737	エルリオン・クベルで800回勝利！
-99152738	エルリオン・クベルで900回勝利！
-99152739	エルリオン・クベルで999回勝利！
-99152740	TBA
-99152741	シズナで勝利せよ！
-99152742	シズナで5回勝利！
-99152743	シズナで10回勝利！
-99152744	シズナで20回勝利！
-99152745	シズナで30回勝利！
-99152746	シズナで40回勝利！
-99152747	シズナで50回勝利！
-99152748	シズナで70回勝利！
-99152749	シズナで90回勝利！
-99152750	シズナで100回勝利！
-99152751	シズナで150回勝利！
-99152752	シズナで200回勝利！
-99152753	シズナで250回勝利！
-99152754	シズナで300回勝利！
-99152755	シズナで350回勝利！
-99152756	シズナで400回勝利！
-99152757	シズナで450回勝利！
-99152758	シズナで500回勝利！
-99152759	シズナで600回勝利！
-99152760	シズナで700回勝利！
-99152761	シズナで800回勝利！
-99152762	シズナで900回勝利！
-99152763	シズナで999回勝利！
-99152764	TBA
-99152765	テオルンで勝利せよ！
-99152766	テオルンで5回勝利！
-99152767	テオルンで10回勝利！
-99152768	テオルンで20回勝利！
-99152769	テオルンで30回勝利！
-99152770	テオルンで40回勝利！
-99152771	テオルンで50回勝利！
-99152772	テオルンで70回勝利！
-99152773	テオルンで90回勝利！
-99152774	テオルンで100回勝利！
-99152775	テオルンで150回勝利！
-99152776	テオルンで200回勝利！
-99152777	テオルンで250回勝利！
-99152778	テオルンで300回勝利！
-99152779	テオルンで350回勝利！
-99152780	テオルンで400回勝利！
-99152781	テオルンで450回勝利！
-99152782	テオルンで500回勝利！
-99152783	テオルンで600回勝利！
-99152784	テオルンで700回勝利！
-99152785	テオルンで800回勝利！
-99152786	テオルンで900回勝利！
-99152787	テオルンで999回勝利！
-99152788	TBA
-99152789	シベルで勝利せよ！
-99152790	シベルで5回勝利！
-99152791	シベルで10回勝利！
-99152792	シベルで20回勝利！
-99152793	シベルで30回勝利！
-99152794	シベルで40回勝利！
-99152795	シベルで50回勝利！
-99152796	シベルで70回勝利！
-99152797	シベルで90回勝利！
-99152798	シベルで100回勝利！
-99152799	シベルで150回勝利！
-99152800	シベルで200回勝利！
-99152801	シベルで250回勝利！
-99152802	シベルで300回勝利！
-99152803	シベルで350回勝利！
-99152804	シベルで400回勝利！
-99152805	シベルで450回勝利！
-99152806	シベルで500回勝利！
-99152807	シベルで600回勝利！
-99152808	シベルで700回勝利！
-99152809	シベルで800回勝利！
-99152810	シベルで900回勝利！
-99152811	シベルで999回勝利！
-99152812	TBA
-99152813	エキオル・ラフェレイトで勝利せよ！
-99152814	エキオル・ラフェレイトで5回勝利！
-99152815	エキオル・ラフェレイトで10回勝利！
-99152816	エキオル・ラフェレイトで20回勝利！
-99152817	エキオル・ラフェレイトで30回勝利！
-99152818	エキオル・ラフェレイトで40回勝利！
-99152819	エキオル・ラフェレイトで50回勝利！
-99152820	エキオル・ラフェレイトで70回勝利！
-99152821	エキオル・ラフェレイトで90回勝利！
-99152822	エキオル・ラフェレイトで100回勝利！
-99152823	エキオル・ラフェレイトで150回勝利！
-99152824	エキオル・ラフェレイトで200回勝利！
-99152825	エキオル・ラフェレイトで250回勝利！
-99152826	エキオル・ラフェレイトで300回勝利！
-99152827	エキオル・ラフェレイトで350回勝利！
-99152828	エキオル・ラフェレイトで400回勝利！
-99152829	エキオル・ラフェレイトで450回勝利！
-99152830	エキオル・ラフェレイトで500回勝利！
-99152831	エキオル・ラフェレイトで600回勝利！
-99152832	エキオル・ラフェレイトで700回勝利！
-99152833	エキオル・ラフェレイトで800回勝利！
-99152834	エキオル・ラフェレイトで900回勝利！
-99152835	エキオル・ラフェレイトで999回勝利！
-99152836	TBA
-99152837	ニナで勝利せよ！
-99152838	ニナで5回勝利！
-99152839	ニナで10回勝利！
-99152840	ニナで20回勝利！
-99152841	ニナで30回勝利！
-99152842	ニナで40回勝利！
-99152843	ニナで50回勝利！
-99152844	ニナで70回勝利！
-99152845	ニナで90回勝利！
-99152846	ニナで100回勝利！
-99152847	ニナで150回勝利！
-99152848	ニナで200回勝利！
-99152849	ニナで250回勝利！
-99152850	ニナで300回勝利！
-99152851	ニナで350回勝利！
-99152852	ニナで400回勝利！
-99152853	ニナで450回勝利！
-99152854	ニナで500回勝利！
-99152855	ニナで600回勝利！
-99152856	ニナで700回勝利！
-99152857	ニナで800回勝利！
-99152858	ニナで900回勝利！
-99152859	ニナで999回勝利！
-99152860	TBA
-99152861	シオズで勝利せよ！
-99152862	シオズで5回勝利！
-99152863	シオズで10回勝利！
-99152864	シオズで20回勝利！
-99152865	シオズで30回勝利！
-99152866	シオズで40回勝利！
-99152867	シオズで50回勝利！
-99152868	シオズで70回勝利！
-99152869	シオズで90回勝利！
-99152870	シオズで100回勝利！
-99152871	シオズで150回勝利！
-99152872	シオズで200回勝利！
-99152873	シオズで250回勝利！
-99152874	シオズで300回勝利！
-99152875	シオズで350回勝利！
-99152876	シオズで400回勝利！
-99152877	シオズで450回勝利！
-99152878	シオズで500回勝利！
-99152879	シオズで600回勝利！
-99152880	シオズで700回勝利！
-99152881	シオズで800回勝利！
-99152882	シオズで900回勝利！
-99152883	シオズで999回勝利！
-99152884	TBA
-99152885	アスティナで勝利せよ！
-99152886	アスティナで5回勝利！
-99152887	アスティナで10回勝利！
-99152888	アスティナで20回勝利！
-99152889	アスティナで30回勝利！
-99152890	アスティナで40回勝利！
-99152891	アスティナで50回勝利！
-99152892	アスティナで70回勝利！
-99152893	アスティナで90回勝利！
-99152894	アスティナで100回勝利！
-99152895	アスティナで150回勝利！
-99152896	アスティナで200回勝利！
-99152897	アスティナで250回勝利！
-99152898	アスティナで300回勝利！
-99152899	アスティナで350回勝利！
-99152900	アスティナで400回勝利！
-99152901	アスティナで450回勝利！
-99152902	アスティナで500回勝利！
-99152903	アスティナで600回勝利！
-99152904	アスティナで700回勝利！
-99152905	アスティナで800回勝利！
-99152906	アスティナで900回勝利！
-99152907	アスティナで999回勝利！
-99152908	TBA
-99152909	エルハンで勝利せよ！
-99152910	エルハンで5回勝利！
-99152911	エルハンで10回勝利！
-99152912	エルハンで20回勝利！
-99152913	エルハンで30回勝利！
-99152914	エルハンで40回勝利！
-99152915	エルハンで50回勝利！
-99152916	エルハンで70回勝利！
-99152917	エルハンで90回勝利！
-99152918	エルハンで100回勝利！
-99152919	エルハンで150回勝利！
-99152920	エルハンで200回勝利！
-99152921	エルハンで250回勝利！
-99152922	エルハンで300回勝利！
-99152923	エルハンで350回勝利！
-99152924	エルハンで400回勝利！
-99152925	エルハンで450回勝利！
-99152926	エルハンで500回勝利！
-99152927	エルハンで600回勝利！
-99152928	エルハンで700回勝利！
-99152929	エルハンで800回勝利！
-99152930	エルハンで900回勝利！
-99152931	エルハンで999回勝利！
-99152932	TBA
-99152933	カイアで勝利せよ！
-99152934	カイアで5回勝利！
-99152935	カイアで10回勝利！
-99152936	カイアで20回勝利！
-99152937	カイアで30回勝利！
-99152938	カイアで40回勝利！
-99152939	カイアで50回勝利！
-99152940	カイアで70回勝利！
-99152941	カイアで90回勝利！
-99152942	カイアで100回勝利！
-99152943	カイアで150回勝利！
-99152944	カイアで200回勝利！
-99152945	カイアで250回勝利！
-99152946	カイアで300回勝利！
-99152947	カイアで350回勝利！
-99152948	カイアで400回勝利！
-99152949	カイアで450回勝利！
-99152950	カイアで500回勝利！
-99152951	カイアで600回勝利！
-99152952	カイアで700回勝利！
-99152953	カイアで800回勝利！
-99152954	カイアで900回勝利！
-99152955	カイアで999回勝利！
-99152956	TBA
-99152957	ディクシ・ピンチャーで勝利せよ！
-99152958	ディクシ・ピンチャーで5回勝利！
-99152959	ディクシ・ピンチャーで10回勝利！
-99152960	ディクシ・ピンチャーで20回勝利！
-99152961	ディクシ・ピンチャーで30回勝利！
-99152962	ディクシ・ピンチャーで40回勝利！
-99152963	ディクシ・ピンチャーで50回勝利！
-99152964	ディクシ・ピンチャーで70回勝利！
-99152965	ディクシ・ピンチャーで90回勝利！
-99152966	ディクシ・ピンチャーで100回勝利！
-99152967	ディクシ・ピンチャーで150回勝利！
-99152968	ディクシ・ピンチャーで200回勝利！
-99152969	ディクシ・ピンチャーで250回勝利！
-99152970	ディクシ・ピンチャーで300回勝利！
-99152971	ディクシ・ピンチャーで350回勝利！
-99152972	ディクシ・ピンチャーで400回勝利！
-99152973	ディクシ・ピンチャーで450回勝利！
-99152974	ディクシ・ピンチャーで500回勝利！
-99152975	ディクシ・ピンチャーで600回勝利！
-99152976	ディクシ・ピンチャーで700回勝利！
-99152977	ディクシ・ピンチャーで800回勝利！
-99152978	ディクシ・ピンチャーで900回勝利！
-99152979	ディクシ・ピンチャーで999回勝利！
-99152980	TBA
-99152981	シャオルンで勝利せよ！
-99152982	シャオルンで5回勝利！
-99152983	シャオルンで10回勝利！
-99152984	シャオルンで20回勝利！
-99152985	シャオルンで30回勝利！
-99152986	シャオルンで40回勝利！
-99152987	シャオルンで50回勝利！
-99152988	シャオルンで70回勝利！
-99152989	シャオルンで90回勝利！
-99152990	シャオルンで100回勝利！
-99152991	シャオルンで150回勝利！
-99152992	シャオルンで200回勝利！
-99152993	シャオルンで250回勝利！
-99152994	シャオルンで300回勝利！
-99152995	シャオルンで350回勝利！
-99152996	シャオルンで400回勝利！
-99152997	シャオルンで450回勝利！
-99152998	シャオルンで500回勝利！
-99152999	シャオルンで600回勝利！
-99153000	シャオルンで700回勝利！
-99153001	シャオルンで800回勝利！
-99153002	シャオルンで900回勝利！
-99153003	シャオルンで999回勝利！
-99153004	TBA
-99153005	ウプで勝利せよ！
-99153006	ウプで5回勝利！
-99153007	ウプで10回勝利！
-99153008	ウプで20回勝利！
-99153009	ウプで30回勝利！
-99153010	ウプで40回勝利！
-99153011	ウプで50回勝利！
-99153012	ウプで70回勝利！
-99153013	ウプで90回勝利！
-99153014	ウプで100回勝利！
-99153015	ウプで150回勝利！
-99153016	ウプで200回勝利！
-99153017	ウプで250回勝利！
-99153018	ウプで300回勝利！
-99153019	ウプで350回勝利！
-99153020	ウプで400回勝利！
-99153021	ウプで450回勝利！
-99153022	ウプで500回勝利！
-99153023	ウプで600回勝利！
-99153024	ウプで700回勝利！
-99153025	ウプで800回勝利！
-99153026	ウプで900回勝利！
-99153027	ウプで999回勝利！
-99153028	TBA
-99153029	トロで勝利せよ！
-99153030	トロで5回勝利！
-99153031	トロで10回勝利！
-99153032	トロで20回勝利！
-99153033	トロで30回勝利！
-99153034	トロで40回勝利！
-99153035	トロで50回勝利！
-99153036	トロで70回勝利！
-99153037	トロで90回勝利！
-99153038	トロで100回勝利！
-99153039	トロで150回勝利！
-99153040	トロで200回勝利！
-99153041	トロで250回勝利！
-99153042	トロで300回勝利！
-99153043	トロで350回勝利！
-99153044	トロで400回勝利！
-99153045	トロで450回勝利！
-99153046	トロで500回勝利！
-99153047	トロで600回勝利！
-99153048	トロで700回勝利！
-99153049	トロで800回勝利！
-99153050	トロで900回勝利！
-99153051	トロで999回勝利！
-99153052	TBA
-99153053	ポアルンで勝利せよ！
-99153054	ポアルンで5回勝利！
-99153055	ポアルンで10回勝利！
-99153056	ポアルンで20回勝利！
-99153057	ポアルンで30回勝利！
-99153058	ポアルンで40回勝利！
-99153059	ポアルンで50回勝利！
-99153060	ポアルンで70回勝利！
-99153061	ポアルンで90回勝利！
-99153062	ポアルンで100回勝利！
-99153063	ポアルンで150回勝利！
-99153064	ポアルンで200回勝利！
-99153065	ポアルンで250回勝利！
-99153066	ポアルンで300回勝利！
-99153067	ポアルンで350回勝利！
-99153068	ポアルンで400回勝利！
-99153069	ポアルンで450回勝利！
-99153070	ポアルンで500回勝利！
-99153071	ポアルンで600回勝利！
-99153072	ポアルンで700回勝利！
-99153073	ポアルンで800回勝利！
-99153074	ポアルンで900回勝利！
-99153075	ポアルンで999回勝利！
-99153076	TBA
-99153077	ムタルで勝利せよ！
-99153078	ムタルで5回勝利！
-99153079	ムタルで10回勝利！
-99153080	ムタルで20回勝利！
-99153081	ムタルで30回勝利！
-99153082	ムタルで40回勝利！
-99153083	ムタルで50回勝利！
-99153084	ムタルで70回勝利！
-99153085	ムタルで90回勝利！
-99153086	ムタルで100回勝利！
-99153087	ムタルで150回勝利！
-99153088	ムタルで200回勝利！
-99153089	ムタルで250回勝利！
-99153090	ムタルで300回勝利！
-99153091	ムタルで350回勝利！
-99153092	ムタルで400回勝利！
-99153093	ムタルで450回勝利！
-99153094	ムタルで500回勝利！
-99153095	ムタルで600回勝利！
-99153096	ムタルで700回勝利！
-99153097	ムタルで800回勝利！
-99153098	ムタルで900回勝利！
-99153099	ムタルで999回勝利！
-99153100	TBA
-99153101	リーウォンで勝利せよ！
-99153102	リーウォンで5回勝利！
-99153103	リーウォンで10回勝利！
-99153104	リーウォンで20回勝利！
-99153105	リーウォンで30回勝利！
-99153106	リーウォンで40回勝利！
-99153107	リーウォンで50回勝利！
-99153108	リーウォンで70回勝利！
-99153109	リーウォンで90回勝利！
-99153110	リーウォンで100回勝利！
-99153111	リーウォンで150回勝利！
-99153112	リーウォンで200回勝利！
-99153113	リーウォンで250回勝利！
-99153114	リーウォンで300回勝利！
-99153115	リーウォンで350回勝利！
-99153116	リーウォンで400回勝利！
-99153117	リーウォンで450回勝利！
-99153118	リーウォンで500回勝利！
-99153119	リーウォンで600回勝利！
-99153120	リーウォンで700回勝利！
-99153121	リーウォンで800回勝利！
-99153122	リーウォンで900回勝利！
-99153123	リーウォンで999回勝利！
-99153124	ケリム・ホワイトリバー、タムル・ヘルカン、カイドゥン、リダ・エリーンと話す
-99153125	ケリム・ホワイトリバーと話す
-99153126	タムル・ヘルカンと話す
-99153127	カイドゥンと話す
-99153128	リダ・エリーンと話す
 503000001	Tourist of the Bloody Island
 503000002	Visited the Bloody Island
 503000003	Visited the Bloody Island
@@ -11551,8 +10935,8 @@
 530012080	Use Item
 530012501	Savior of Halloween
 540000001	Pride of Menma
-540000002	Awarded to participants of Closed Beta Testing phase of Menma's TERA! Thank you UwU!
-540000003	Awarded to participants of Closed Beta Testing phase of Menma's TERA! Thank you UwU!
+540000002	Awarded to participants of Closed Beta Testing phase of MT: The Dream! Thank you UwU!
+540000003	Awarded to participants of Closed Beta Testing phase of MT: The Dream! Thank you UwU!
 540000013	Use Item &quot;Pride of Menma&quot;
 540000501	Pride of Menma
 540001001	First Place on the Battleground Leaderboard - The Colosseum
@@ -11564,7 +10948,7 @@
 540001102	Awarded to the 1st Place of Menma's Art Contest 2022!
 540001103	Awarded to the 1st Place of Menma's Art Contest 2022!
 540001104	Placed 1st in Menma's Art Contest
-540001105	Menma's TERA Artist
+540001105	MT: The Dream Artist
 540001201	Runners-up of Menma's Art Contest
 540001202	Awarded to the 2nd Place of Menma's Art Contest 2022!
 540001203	Awarded to the 2nd Place of Menma's Art Contest 2022!
@@ -11593,21 +10977,21 @@
 540005011	[Event—Daily] Icing on the Cake x10
 540005012	[Event—Daily] Skyrockets in Flight x10
 540005501	Sun-Kissed
-540006001	Menma's TERA Team
-540006002	Awarded to the currently serving members of Menma's TERA Team!
-540006003	Awarded to the currently serving members of Menma's TERA Team!
-540006011	Join Menma's TERA Team
+540006001	MT: The Dream Team
+540006002	Awarded to the currently serving members of MT: The Dream Team!
+540006003	Awarded to the currently serving members of MT: The Dream Team!
+540006011	Join MT: The Dream Team
 540006501	Menma's Team
 540007001	PvE Leaderboard Rewards Draakon Arena (Hard) 1st Place
 540007002	1st place in the current season
 540007003	1st place in the current season
 540007004	Valkyon Federation
 540007005	Perfectionist
-540007006	Menma's TERA Tester
-540007007	Awarded to the currently active Menma's TERA Testers!
-540007008	Awarded to the currently active Menma's TERA Testers!
+540007006	MT: The Dream Tester
+540007007	Awarded to the currently active MT: The Dream Testers!
+540007008	Awarded to the currently active MT: The Dream Testers!
 540007009	Valkyon Federation
-540007010	Become a Tester for Menma's TERA
+540007010	Become a Tester for MT: The Dream
 540007011	Notable Contributor
 540008001	PvE Leaderboard Rewards Draakon Arena (Hard) 2nd, 3rd Place
 540008002	2nd or 3rd place in the current season
@@ -11649,6 +11033,26 @@
 540020003	2nd or 3rd place in the current season
 540020004	Valkyon Federation
 540020005	Harbinger of Shadows
+540021001	PvE Leaderboard Rewards Shadow Sanguinary (Hard) 1st Place
+540021002	1st place in the current season
+540021003	1st place in the current season
+540021004	Valkyon Federation
+540021005	Bloodshard Master
+540022001	PvE Leaderboard Rewards Shadow Sanguinary (Hard) 2nd, 3rd Place
+540022002	2nd or 3rd place in the current season
+540022003	2nd or 3rd place in the current season
+540022004	Valkyon Federation
+540022005	Bloodshard Apprentice
+540023001	PvE Leaderboard Rewards Velik's Sanctuary (Hard) 1st Place
+540023002	1st place in the current season
+540023003	1st place in the current season
+540023004	Valkyon Federation
+540023005	Greedier than the Avaricious
+540024001	PvE Leaderboard Rewards Velik's Sanctuary (Hard) 2nd, 3rd Place
+540024002	2nd or 3rd place in the current season
+540024003	2nd or 3rd place in the current season
+540024004	Valkyon Federation
+540024005	Pursuer of Greed
 540030001	Pulling Back the Veil
 540030002	Defeat Hagufna in the Forbidden Arena within 4 minutes.
 540030003	Defeat Hagufna in the Forbidden Arena within 4 minutes.
@@ -11785,45 +11189,78 @@
 540051003	Use the Lucky Title Token.
 540051004	Valkyon Federation
 540051005	Lucky
+540052001	PvE Leaderboard Rewards Scorching Sky Cruiser 1st Place
+540052002	1st place in the current season
+540052003	1st place in the current season
+540052004	Valkyon Federation
+540052005	Caution! Hot!
+540053001	PvE Leaderboard Rewards Scorching Sky Cruiser 2nd, 3rd Place
+540053002	2nd or 3rd place in the current season
+540053003	2nd or 3rd place in the current season
+540053004	Valkyon Federation
+540053005	I'm Just Warming up!
+540054001	Armory Apprentice
+540054002	Raised your Armory skill to 100.
+540054003	Raised your Armory skill to 100.
+540054004	Valkyon Federation
+540055001	Armory Artisan
+540055002	Raised your Armory skill to 650.
+540055003	Raised your Armory skill to 650.
+540055004	Valkyon Federation
+540056001	Armory Master
+540056002	Level up Armory to Master.
+540056003	Level up Armory to Master.
+540056004	Valkyon Federation
+540056005	Master Armorer
+540057001	PvE Leaderboard Rewards Dark Reach Citadel (Hard) 1st Place
+540057002	1st place in the current season
+540057003	1st place in the current season
+540057004	Valkyon Federation
+540057005	Exorcist
+540058001	PvE Leaderboard Rewards Dark Reach Citadel (Hard) 2nd, 3rd Place
+540058002	2nd or 3rd place in the current season
+540058003	2nd or 3rd place in the current season
+540058004	Valkyon Federation
+540058005	Subjugated the Demon
 549998001	Menma's Platform Manager
-549998002	Awarded to the currently serving members of Menma's TERA Team!
-549998003	Awarded to the currently serving members of Menma's TERA Team!
-549998011	Become Menma's TERA Platform Manager
+549998002	Awarded to the currently serving members of MT: The Dream Team!
+549998003	Awarded to the currently serving members of MT: The Dream Team!
+549998011	Become MT: The Dream Platform Manager
 549998501	Platform Manager
 549999001	Menma's Operations Manager
-549999002	Awarded to the currently serving members of Menma's TERA Team!
-549999003	Awarded to the currently serving members of Menma's TERA Team!
-549999011	Become Menma's TERA Operation Manager
+549999002	Awarded to the currently serving members of MT: The Dream Team!
+549999003	Awarded to the currently serving members of MT: The Dream Team!
+549999011	Become MT: The Dream Operation Manager
 549999501	Operations Manager
 550000001	Menma's Content Lead
-550000002	Awarded to the currently serving members of Menma's TERA Team!
-550000003	Awarded to the currently serving members of Menma's TERA Team!
-550000011	Become Menma's TERA Content Lead
+550000002	Awarded to the currently serving members of MT: The Dream Team!
+550000003	Awarded to the currently serving members of MT: The Dream Team!
+550000011	Become MT: The Dream Content Lead
 550000501	Content Lead
 550001001	Menma's Content Designer
-550001002	Awarded to the currently serving members of Menma's TERA Team!
-550001003	Awarded to the currently serving members of Menma's TERA Team!
-550001011	Become Menma's TERA Content Designer
+550001002	Awarded to the currently serving members of MT: The Dream Team!
+550001003	Awarded to the currently serving members of MT: The Dream Team!
+550001011	Become MT: The Dream Content Designer
 550001501	Content Designer
 550002001	Menma's Game Manager
-550002002	Awarded to the currently serving members of Menma's TERA Team!
-550002003	Awarded to the currently serving members of Menma's TERA Team!
-550002011	Become Menma's TERA Game Manager
+550002002	Awarded to the currently serving members of MT: The Dream Team!
+550002003	Awarded to the currently serving members of MT: The Dream Team!
+550002011	Become MT: The Dream Game Manager
 550002501	Game Manager
 550003001	Menma's Community Manager
-550003002	Awarded to the currently serving members of Menma's TERA Team!
-550003003	Awarded to the currently serving members of Menma's TERA Team!
-550003011	Become Menma's TERA Community Manager
+550003002	Awarded to the currently serving members of MT: The Dream Team!
+550003003	Awarded to the currently serving members of MT: The Dream Team!
+550003011	Become MT: The Dream Community Manager
 550003501	Community Manager
 550004001	Menma's Developer
-550004002	Awarded to the currently serving developers of Menma's TERA Team!
-550004003	Awarded to the currently serving developers of Menma's TERA Team!
-550004011	Become Menma's TERA Community Developer
+550004002	Awarded to the currently serving developers of MT: The Dream Team!
+550004003	Awarded to the currently serving developers of MT: The Dream Team!
+550004011	Become MT: The Dream Community Developer
 550004501	Developer
 550006001	Menma's Art Designer
-550006002	Awarded to the currently serving art designers of Menma's TERA Team!
-550006003	Awarded to the currently serving art designers of Menma's TERA Team!
-550006011	Become Menma's TERA Community Art Designer
+550006002	Awarded to the currently serving art designers of MT: The Dream Team!
+550006003	Awarded to the currently serving art designers of MT: The Dream Team!
+550006011	Become MT: The Dream Community Art Designer
 550006501	Art Designer
 550007001	Shoreline Invader
 550007002	Won once in Shore Hold.
@@ -11937,6 +11374,325 @@
 550030003	Use the Fighter of Arborea I Title Token.
 550030004	Valkyon Federation
 550030005	Fighter I
+550031001	Refu-gee-whiz!
+550031002	Climb the hills south of Cultist Refuge in Baldera and find the Wall of Wordcraft.
+550031003	Climb the hills south of Cultist Refuge in Baldera.
+550031004	Valkyon Federation
+550031005	Climb the hills south of Cultist Refuge in Baldera.
+550032001	Baldera Beacon
+550032002	Climb the hills west of Balderon and find the Wall of Wordcraft.
+550032003	Climb the hills west of Balderon.
+550032004	Valkyon Federation
+550032005	Climb the hills west of Balderon.
+550033001	In Memory of Baldera
+550033002	Complete the achievements listed below.
+550033003	Complete the achievements listed below.
+550033004	Valkyon Federation
+550033005	Refu-gee-whiz!
+550033006	Baldera Beacon
+550033007	A Knife in the Back
+550034001	Two Birds One Stone
+550034002	Hunted 50 Forest Raptors, and Argonomorph Forest Raptors each in Forest of Souls.
+550034003	Hunt 50 Forest Raptors and Argonomorph Forest Raptors each in Forest of Souls.
+550034005	Birdwatcher
+550034800	Argonomorph Forest Raptor kill count:
+550034801	Forest Raptor kill count:
+550035001	Valkyon Agenda
+550035002	Completed 100 daily Valkyon Board challenges.
+550035003	Completed 100 daily Valkyon Board challenges.
+550035004	Valkyon Federation
+550035005	Strike first, ask questions later.
+550035800	Daily Valkyon Board challenges:
+550036001	Chopping Down a Tree
+550036002	Hunted 50 Withering Ghilliedhu, Mossy Ghilliedhu, and Blooming Ghilliedhu each in Cultist Refuge.
+550036003	Hunt 50 Withering Ghilliedhu, Mossy Ghilliedhu, and Blooming Ghilliedhu each in Cultist Refuge.
+550036501	Mossy
+550036800	Withering Ghilliedhu kill count:
+550036801	Mossy Ghilliedhu kill count:
+550036802	Blooming Ghilliedhu kill count:
+550037001	Zalikari Out
+550037002	Hunted 50 Elite Zalikari Warriors, Zalikari Champions, and Zalikari Scouts each in Cultist Refuge.
+550037003	Hunt 50 Elite Zalikari Warriors, Zalikari Champions, and Zalikari Scouts each in Cultist Refuge.
+550037501	Sticky
+550037800	Elite Zalikari Warrior kill count:
+550037801	Elite Zalikari Champion kill count:
+550037802	Elite Zalikari Scout kill count:
+550038001	Back To The Ground You Go
+550038002	Hunted 50 Polluted Tree Spirits in Renegade Garden.
+550038003	Hunt 50 Polluted Tree Spirit in Renegade Garden.
+550038800	Polluted Tree Spirit kill count:
+550039001	We Have a Spider Problem
+550039002	Hunted 50 Ferocious Forest Ovoliths and Angry Forest Ovoliths each in Cultist Refuge.
+550039003	Hunt 50 Ferocious Forest Ovoliths and Angry Forest Ovoliths each in Cultist Refuge.
+550039501	Sneaky
+550039800	Ferocious Forest Ovolith kill count:
+550039801	Angry Forest Ovolith kill count:
+550040001	Its Time To Rest
+550040002	Hunted 50 Shadow Souls and Disturbed Shadow Souls in Forest of Souls.
+550040003	Hunt 50 Shadow and Disturbed Shadow Souls Souls in Forest of Souls.
+550040800	Shadow Souls kill count:
+550040801	Disturbed Shadow Souls kill count:
+550041001	Why So Bloody?
+550041002	Hunted 50 Infernal Bloodguard, Bloodmistress,Bloodmages and Bloodweavers each in Shurian Base.
+550041003	Hunt 50 Infernal Bloodguard, Bloodmistress,Bloodmages and Bloodweavers each in Shurian Base.
+550041501	Bound
+550041800	Infernal Bloodguard kill count:
+550041801	Infernal Bloodmistress kill count:
+550041802	Infernal Bloodweaver kill count:
+550041803	Infernal Bloodmage kill count:
+550042001	For The Horns
+550042002	Rid Cultist Refuge of Horned Basilisks.
+550042003	Rid Cultist Refuge of Horned Basilisks.
+550042004	Valkyon Federation
+550042802	Horned Basilisk kill count:
+550043001	Rune-tastic Beasts
+550043002	Rid Renegade Garden of Ashen Reavers.
+550043003	Rid Renegade Garden of Ashen Reavers.
+550043004	Valkyon Federation
+550043802	Ashen Reaver kill count:
+550044001	Harsh Gardening
+550044002	Rid Cultist Refuge of Tenacious Forest Ovoliths.
+550044003	Rid Cultist Refuge of Tenacious Forest Ovoliths.
+550044004	Valkyon Federation
+550044802	Tenacious Forest Ovolith kill count:
+550045001	Rocks Everywhere
+550045002	Rid Renegade Garden of Narvuul Teraliths.
+550045003	Rid Renegade Garden of Narvuul Teraliths.
+550045004	Valkyon Federation
+550045802	Narvuul Teralith kill count:
+550046001	Guardian-No More
+550046002	Rid Forest of Souls of Guardian Hydraths.
+550046003	Rid Forest of Souls of Guardian Hydraths.
+550046004	Valkyon Federation
+550046802	Guardian Hydrath kill count:
+550047001	Prophets of Doom
+550047002	Slay Saravash's Shade and Halveterak's Shade in Baldera.
+550047003	Slay Saravash's Shade and Halveterak's Shade in Baldera.
+550047004	Valkyon Federation
+550047501	Seer
+550047800	Saravash's Shade
+550047801	Halveterak's Shade
+550048001	Cleared Out Baldera
+550048002	Completed the achievements listed below:
+550048003	Completed the achievements listed below:
+550048004	Valkyon Federation
+550048800	Chopping Down a Tree
+550048801	Zalikari Out
+550048802	Back To The Ground You Go
+550048803	We Have a Spider Problem
+550048804	Its Time To Rest
+550048805	Why So Bloody?
+550049001	Max Bloodshard Gear
+550049002	Upgrade Crimson/Scarlet gear and complete "[Important] Blood Pact Fulfilled"
+550049003	Upgrade Crimson/Scarlet gear and complete "[Important] Blood Pact Fulfilled"
+550049004	Valkyon Federation
+550049501	Blood-Soaked
+550049800	[Important] Blood Pact Fulfilled
+550050001	Cleaned Balderon Pond!
+550050002	Acquired the items listed below:
+550050003	Acquired the items listed below:
+550050004	Valkyon Federation
+550050501	Pond Purifier
+550050800	Waterlogged Journal
+550050801	Unyielding Bastion: Myth or Reality?
+550050802	Shade's Findings: Argons
+550050803	'Unstable Etching'
+550050804	The Desire Square Experience
+550050805	Worn Vanarch Flag
+550050806	Shade's Findings: Baldera
+550050807	Restricted Orders
+550050808	World's Catchiest Pick-up Lines
+550051001	Keeping Supplies in Check
+550051002	Completed the following quests in Baldera District:
+550051003	Completed the following quests in Baldera District:
+550051004	Valkyon Federation
+550051501	Curator
+550051800	Ir-Ration-al Response
+550051801	Shifting Harmony
+550051802	Obsidian Silex Supply
+550051803	Eliminate The Bloody Devas
+550052001	It's Just a Hobby..
+550052002	Completed the following quests in Baldera District:
+550052003	Completed the following quests in Baldera District:
+550052004	Valkyon Federation
+550052501	Florist
+550052800	Bee-Keepers Gone Wild
+550052801	Looking For A Gardener?
+550053001	"Shady" Business
+550053002	Discover Dakuryon's Report in Shadow Sanguinary (Hard).
+550053003	Discover Dakuryon's Report in Shadow Sanguinary (Hard).
+550053004	Valkyon Federation
+550053005	Find and Read Dakuryon's Report in Shadow Sanguinary (Hard).
+550054001	Forgotten Origins
+550054002	Found a puzzling monument in the Renegade Garden.
+550054003	Found a puzzling monument in the Renegade Garden.
+550054004	Valkyon Federation
+550054800	Found a puzzling monument in the Renegade Garden.
+550055001	You Can't Escape Fate
+550055002	Found a puzzling monument in the Shurian Base.
+550055003	Found a puzzling monument in the Shurian Base.
+550055004	Valkyon Federation
+550055800	Found a puzzling monument in the Shurian Base.
+550056001	The Start of Something New
+550056002	Completed the following quests in Baldera District:
+550056003	Completed the following quests in Baldera District:
+550056004	Valkyon Federation
+550056800	Clean Slate
+550057001	Good Morning, Baldera!
+550057002	Completed the following quests in Baldera District:
+550057003	Completed the following quests in Baldera District:
+550057004	Valkyon Federation
+550057800	Renegade Brigade
+550058001	The Federation’s Job is Never Done
+550058002	Completed the following quests in Baldera District:
+550058003	Completed the following quests in Baldera District:
+550058004	Valkyon Federation
+550058800	Fates Intertwined
+550059001	Language Barrier
+550059002	Completed the following quests in Baldera District:
+550059003	Completed the following quests in Baldera District:
+550059004	Valkyon Federation
+550059800	One with the Forest
+550060001	Something Sinister
+550060002	Completed the following quests in Baldera District:
+550060003	Completed the following quests in Baldera District:
+550060004	Valkyon Federation
+550060800	Infernal Ties
+550061001	An Ancient God Beckons
+550061002	Completed the following quests in Baldera District:
+550061003	Completed the following quests in Baldera District:
+550061004	Valkyon Federation
+550061800	Taste of the Inferno
+550061805	Witness to the Inferno
+550062001	Cleared Spring of Arun
+550062002	Acquired the items listed below:
+550062003	Acquired the items listed below:
+550062004	Valkyon Federation
+550062501	Hey, how'd I get here?
+550062800	Prussian Carp
+550062801	Speckled Skate
+550062802	Spring Marlin
+550062803	Stream Catfish
+550062804	Vibrant Koi
+550063001	Cleared Spring of Arun!
+550063002	Acquired the items listed below:
+550063003	Acquired the items listed below:
+550063004	Valkyon Federation
+550063501	Cleanup Crew
+550063800	Chipped Idoneal Ring
+550063801	Old Wet Shoe
+550063802	Missing Persons Report
+550063803	Balderon Archives: Record #7006
+550063804	Burnt Picture
+550063805	Infernal Covenant Recruitment Poster
+550063806	Balderon Guard Armor
+550063807	Balderon Archives: Record #9508
+550063808	Federation Bill
+550064001	I’m Feeling Lucky!
+550064002	Acquired the items listed below:
+550064003	Acquired the items listed below:
+550064004	Valkyon Federation
+550064501	I'm Feeling Lucky
+550064800	"Golden" Ticket
+550065001	Garbage Collector
+550065002	Complete the achievements listed below.
+550065003	Complete the achievements listed below.
+550065004	Valkyon Federation
+550065501	Picks Up Garbage
+550065800	Cleaned Highwatch Pond!
+550065801	Cleaned Balderon Pond!
+550065802	Cleaned Spring of Arun!
+550066001	Fishing Enjoyer
+550066002	Complete the achievements listed below.
+550066003	Complete the achievements listed below.
+550066004	Valkyon Federation
+550066501	Enjoys the Endgame
+550066800	Cleared Celsian Lake Fishery
+550066801	Cleared Cutthroat Harbor Fishery
+550066802	Cleared Lake of Tears Fishery
+550066803	Cleared Muricai Fishery
+550066804	Cleared Seren’s Lake Fishery
+550066805	Cleared Vexatus Swamp Fishery
+550066806	Cleared Spring of Arun
+550066807	Cleaned Highwatch Pond!
+550066808	Cleaned Balderon Pond!
+550066809	Cleaned Spring of Arun!
+550067001	Lab Rat
+550067002	Completed the following quests in Baldera District:
+550067003	Completed the following quests in Baldera District:
+550067004	Valkyon Federation
+550067800	The USDA Wouldn't Like This
+550067805	Caution! May Combust!
+550068001	Fight or Flight
+550068002	Defeat Nightmare Lakan in Velik's Sanctuary (Hard) in 5 minutes or less.
+550068003	Defeat Nightmare Lakan in Velik's Sanctuary (Hard) in 5 minutes or less.
+550068004	Valkyon Federation
+550068800	Defeat Nightmare Lakan in 5 minutes or less
+550069001	Ungodly Luck
+550069002	Defeat Nightmare Lakan in Velik's Sanctuary (Hard) without dying once.
+550069003	Defeat Nightmare Lakan in Velik's Sanctuary (Hard) without dying once.
+550069004	Valkyon Federation
+550069800	Defeat Nightmare Lakan in Velik's Sanctuary (Hard) without dying
+550070001	Trail of Dead Gods
+550070002	Defeat Nightmare Lakan in Velik's Sanctuary (Hard) 100 times.
+550070003	Defeat Nightmare Lakan in Velik's Sanctuary (Hard) 100 times.
+550070004	Valkyon Federation
+550070501	Velik's Champion
+550070800	Defeat Nightmare Lakan in Velik's Sanctuary (Hard) 100 times
+550071001	Godslayer
+550071002	Completed the achievements listed below:
+550071003	Completed the achievements listed below:
+550071004	Valkyon Federation
+550071501	Godslayer
+550071800	Overcoming Hurdles
+550071801	Per Tenebras
+550071802	Fight or Flight
+550071803	Ungodly Luck
+550071804	Trail of Dead Gods
+555006001	Easy as Pie!
+555006002	Completed the 5th challenge in Dreadspire.
+555006003	Completed the 5th challenge in Dreadspire.
+555006004	Valkyon Federation
+555006800	Completed the 5th challenge in Dreadspire.
+555007001	Conquering of Dreadspire
+555007002	Completed the 10th challenge in Dreadspire.
+555007003	Completed the 10th challenge in Dreadspire.
+555007004	Valkyon Federation
+555007800	Completed the 10th challenge in Dreadspire.
+555008001	Dreadspire Dominator
+555008002	Defeat 10th challenge in Dreadspire 77 times.
+555008003	Defeat 10th challenge in Dreadspire 77 times.
+555008004	Valkyon Federation
+555008005	Daredevil
+555008800	Defeat 10th challenge in Dreadspire 77 times.
+555009001	Dreadspire Delight
+555009002	Complete all challenges in Dreadspire without dying.
+555009003	Complete all challenges in Dreadspire without dying.
+555009004	Valkyon Federation
+555009501	Immortal
+555009800	Complete the 1st challenge in Dreadspire without dying.
+555009801	Complete the 2nd challenge in Dreadspire without dying.
+555009802	Complete the 3rd challenge in Dreadspire without dying.
+555009803	Complete the 4th challenge in Dreadspire without dying.
+555009804	Complete the 5th challenge in Dreadspire without dying.
+555009805	Complete the 6th challenge in Dreadspire without dying.
+555009806	Complete the 7th challenge in Dreadspire without dying.
+555009807	Complete the 8th challenge in Dreadspire without dying.
+555009808	Complete the 9th challenge in Dreadspire without dying.
+555009809	Complete the 10th challenge in Dreadspire without dying.
+555010001	Phantom Crystal Destroyer
+555010002	Completed the achievements listed below:
+555010003	Completed the achievements listed below:
+555010004	Valkyon Federation
+555010005	Dreadspire Dominator
+555010006	Dreadspire Delight
+555010501	Death-Defying
+555011001	Ten-tackle Me Instead!
+555011002	Defeat 100 Tentacle's Shade in Dreadspire.
+555011003	Defeat 100 Tentacle's Shade in Dreadspire.
+555011004	Valkyon Federation
+555011005	Tentacle Killer
+555011800	Defeat 100 Tentacle's Shade in Dreadspire.
 800000001	Personal Title
 800000002	Purchased a personal title from Menma's Shop.
 800000003	Purchased a personal title from Menma's Shop.
@@ -11956,7 +11712,7 @@
 800000017	Bahaar's Wife
 800000018	Veni Vidi Vici
 800000019	umu
-800000020	Woox of Menma's TERA
+800000020	Woox of The Dream
 800000021	Bringer of Armageddon
 800000022	Devoted
 800000023	Memento Mori
@@ -11968,7 +11724,7 @@
 800000029	Antagonist
 800000030	I Am The Wine!
 800000031	Princess
-800000032	Main Clown of Menma's TERA
+800000032	Main Clown of The Dream
 800000033	Ecliptic
 800000034	Professor
 800000035	Ashes of Al'ar
@@ -11997,3 +11753,6 @@
 800000058	Silverio Gospel
 800000059	baddie
 800000060	Casley's Bean
+800000061	Tickle your Pickle
+800000062	White Fox
+800000063	Forever Nooblet
