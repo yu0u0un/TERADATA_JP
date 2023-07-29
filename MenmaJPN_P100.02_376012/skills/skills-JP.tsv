@@ -14546,21 +14546,21 @@
 98140060	Common	Common	Common	[イベント] アイスフィッシュの餌			icon_items.worm01_tex
 98140062	Common	Common	Common	減速のポーション			icon_items.potion9_tex
 98141000	Common	Common	Common	Menma's 強靭な万能秘薬			icon_items.menma_strong_multinostrum
-98150000	Common	Common	Common	入場回数追加券 [Scorching Sky Cruiser]			icon_items.dungeonresetscroll_tex
-98150002	Common	Common	Common	入場回数追加券 [陥落したヴェリックの神殿 ]			icon_items.dungeonresetscroll_tex
-98150003	Common	Common	Common	入場回数追加券 [アンタレスの深淵 (Hard)]			icon_items.dungeonresetscroll_tex
+98150000	Common	Common	Common	入場回数追加券 [烈風のエルカラス号]			icon_items.dungeonresetscroll_tex
+98150002	Common	Common	Common	入場回数追加券 [陥落したヴェリックの神殿]			icon_items.dungeonresetscroll_tex
+98150003	Common	Common	Common	入場回数追加券 [虚ろなアンタレスの深淵]			icon_items.dungeonresetscroll_tex
 98150004	Common	Common	Common	入場回数追加券 [暴君デュリオンの潜伏地]			icon_items.dungeonresetscroll_tex
-98150005	Common	Common	Common	入場回数追加券 [The Plexus (Hard)]			icon_items.dungeonresetscroll_tex
+98150005	Common	Common	Common	入場回数追加券 [シャンドラ・マナイア（上級）]			icon_items.dungeonresetscroll_tex
 98150006	Common	Common	Common	入場回数追加券 [暗黒のテネブリス城砦]			icon_items.dungeonresetscroll_tex
 98150007	Common	Common	Common	入場回数追加券 [蛮勇な革命団の隠し砦]			icon_items.dungeonresetscroll_tex
 98150008	Common	Common	Common	入場回数追加券 [破られたヴェリカ地下関門]			icon_items.dungeonresetscroll_tex
-98150009	Common	Common	Common	入場回数追加券 [ヴェリックの神殿 ]			icon_items.dungeonresetscroll_tex
+98150009	Common	Common	Common	入場回数追加券 [ヴェリックの神殿]			icon_items.dungeonresetscroll_tex
 98150010	Common	Common	Common	入場回数追加券 [バルロナの時空間]			icon_items.dungeonresetscroll_tex
-98150011	Common	Common	Common	入場回数追加券 [アンタレスの深淵 (Normal)]			icon_items.dungeonresetscroll_tex
-98150012	Common	Common	Common	入場回数追加券 [Shadow Sanguinary (Normal)]			icon_items.dungeonresetscroll_tex
-98150013	Common	Common	Common	入場回数追加券 [テネブリス城砦 (Normal)]			icon_items.dungeonresetscroll_tex
-98150014	Common	Common	Common	入場回数追加券 [Ruinous Manor (Normal)]			icon_items.dungeonresetscroll_tex
-98150015	Common	Common	Common	入場回数追加券 [Red Refuge (Normal)]			icon_items.dungeonresetscroll_tex
+98150011	Common	Common	Common	入場回数追加券 [アンタレスの深淵 ]			icon_items.dungeonresetscroll_tex
+98150012	Common	Common	Common	入場回数追加券 [デュリオンの潜伏地]			icon_items.dungeonresetscroll_tex
+98150013	Common	Common	Common	入場回数追加券 [テネブリス城砦]			icon_items.dungeonresetscroll_tex
+98150014	Common	Common	Common	入場回数追加券 [ラケリスの廃墟]			icon_items.dungeonresetscroll_tex
+98150015	Common	Common	Common	入場回数追加券 [革命団の隠し砦]			icon_items.dungeonresetscroll_tex
 98150016	Common	Common	Common	[GM Tool] 入場回数追加券			icon_items.dungeonresetscroll_tex
 98150019	Common	Common	Common	奇妙なポーション			icon_items.q_oddpotion_tex
 98150020	Common	Common	Common	不気味なポーション			icon_items.q_weirdpotion_tex

@@ -650,7 +650,7 @@
 203	SMT_CHAT_NOT_IN_UNIONPARTY	レイドに参加していません。
 203	SMT_CHAT_PASSWORD_IS_FAIL	パスワードは4桁の数字（1000～9999）でのみ入力できます。
 203	SMT_CHAT_PENALTY_START	チャットを連続で入力したため、入力禁止になりました。
-203	SMT_CHAT_QNA_NOTICE	非公式なパッチなため不具合,BAN自己責任で。(JPpatch.ゆん)
+203	SMT_CHAT_QNA_NOTICE	ようこそアルボレアへ！
 203	SMT_CHAT_QNA_NOTICE_LINK	<font color = '#FFFF00'>クリックして移動する。</font>
 201	SMT_CHAT_VIOLATION	SMT_CHAT_VIOLATION
 203	SMT_CHAT_WHISPER_SELF	対象に誤りがあります。
@@ -1195,7 +1195,7 @@
 201	SMT_HIT_SMILE_FIREWORK	{UserName}に花火を当てられました。
 203	SMT_HOLD_PLAYER_CANT_LEAVE_WORLD	制裁中はゲームを終了することができません。
 203	SMT_HOLD_PLAYER_CANT_USE_ITEM	制裁中はアイテムを使用することができません。
-201	SMT_HUNTINGZONE_EVENT_ANNOUNCE	イベントが進行中です。詳しい内容は公式ページをご確認ください。https://menmastera.com
+201	SMT_HUNTINGZONE_EVENT_ANNOUNCE	イベントが進行中です。詳しい内容は公式ページをご確認ください。https://mtdream.net
 201	SMT_INCREASE_SKILL_RANK	{Skill}が{Rank}ランクになりました。
 201	SMT_INCREMENT_CHARACTER_SOCKET	スロットを追加しました。
 201	SMT_INGAMESTORE_BASKET_ADDED	ショッピングカートに追加しました

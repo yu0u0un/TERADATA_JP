@@ -462,7 +462,7 @@
 25104	レストレントカーズ	250100	icon_skills.curseofshackle_tex	追跡の紋章	icon_crest.e_crestpassivelockontargetup_tex	最大ロックオン対象数が100%増加
 25105	アルケインパルス	40100	icon_skills.blastball_tex	必殺の紋章	icon_crest.e_crestpassivecriticalup_tex	クリティカル発生が2.5倍上昇（5秒間持続）
 25106	ペトリファイドスケイル	280100	icon_skills.stoneshape_tex	集中の紋章	icon_crest.e_crestpassivecooltimedown_tex	クールタイムを30%短縮
-25107	マナバースト	300100	icon_skills.manaburst_tex	必殺の紋章	icon_crest.e_crestpassivecriticalup_tex	クリティカル発生が2.5倍上昇（4秒間持続）
+25107	マナバースト	300100	icon_skills.manaburst_tex	必殺の紋章	icon_crest.e_crestpassivecriticalup_tex	クリティカル発生が2.5倍上昇（5秒間持続）
 25108	サンダーフォール	110100	icon_skills.c5_lightningstruck	機会の紋章	icon_crest.e_crestactivecooltimereset_tex	50%の確率でクールタイムが初期化
 25109	グラシエスランス	350100	icon_skills.icespear_tex	闘志の紋章	icon_crest.e_crestpassiveattackup_tex	スキル威力が12%増加
 26000	コンボアロー	20100	icon_skills.arrowshower_tex	追跡の紋章	icon_crest.e_crestpassivelockontargetup_tex	最大ロックオン対象数が0%増加

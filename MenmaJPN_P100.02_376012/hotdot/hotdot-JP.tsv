@@ -1416,13 +1416,13 @@
 15080	HPChange	DOT	False	abs	30000	1	-10	シャルティサンダー			雷の衝撃により、移動速度が$H_W_BAD-10$COLOR_END減少し、$H_W_BAD1s$COLOR_END毎にHPが$H_W_BAD-10$COLOR_END減少します。	icon_status.minusmove_tex	icon_status.minusmove_tex	True
 15090	CritPower	Buff	True	abs	30000	1	10	ブルカヌスの憤怒			溢れる怒りにより、クリティカル威力が$H_W_GOOD10$COLOR_END増加します。	icon_status.plusecritical_tex	icon_status.plusecritical_tex	True
 15100	HPChange	DOT	False	abs	4000	2	-4770	野獣の呪い：中毒			致命的な猛毒により、$H_W_BAD2s$COLOR_END毎にHPが$H_W_BAD-4770$COLOR_END減少します。	icon_status.delaydamage_tex	icon_status.delaydamage_tex	True
-15110	Attack	Buff	True	perc	300000	0	1.1	異界の雷			スキル威力が$H_W_GOOD10%$COLOR_END増加します。	icon_status.damageup_tex	icon_status.damageup_tex	True
-15111	Attack	Buff	True	perc	15000	0	1.2	Temporary Blood Pact			Kill monsters to transform into a longer pact.$BRIncreases Skill damage by $H_W_GOOD20%$COLOR_END.	icon_status.damageup_tex	icon_status.damageup_tex	True
-15112	Attack	Buff	True	perc	15000	0	1.1	Weak Blood Pact			Kill monsters to transform into a longer pact.$BRIncreases Skill damage by $H_W_GOOD10%$COLOR_END.	icon_status.damageup_tex	icon_status.damageup_tex	True
-15115	Attack	Buff	True	perc	300000	0	1.2	Fire Shard Synergy			Enhanced by the flames.$BRIncreases Skill damage by $H_W_GOOD20%$COLOR_END.	icon_items.campfire_tex	icon_items.campfire_tex	True
-15116	Attack	DOT	True	perc	20000	0	0.8	Fire Jinn Magic			The Fire Jinn prescence weakens you.$BRKill him to remove the effect and increase your damage with his Shard.$BRDecreases Skill damage by $H_W_BAD20%$COLOR_END.	icon_status.delayheal_tex	icon_status.delayheal_tex	True
-15117	Attack	Buff	True	perc	300000	0	1.2	Ice Shard Synergy			Enhanced by the ice.$BRIncreases Skill damage by $H_W_GOOD20%$COLOR_END.	icon_items.campfire02_tex	icon_items.campfire02_tex	True
-15118	Attack	DOT	True	perc	20000	0	0.8	Ice Jinn Magic			The Ice Jinn prescence weakens you.$BRKill him to remove the effect and increase your damage with his Shard.$BRDecreases Skill damage by $H_W_BAD20%$COLOR_END.	icon_status.delaympgain_tex	icon_status.delaympgain_tex	True
+15110	Attack	Buff	True	perc	300000	0	1.1	モンスターの血強化			スキル威力が$H_W_GOOD10%$COLOR_END増加。	icon_status.damageup_tex	icon_status.damageup_tex	True
+15111	Attack	Buff	True	perc	15000	0	1.2	一時的な血盟			モンスターを倒し、より長い盟約に変身する。$BRスキル威力が$H_W_GOOD20%$COLOR_END増加。	icon_status.damageup_tex	icon_status.damageup_tex	True
+15112	Attack	Buff	True	perc	15000	0	1.1	弱い血盟			モンスターを倒し、より長い盟約に変身する。$BRスキル威力が$H_W_GOOD10%$COLOR_END増加。	icon_status.damageup_tex	icon_status.damageup_tex	True
+15115	Attack	Buff	True	perc	300000	0	1.2	ファイアーシャード・シナジー			炎によって強化される。$BRスキル威力が$H_W_GOOD20%$COLOR_END増加。	icon_items.campfire_tex	icon_items.campfire_tex	True
+15116	Attack	DOT	True	perc	20000	0	0.8	ファイヤージン・マジック			ファイア・ジンの存在があなたを弱体化させる。$BR彼を倒すと効果が消え、彼のシャードでダメージが増加する。.$BRスキル威力が$H_W_BAD20%$COLOR_END低下。	icon_status.delayheal_tex	icon_status.delayheal_tex	True
+15117	Attack	Buff	True	perc	300000	0	1.2	アイスシャード・シナジー			氷によって強化される。$BRスキル威力が$H_W_GOOD20%$COLOR_END増加。	icon_items.campfire02_tex	icon_items.campfire02_tex	True
+15118	Attack	DOT	True	perc	20000	0	0.8	アイスジン・マジック			アイス・ジンの存在があなたをを弱体化させる。$BR彼を倒すと効果が消え、彼のシャードでダメージが増加する。.$BRスキル威力が$H_W_BAD20%$COLOR_END低下。	icon_status.delaympgain_tex	icon_status.delaympgain_tex	True
 15120	MovSpd	Debuff	False	setp	7000	0	0	樹縛			効果持続中、非戦闘状態での移動速度が減少し、戦闘状態ではその場から動けません。	icon_status.paralyzestatus_tex	icon_status.paralyzestatus_tex	True
 15120	MovSpdInCombat	Debuff	False	setp	7000	0	0	樹縛			効果持続中、非戦闘状態での移動速度が減少し、戦闘状態ではその場から動けません。	icon_status.paralyzestatus_tex	icon_status.paralyzestatus_tex	True
 15120	HPDrain	Debuff	False	perc	7000	0	0.1	樹縛			効果持続中、非戦闘状態での移動速度が減少し、戦闘状態ではその場から動けません。	icon_status.paralyzestatus_tex	icon_status.paralyzestatus_tex	True
@@ -1430,7 +1430,7 @@
 15130	HPDrain	Debuff	False	perc	5000	0	0.9	野獣の呪い：束縛			移動速度が$H_W_BAD80%$COLOR_END減少します。	icon_status.minusmove_tex	icon_status.minusmove_tex	True
 15140	ResistNegative	Buff	True	swch	30000	0	0	マジックアーマー			効果持続中、全てのデバフを防ぎます。	icon_status.immunedebuff_tex	icon_status.immunedebuff_tex	True
 15150	AllowAggro	Buff	True	swch	5000	0	0	自然の同化			効果持続中は、敵対値が上昇しません。	icon_status.boundmovedown_tex	icon_status.boundmovedown_tex	True
-15160	Stun	Stun	False	swch	3000	0	5	匠人の打ち締め			気絶しているため動けません。	icon_status.confuseup_tex	icon_status.confuseup_tex	True
+15160	Stun	Stun	False	swch	3000	0	5	スタン			スタン。解除可能。	icon_status.confuseup_tex	icon_status.confuseup_tex	True
 15161	CritResist	Debuff	False	abs	10000	0	-10	匠人の慈悲			クリティカル抵抗が$H_W_BAD-10$COLOR_END減少します。	icon_status.plusciriticalresist_tex	icon_status.plusciriticalresist_tex	True
 15162	CritResist	Debuff	False	abs	10000	0	-20	懲罰者の標識			クリティカル抵抗が$H_W_BAD-20$COLOR_END減少します。	icon_status.plusciriticalresist_tex	icon_status.plusciriticalresist_tex	True
 15163	CritResist	Debuff	False	abs	20000	0	-25	アルガフの烙印			[アルガフの烙印] 発動効果: クリティカル抵抗が$H_W_BAD-25$COLOR_END減少します。	icon_status.minusconfuseresist_tex	icon_status.minusconfuseresist_tex	True
@@ -2370,20 +2370,20 @@
 105307	Endurance	Buff	True	perc	0	0	1	デッドリーウィル II			20s間、クリティカル発生率が$H_W_GOOD50%$COLOR_END上昇します。効果時間中に使用したストームレイザー以外の近接攻撃スキルのクールタイムが半分に減少し、持続時間中、以下のスキルが強化されます。$BR - ［ランブロー IX］：ストックポイントが通常の2倍蓄積され、10％の追加ダメージ。$BR - ［ワイルドレイジ - ディセクト IX］：ストックポイントが通常の2倍蓄積され、10％の追加ダメージ。$BR - ［ゲイルレイザー IX］：スキルの威力が10％、範囲が20％増加します。	icon_skills.deadlywill_tex	icon_skills.deadlywill_tex	False
 105308	StackCounter	Debuff	False	abs	1000	0	105309	貫通			7重複時、防具が破壊され耐久力が減少します。	icon_skills.improveleapattack_tex	icon_skills.improveleapattack_tex	False
 105309	Endurance	Debuff	False	perc	30000	0	0.985	弱化			耐久力が$H_W_BAD1.5%$COLOR_END減少します。	icon_skills.improveleapattack_tex	icon_skills.improveleapattack_tex	True
-170281	359	Buff	True	perc	0	0	0.98	Red Angleworm			Decreases auto-fishing time by 2%.	icon_items.card_level01_fish	icon_items.card_level01_fish	True
-170282	359	Buff	True	perc	0	0	0.97	Green Angleworm			Decreases auto-fishing time by 3%.	icon_items.card_level02_fish	icon_items.card_level02_fish	True
-170283	359	Buff	True	perc	0	0	0.95	Blue Angleworm			Decreases auto-fishing time by 5%.	icon_items.card_level02_fish	icon_items.card_level02_fish	True
-170284	359	Buff	True	perc	0	0	0.93	Purple Angleworm			Decreases auto-fishing time by 7%.	icon_items.card_level03_fish	icon_items.card_level03_fish	True
-170285	359	Buff	True	perc	0	0	0.9	Golden Angleworm			Decreases auto-fishing time by 10%.	icon_items.card_level03_fish	icon_items.card_level03_fish	True
+170281	359	Buff	True	perc	0	0	0.98	最下級ミミズ			自動釣り上げ時間2%減少。	icon_items.card_level01_fish	icon_items.card_level01_fish	True
+170282	359	Buff	True	perc	0	0	0.97	下級ミミズ			自動釣り上げ時間3%減少。	icon_items.card_level02_fish	icon_items.card_level02_fish	True
+170283	359	Buff	True	perc	0	0	0.95	中級ミミズ			自動釣り上げ時間5%減少。	icon_items.card_level02_fish	icon_items.card_level02_fish	True
+170284	359	Buff	True	perc	0	0	0.93	上級ミミズ			自動釣り上げ時間7%減少。	icon_items.card_level03_fish	icon_items.card_level03_fish	True
+170285	359	Buff	True	perc	0	0	0.9	最上級ミミズ			自動釣り上げ時間10%減少。.	icon_items.card_level03_fish	icon_items.card_level03_fish	True
 170286	358	Buff	True	abs	0	0	1	サメの餌			[英語名] Shark Bait $BR天空の遺跡釣り場でサメを釣ることができる	icon_items.premium_pastebait_01_tex	icon_items.premium_pastebait_01_tex	True
 170286	362	Buff	True	swch	0	0	283247	サメの餌			[英語名] Shark Bait $BR天空の遺跡釣り場でサメを釣ることができる	icon_items.premium_pastebait_01_tex	icon_items.premium_pastebait_01_tex	True
-170358	358	Buff	True	abs	0	0	0.1	Fairywing Rod IX			Can catch Grade 8–10 fish.<br>Decreases auto-fishing cooldown by $H_W_GOOD45%$COLOR_END. Increases the chance to catch a BAF by $H_W_GOOD10%$COLOR_END.	icon_skills.fishing_rod03_tex	icon_skills.fishing_rod03_tex	True
-170358	359	Buff	True	perc	0	0	0.55	Fairywing Rod IX			Can catch Grade 8–10 fish.<br>Decreases auto-fishing cooldown by $H_W_GOOD45%$COLOR_END. Increases the chance to catch a BAF by $H_W_GOOD10%$COLOR_END.	icon_skills.fishing_rod03_tex	icon_skills.fishing_rod03_tex	True
-170359	358	Buff	True	abs	0	0	0.2	Fairywing Rod X			Can catch Grade 8–10 fish.<br>Decreases auto-fishing cooldown by $H_W_GOOD50%$COLOR_END. Increases the chance to catch a BAF by $H_W_GOOD20%$COLOR_END.	icon_skills.fishing_rod03_tex	icon_skills.fishing_rod03_tex	True
-170359	359	Buff	True	perc	0	0	0.5	Fairywing Rod X			Can catch Grade 8–10 fish.<br>Decreases auto-fishing cooldown by $H_W_GOOD50%$COLOR_END. Increases the chance to catch a BAF by $H_W_GOOD20%$COLOR_END.	icon_skills.fishing_rod03_tex	icon_skills.fishing_rod03_tex	True
-170360	359	Buff	True	perc	0	0	0.7	Icespike Rod			Can catch Icefish.<br>Decreases auto-fishing cooldown by $H_W_GOOD30%$COLOR_END.	icon_skills.fishing_rod04_tex	icon_skills.fishing_rod04_tex	True
-170361	358	Buff	True	abs	0	0	1	Icefish Bait	282183	[イベント] アイスフィッシュの餌	You can go fishing for Icefish at the $H_W_GOODCelsian Lake Fishery$COLOR_END.	icon_items.worm01_tex	icon_items.worm01_tex	True
-170361	362	Buff	True	swch	0	0	282183	Icefish Bait	282183	[イベント] アイスフィッシュの餌	You can go fishing for Icefish at the $H_W_GOODCelsian Lake Fishery$COLOR_END.	icon_items.worm01_tex	icon_items.worm01_tex	True
+170358	358	Buff	True	abs	0	0	0.1	妖精羽の釣り竿 IX			8~10ランクの魚が釣れる。<br>自動釣り上げ待機時間$H_W_GOOD45%$COLOR_END減少、大物を釣る確率+$H_W_GOOD10%$COLOR_END	icon_skills.fishing_rod03_tex	icon_skills.fishing_rod03_tex	True
+170358	359	Buff	True	perc	0	0	0.55	妖精羽の釣り竿 IX			8~10ランクの魚が釣れる。<br>自動釣り上げ待機時間$H_W_GOOD45%$COLOR_END減少、大物を釣る確率+$H_W_GOOD10%$COLOR_END	icon_skills.fishing_rod03_tex	icon_skills.fishing_rod03_tex	True
+170359	358	Buff	True	abs	0	0	0.2	妖精羽の釣り竿 X			8~10ランクの魚が釣れる。<br>自動釣り上げ待機時間$H_W_GOOD50%$COLOR_END減少、大物を釣る確率+$H_W_GOOD20%$COLOR_END	icon_skills.fishing_rod03_tex	icon_skills.fishing_rod03_tex	True
+170359	359	Buff	True	perc	0	0	0.5	妖精羽の釣り竿 X			8~10ランクの魚が釣れる。<br>自動釣り上げ待機時間$H_W_GOOD50%$COLOR_END減少、大物を釣る確率+$H_W_GOOD20%$COLOR_END	icon_skills.fishing_rod03_tex	icon_skills.fishing_rod03_tex	True
+170360	359	Buff	True	perc	0	0	0.7	氷の釣り竿			アイスフィッシュが釣れる。<br>自動釣り上げ待機時間$H_W_GOOD30%$COLOR_END減少。	icon_skills.fishing_rod04_tex	icon_skills.fishing_rod04_tex	True
+170361	358	Buff	True	abs	0	0	1	アイスフィッシュの餌	282183	[イベント] アイスフィッシュの餌	$H_W_GOOD凍結の涙湖釣り場$COLOR_ENDでアイスフィッシュを釣ることができる。	icon_items.worm01_tex	icon_items.worm01_tex	True
+170361	362	Buff	True	swch	0	0	282183	アイスフィッシュの餌	282183	[イベント] アイスフィッシュの餌	$H_W_GOOD凍結の涙湖釣り場$COLOR_ENDでアイスフィッシュを釣ることができる。	icon_items.worm01_tex	icon_items.worm01_tex	True
 170362	358	Buff	True	perc	0	0	1	えんじ虫の餌			$H_W_GOODアルンの泉$COLOR_ENDのための特別な餌である。	icon_items.dye_material_01_tex	icon_items.dye_material_01_tex	True
 170362	362	Buff	True	swch	0	0	282007	えんじ虫の餌			$H_W_GOODアルンの泉$COLOR_ENDのための特別な餌である。	icon_items.dye_material_01_tex	icon_items.dye_material_01_tex	True
 170363	Drunk	Buff	True	60032	10000	1	0	奇妙なポーション	282027	奇妙なポーション	このポーションを飲んだことを後悔している。	icon_items.q_oddpotion_tex	icon_items.q_oddpotion_tex	True
@@ -3305,7 +3305,7 @@
 503061	DelayedEffect	Buff	True	swch	20000	0	501606	マナイグニッションI			攻撃速度が30％増加し、モンスター攻撃時、スキルダメージが$H_W_GOOD20%$COLOR_END増加します。$BR最大MPが$H_S_GOOD8％$COLOR_END増加します。$BR最大MPをby $H_S_GOOD8%$COLOR_END増加.$BRApplies <font color = '#f9b600'>Future Sight</font> when active.	icon_skills.c5_strengthenmana	icon_skills.c5_strengthenmana	True
 503061	351	Buff	True	swch	20000	0	0	マナイグニッションI			攻撃速度が30％増加し、モンスター攻撃時、スキルダメージが$H_W_GOOD20%$COLOR_END増加します。$BR最大MPが$H_S_GOOD8％$COLOR_END増加します。$BR最大MPをby $H_S_GOOD8%$COLOR_END増加.$BRApplies <font color = '#f9b600'>Future Sight</font> when active.	icon_skills.c5_strengthenmana	icon_skills.c5_strengthenmana	True
 503061	365	Buff	True	swch	20000	0	1	マナイグニッションI			攻撃速度が30％増加し、モンスター攻撃時、スキルダメージが$H_W_GOOD20%$COLOR_END増加します。$BR最大MPが$H_S_GOOD8％$COLOR_END増加します。$BR最大MPをby $H_S_GOOD8%$COLOR_END増加.$BRApplies <font color = '#f9b600'>Future Sight</font> when active.	icon_skills.c5_strengthenmana	icon_skills.c5_strengthenmana	True
-503062	CDR	Buff	True	swch	28800	0	0.92	Future Sight			Reduces cooldown of <font color = '#f9b600'>Meteor Strike</font> and <font color = '#f9b600'>Implosion</font> by $H_W_GOOD8%$COLOR_END.$BR<font color = '#F9B600'>PvEで発動</font>$BRIncreases the damage of <font color = '#f9b600'>Implosion</font> by $H_W_GOOD75%$COLOR_END.	icon_status.clianteffect_tex	icon_status.clianteffect_tex	True
+503062	CDR	Buff	True	swch	28800	0	0.92	未来予知			<font color = '#f9b600'>メテオインパクト</font>と<font color = '#f9b600'>コラプス</font>のCTを$H_W_GOOD8%$COLOR_END減少させる。$BR<font color = '#F9B600'>PvEで適用</font>$BR<font color = '#f9b600'>コラプス</font>のスキルダメージを$H_W_GOOD75%$COLOR_END増加させる。	icon_status.clianteffect_tex	icon_status.clianteffect_tex	True
 503063	AtkPotion	Buff	True	swch	28800	0	1.75	マナイグニッションII（神秘）			攻撃速度が30％増加し、モンスター攻撃時、スキルダメージが$H_W_GOOD20%$COLOR_END増加します。$BR最大MPが$H_S_GOOD8％$COLOR_END増加します。$BR最大MPをby $H_S_GOOD8%$COLOR_END増加.$BRApplies <font color = '#f9b600'>Future Sight</font> when active.	icon_skills.c5_strengthenmana	icon_skills.c5_strengthenmana	False
 503064	CDR	Buff	True	swch	28800	0	0.92	マナイグニッションII（神秘）			攻撃速度が30％増加し、モンスター攻撃時、スキルダメージが$H_W_GOOD20%$COLOR_END増加します。$BR最大MPが$H_S_GOOD8％$COLOR_END増加します。$BR最大MPをby $H_S_GOOD8%$COLOR_END増加.$BRApplies <font color = '#f9b600'>Future Sight</font> when active.	icon_skills.c5_strengthenmana	icon_skills.c5_strengthenmana	False
 503071	MPChange	Buff	False	perc	5000	1	-0.04	マナイグニッションI			MPを毎秒4％減少します。	icon_skills.c5_strengthenmana	icon_crest.e_crestpassivempdown_tex	True
@@ -3357,7 +3357,7 @@
 600904	HPChange	DOT	False	abs	12000	2	-959	ポイズンアロー V			$H_W_BAD2s$COLOR_END毎にHPが$H_W_BAD-959$COLOR_END減少します。効果は最大3回まで重複します。	icon_skills.venomarrow_tex	icon_skills.venomarrow_tex	True
 600905	HPChange	DOT	False	abs	12000	2	-1328	ポイズンアロー VI			$H_W_BAD2s$COLOR_END毎にHPが$H_W_BAD-1328$COLOR_END減少します。効果は最大3回まで重複します。	icon_skills.venomarrow_tex	icon_skills.venomarrow_tex	True
 600906	HPChange	DOT	False	abs	12000	2	-1871	ポイズンアロー			$H_W_BAD2s$COLOR_END毎にHPが$H_W_BAD-1871$COLOR_END減少します。効果は最大3回まで重複します。	icon_skills.venomarrow_tex	icon_skills.venomarrow_tex	True
-600907	HPChange	DOT	False	abs	12000	2	-3128	ポイズンアロー VIII			$H_W_BAD2s$COLOR_END毎にHPが$calcValue(multiple,51,0,3)減少します。効果は最大3回まで重複します。	icon_skills.venomarrow_tex	icon_skills.venomarrow_tex	True
+600907	HPChange	DOT	False	abs	12000	2	-3128	ポイズンアロー VIII			$H_W_BAD2s$COLOR_END毎にHPが$H_W_BAD-3128$COLOR_END減少します。効果は最大3回まで重複します。	icon_skills.venomarrow_tex	icon_skills.venomarrow_tex	True
 600908	HPChange	DOT	False	abs	12000	2	-3780	ポイズンアロー IX			$H_W_BAD2s$COLOR_END毎にHPが$H_W_BAD-3780$COLOR_END減少します。効果は最大3回まで重複します。	icon_skills.venomarrow_tex	icon_skills.venomarrow_tex	True
 600920	HPChange	DOT	False	abs	12000	2	-95	ポイズンアロー I			$H_W_BAD2s$COLOR_END毎にHPが$H_W_BAD-95$COLOR_END減少します。効果は最大3回まで重複します。	icon_skills.venomarrow_tex	icon_skills.venomarrow_tex	True
 600921	HPChange	DOT	False	abs	12000	2	-131	ポイズンアロー II			$H_W_BAD2s$COLOR_END毎にHPが$H_W_BAD-131$COLOR_END減少します。効果は最大3回まで重複します。	icon_skills.venomarrow_tex	icon_skills.venomarrow_tex	True
@@ -3366,7 +3366,7 @@
 600924	HPChange	DOT	False	abs	12000	2	-476	ポイズンアロー V			$H_W_BAD2s$COLOR_END毎にHPが$H_W_BAD-476$COLOR_END減少します。効果は最大3回まで重複します。	icon_skills.venomarrow_tex	icon_skills.venomarrow_tex	True
 600925	HPChange	DOT	False	abs	12000	2	-660	ポイズンアロー VI			$H_W_BAD2s$COLOR_END毎にHPが$H_W_BAD-660$COLOR_END減少します。効果は最大3回まで重複します。	icon_skills.venomarrow_tex	icon_skills.venomarrow_tex	True
 600926	HPChange	DOT	False	abs	12000	2	-1078	ポイズンアロー			$H_W_BAD2s$COLOR_END毎にHPが$H_W_BAD-1078$COLOR_END減少します。効果は最大3回まで重複します。	icon_skills.venomarrow_tex	icon_skills.venomarrow_tex	True
-600927	HPChange	DOT	False	abs	12000	2	-1427	ポイズンアロー VIII			$H_W_BAD2s$COLOR_END毎にHPが$calcValue(multiple,51,0,3)減少します。効果は最大3回まで重複します。	icon_skills.venomarrow_tex	icon_skills.venomarrow_tex	True
+600927	HPChange	DOT	False	abs	12000	2	-1427	ポイズンアロー VIII			$H_W_BAD2s$COLOR_END毎にHPが$H_W_BAD-1427$COLOR_END減少します。効果は最大3回まで重複します。	icon_skills.venomarrow_tex	icon_skills.venomarrow_tex	True
 600928	HPChange	DOT	False	abs	12000	2	-1427	ポイズンアロー IX			$H_W_BAD2s$COLOR_END毎にHPが$H_W_BAD-1427$COLOR_END減少します。効果は最大3回まで重複します。	icon_skills.venomarrow_tex	icon_skills.venomarrow_tex	True
 601000	MovSpd	Debuff	False	setp	4000	0	0.5	レストレントアロー I			移動速度が50%、攻撃速度が15%減少します。	icon_skills.contaningshot_tex	icon_skills.contaningshot_tex	True
 601000	ASpd	Debuff	False	perc	4000	0	0.85	レストレントアロー I			移動速度が50%、攻撃速度が15%減少します。	icon_skills.contaningshot_tex	icon_skills.contaningshot_tex	True
@@ -3812,42 +3812,42 @@
 701605	HPChange	Buff	True	abs	15000	2	529	ガードスピリット I			召喚された霊気により$H_W_GOOD2s$COLOR_END毎にHPが$H_W_GOOD529$COLOR_END回復します。	icon_skills.energiesofprotection_tex	icon_skills.energiesofprotection_tex	True
 701606	Absorb	Buff	True	swch	5000	0	15000	ガードスピリット II			召喚された霊気が最大$H_W_GOOD15000$COLOR_ENDのダメージを無効化します。最大値を超えると持続時間に関わらず即解除されます。	icon_skills.energiesofprotection_tex	icon_skills.energiesofprotection_tex	True
 701607	HPChange	Buff	True	abs	15000	2	700	ガードスピリット II			召喚された霊気により$H_W_GOOD2s$COLOR_END毎にHPが$H_W_GOOD700$COLOR_END回復します。	icon_skills.energiesofprotection_tex	icon_skills.energiesofprotection_tex	True
-701700	Plague	Debuff	False	perc	15000	0	701800	デッドインフェクション I			15s間、解除不可のウィルス感染源になります。耐久力が $H_W_BAD5.5%$COLOR_END減少し、周囲7ｍ内の味方に疫病を伝染します。	icon_skills.plague_tex	icon_skills.plague_tex	True
-701700	DefPotion	Debuff	False	perc	15000	0	1.055	デッドインフェクション I			15s間、解除不可のウィルス感染源になります。耐久力が $H_W_BAD5.5%$COLOR_END減少し、周囲7ｍ内の味方に疫病を伝染します。	icon_skills.plague_tex	icon_skills.plague_tex	True
-701701	Plague	Debuff	False	perc	15000	0	701801	デッドインフェクション II			15s間、解除不可のウィルス感染源になります。周辺に持続ダメージを与える疾病を伝染し、耐性力が$H_W_GOOD5.5%$COLOR_END減少します。	icon_skills.plague_tex	icon_skills.plague_tex	True
-701701	DefPotion	Debuff	False	perc	15000	0	1.055	デッドインフェクション II			15s間、解除不可のウィルス感染源になります。周辺に持続ダメージを与える疾病を伝染し、耐性力が$H_W_GOOD5.5%$COLOR_END減少します。	icon_skills.plague_tex	icon_skills.plague_tex	True
-701702	Plague	Debuff	False	perc	15000	0	701802	デッドインフェクション III			15s間、解除不可のウィルス感染源になります。耐久力が $H_W_BAD5.5%$COLOR_END減少し、周囲7ｍ内の味方に疫病を伝染します。	icon_skills.plague_tex	icon_skills.plague_tex	True
-701702	DefPotion	Debuff	False	perc	15000	0	1.055	デッドインフェクション III			15s間、解除不可のウィルス感染源になります。耐久力が $H_W_BAD5.5%$COLOR_END減少し、周囲7ｍ内の味方に疫病を伝染します。	icon_skills.plague_tex	icon_skills.plague_tex	True
-701703	Plague	Debuff	False	perc	15000	0	701803	デッドインフェクション IV			15s間、解除不可のウィルス感染源になります。耐久力が $H_W_BAD5.5%$COLOR_END減少し、周囲7ｍ内の味方に疫病を伝染します。	icon_skills.plague_tex	icon_skills.plague_tex	True
-701703	DefPotion	Debuff	False	perc	15000	0	1.055	デッドインフェクション IV			15s間、解除不可のウィルス感染源になります。耐久力が $H_W_BAD5.5%$COLOR_END減少し、周囲7ｍ内の味方に疫病を伝染します。	icon_skills.plague_tex	icon_skills.plague_tex	True
-701704	Plague	Debuff	False	perc	15000	0	701804	デッドインフェクション V			15s間、解除不可のウィルス感染源になります。耐久力が $H_W_BAD5.5%$COLOR_END減少し、周囲7ｍ内の味方に疫病を伝染します。	icon_skills.plague_tex	icon_skills.plague_tex	True
-701704	DefPotion	Debuff	False	perc	15000	0	1.055	デッドインフェクション V			15s間、解除不可のウィルス感染源になります。耐久力が $H_W_BAD5.5%$COLOR_END減少し、周囲7ｍ内の味方に疫病を伝染します。	icon_skills.plague_tex	icon_skills.plague_tex	True
-701705	Plague	Debuff	False	perc	15000	0	701805	デッドインフェクション VI			15s間、解除不可のウィルス感染源になります。耐久力が $H_W_BAD5.5%$COLOR_END減少し、周囲7ｍ内の味方に疫病を伝染します。	icon_skills.plague_tex	icon_skills.plague_tex	True
-701705	DefPotion	Debuff	False	perc	15000	0	1.055	デッドインフェクション VI			15s間、解除不可のウィルス感染源になります。耐久力が $H_W_BAD5.5%$COLOR_END減少し、周囲7ｍ内の味方に疫病を伝染します。	icon_skills.plague_tex	icon_skills.plague_tex	True
-701706	Plague	Debuff	False	perc	15000	0	701806	デッドインフェクション VII			15s間、解除不可のウィルス感染源になります。耐久力が $H_W_BAD5.5%$COLOR_END減少し、周囲7ｍ内の味方に疫病を伝染します。	icon_skills.plague_tex	icon_skills.plague_tex	True
-701706	DefPotion	Debuff	False	perc	15000	0	1.055	デッドインフェクション VII			15s間、解除不可のウィルス感染源になります。耐久力が $H_W_BAD5.5%$COLOR_END減少し、周囲7ｍ内の味方に疫病を伝染します。	icon_skills.plague_tex	icon_skills.plague_tex	True
-701707	Plague	Debuff	False	perc	15000	0	701807	デッドインフェクション VIII			15s間、解除不可のウィルス感染源になります。耐久力が $H_W_BAD5.5%$COLOR_END減少し、周囲7ｍ内の味方に疫病を伝染します。	icon_skills.plague_tex	icon_skills.plague_tex	True
-701707	DefPotion	Debuff	False	perc	15000	0	1.055	デッドインフェクション VIII			15s間、解除不可のウィルス感染源になります。耐久力が $H_W_BAD5.5%$COLOR_END減少し、周囲7ｍ内の味方に疫病を伝染します。	icon_skills.plague_tex	icon_skills.plague_tex	True
-701708	Plague	Debuff	False	perc	15000	0	701808	デッドインフェクション IX			15s間、解除不可のウィルス感染源になります。耐久力が $H_W_BAD5.5%$COLOR_END減少し、周囲7ｍ内の味方に疫病を伝染します。	icon_skills.plague_tex	icon_skills.plague_tex	True
-701708	DefPotion	Debuff	False	perc	15000	0	1.055	デッドインフェクション IX			15s間、解除不可のウィルス感染源になります。耐久力が $H_W_BAD5.5%$COLOR_END減少し、周囲7ｍ内の味方に疫病を伝染します。	icon_skills.plague_tex	icon_skills.plague_tex	True
-701720	Plague	Debuff	False	7	15000	0	701820	デッドインフェクション I			15s間、解除不可のウィルス感染源になります。耐久力が $H_W_BAD5.5%$COLOR_END減少し、周囲7ｍ内の味方に疫病を伝染します。	icon_skills.plague_tex	icon_skills.plague_tex	True
-701720	DefPotion	Debuff	False	perc	15000	0	1.055	デッドインフェクション I			15s間、解除不可のウィルス感染源になります。耐久力が $H_W_BAD5.5%$COLOR_END減少し、周囲7ｍ内の味方に疫病を伝染します。	icon_skills.plague_tex	icon_skills.plague_tex	True
-701721	Plague	Debuff	False	7	15000	0	701821	デッドインフェクション II			15s間、解除不可のウィルス感染源になります。耐久力が $H_W_BAD5.5%$COLOR_END減少し、周囲7ｍ内の味方に疫病を伝染します。	icon_skills.plague_tex	icon_skills.plague_tex	True
-701721	DefPotion	Debuff	False	perc	15000	0	1.055	デッドインフェクション II			15s間、解除不可のウィルス感染源になります。耐久力が $H_W_BAD5.5%$COLOR_END減少し、周囲7ｍ内の味方に疫病を伝染します。	icon_skills.plague_tex	icon_skills.plague_tex	True
-701722	Plague	Debuff	False	7	15000	0	701822	デッドインフェクション III			15s間、解除不可のウィルス感染源になります。耐久力が $H_W_BAD5.5%$COLOR_END減少し、周囲7ｍ内の味方に疫病を伝染します。	icon_skills.plague_tex	icon_skills.plague_tex	True
-701722	DefPotion	Debuff	False	perc	15000	0	1.055	デッドインフェクション III			15s間、解除不可のウィルス感染源になります。耐久力が $H_W_BAD5.5%$COLOR_END減少し、周囲7ｍ内の味方に疫病を伝染します。	icon_skills.plague_tex	icon_skills.plague_tex	True
-701723	Plague	Debuff	False	7	15000	0	701823	デッドインフェクション IV			15s間、解除不可のウィルス感染源になります。耐久力が $H_W_BAD5.5%$COLOR_END減少し、周囲7ｍ内の味方に疫病を伝染します。	icon_skills.plague_tex	icon_skills.plague_tex	True
-701723	DefPotion	Debuff	False	perc	15000	0	1.055	デッドインフェクション IV			15s間、解除不可のウィルス感染源になります。耐久力が $H_W_BAD5.5%$COLOR_END減少し、周囲7ｍ内の味方に疫病を伝染します。	icon_skills.plague_tex	icon_skills.plague_tex	True
-701724	Plague	Debuff	False	7	15000	0	701824	デッドインフェクション V			15s間、解除不可のウィルス感染源になります。耐久力が $H_W_BAD5.5%$COLOR_END減少し、周囲7ｍ内の味方に疫病を伝染します。	icon_skills.plague_tex	icon_skills.plague_tex	True
-701724	DefPotion	Debuff	False	perc	15000	0	1.055	デッドインフェクション V			15s間、解除不可のウィルス感染源になります。耐久力が $H_W_BAD5.5%$COLOR_END減少し、周囲7ｍ内の味方に疫病を伝染します。	icon_skills.plague_tex	icon_skills.plague_tex	True
-701725	Plague	Debuff	False	7	15000	0	701825	デッドインフェクション VI			15s間、解除不可のウィルス感染源になります。耐久力が $H_W_BAD5.5%$COLOR_END減少し、周囲7ｍ内の味方に疫病を伝染します。	icon_skills.plague_tex	icon_skills.plague_tex	True
-701725	DefPotion	Debuff	False	perc	15000	0	1.055	デッドインフェクション VI			15s間、解除不可のウィルス感染源になります。耐久力が $H_W_BAD5.5%$COLOR_END減少し、周囲7ｍ内の味方に疫病を伝染します。	icon_skills.plague_tex	icon_skills.plague_tex	True
-701726	Plague	Debuff	False	7	15000	0	701826	デッドインフェクション VII			15s間、解除不可のウィルス感染源になります。耐久力が $H_W_BAD5.5%$COLOR_END減少し、周囲7ｍ内の味方に疫病を伝染します。	icon_skills.plague_tex	icon_skills.plague_tex	True
-701726	DefPotion	Debuff	False	perc	15000	0	1.055	デッドインフェクション VII			15s間、解除不可のウィルス感染源になります。耐久力が $H_W_BAD5.5%$COLOR_END減少し、周囲7ｍ内の味方に疫病を伝染します。	icon_skills.plague_tex	icon_skills.plague_tex	True
-701727	Plague	Debuff	False	7	15000	0	701827	デッドインフェクション VIII			15s間、解除不可のウィルス感染源になります。耐久力が $H_W_BAD5.5%$COLOR_END減少し、周囲7ｍ内の味方に疫病を伝染します。	icon_skills.plague_tex	icon_skills.plague_tex	True
-701727	DefPotion	Debuff	False	perc	15000	0	1.055	デッドインフェクション VIII			15s間、解除不可のウィルス感染源になります。耐久力が $H_W_BAD5.5%$COLOR_END減少し、周囲7ｍ内の味方に疫病を伝染します。	icon_skills.plague_tex	icon_skills.plague_tex	True
-701728	Plague	Debuff	False	7	15000	0	701828	デッドインフェクション IX			15s間、解除不可のウィルス感染源になります。耐久力が $H_W_BAD5.5%$COLOR_END減少し、周囲7ｍ内の味方に疫病を伝染します。	icon_skills.plague_tex	icon_skills.plague_tex	True
-701728	DefPotion	Debuff	False	perc	15000	0	1.055	デッドインフェクション IX			15s間、解除不可のウィルス感染源になります。耐久力が $H_W_BAD5.5%$COLOR_END減少し、周囲7ｍ内の味方に疫病を伝染します。	icon_skills.plague_tex	icon_skills.plague_tex	True
+701700	Plague	Debuff	False	perc	15000	0	701800	デッドインフェクション I			15s間、解除不可のウィルス感染源になります。感染すると被ダメージが $H_W_BAD5.5%$COLOR_END増加し、周囲7ｍ内の味方に疫病を伝染します。	icon_skills.plague_tex	icon_skills.plague_tex	True
+701700	DefPotion	Debuff	False	perc	15000	0	1.055	デッドインフェクション I			15s間、解除不可のウィルス感染源になります。感染すると被ダメージが $H_W_BAD5.5%$COLOR_END増加し、周囲7ｍ内の味方に疫病を伝染します。	icon_skills.plague_tex	icon_skills.plague_tex	True
+701701	Plague	Debuff	False	perc	15000	0	701801	デッドインフェクション II			15s間、解除不可のウィルス感染源になります。感染すると被ダメージが $H_W_BAD5.5%$COLOR_END増加し、周囲7ｍ内の味方に疫病を伝染します。	icon_skills.plague_tex	icon_skills.plague_tex	True
+701701	DefPotion	Debuff	False	perc	15000	0	1.055	デッドインフェクション II			15s間、解除不可のウィルス感染源になります。感染すると被ダメージが $H_W_BAD5.5%$COLOR_END増加し、周囲7ｍ内の味方に疫病を伝染します。	icon_skills.plague_tex	icon_skills.plague_tex	True
+701702	Plague	Debuff	False	perc	15000	0	701802	デッドインフェクション III			15s間、解除不可のウィルス感染源になります。感染すると被ダメージが $H_W_BAD5.5%$COLOR_END増加し、周囲7ｍ内の味方に疫病を伝染します。	icon_skills.plague_tex	icon_skills.plague_tex	True
+701702	DefPotion	Debuff	False	perc	15000	0	1.055	デッドインフェクション III			15s間、解除不可のウィルス感染源になります。感染すると被ダメージが $H_W_BAD5.5%$COLOR_END増加し、周囲7ｍ内の味方に疫病を伝染します。	icon_skills.plague_tex	icon_skills.plague_tex	True
+701703	Plague	Debuff	False	perc	15000	0	701803	デッドインフェクション IV			15s間、解除不可のウィルス感染源になります。感染すると被ダメージが $H_W_BAD5.5%$COLOR_END増加し、周囲7ｍ内の味方に疫病を伝染します。	icon_skills.plague_tex	icon_skills.plague_tex	True
+701703	DefPotion	Debuff	False	perc	15000	0	1.055	デッドインフェクション IV			15s間、解除不可のウィルス感染源になります。感染すると被ダメージが $H_W_BAD5.5%$COLOR_END増加し、周囲7ｍ内の味方に疫病を伝染します。	icon_skills.plague_tex	icon_skills.plague_tex	True
+701704	Plague	Debuff	False	perc	15000	0	701804	デッドインフェクション V			15s間、解除不可のウィルス感染源になります。感染すると被ダメージが $H_W_BAD5.5%$COLOR_END増加し、周囲7ｍ内の味方に疫病を伝染します。	icon_skills.plague_tex	icon_skills.plague_tex	True
+701704	DefPotion	Debuff	False	perc	15000	0	1.055	デッドインフェクション V			15s間、解除不可のウィルス感染源になります。感染すると被ダメージが $H_W_BAD5.5%$COLOR_END増加し、周囲7ｍ内の味方に疫病を伝染します。	icon_skills.plague_tex	icon_skills.plague_tex	True
+701705	Plague	Debuff	False	perc	15000	0	701805	デッドインフェクション VI			15s間、解除不可のウィルス感染源になります。感染すると被ダメージが $H_W_BAD5.5%$COLOR_END増加し、周囲7ｍ内の味方に疫病を伝染します。	icon_skills.plague_tex	icon_skills.plague_tex	True
+701705	DefPotion	Debuff	False	perc	15000	0	1.055	デッドインフェクション VI			15s間、解除不可のウィルス感染源になります。感染すると被ダメージが $H_W_BAD5.5%$COLOR_END増加し、周囲7ｍ内の味方に疫病を伝染します。	icon_skills.plague_tex	icon_skills.plague_tex	True
+701706	Plague	Debuff	False	perc	15000	0	701806	デッドインフェクション VII			15s間、解除不可のウィルス感染源になります。感染すると被ダメージが $H_W_BAD5.5%$COLOR_END増加し、周囲7ｍ内の味方に疫病を伝染します。	icon_skills.plague_tex	icon_skills.plague_tex	True
+701706	DefPotion	Debuff	False	perc	15000	0	1.055	デッドインフェクション VII			15s間、解除不可のウィルス感染源になります。感染すると被ダメージが $H_W_BAD5.5%$COLOR_END増加し、周囲7ｍ内の味方に疫病を伝染します。	icon_skills.plague_tex	icon_skills.plague_tex	True
+701707	Plague	Debuff	False	perc	15000	0	701807	デッドインフェクション VIII			15s間、解除不可のウィルス感染源になります。感染すると被ダメージが $H_W_BAD5.5%$COLOR_END増加し、周囲7ｍ内の味方に疫病を伝染します。	icon_skills.plague_tex	icon_skills.plague_tex	True
+701707	DefPotion	Debuff	False	perc	15000	0	1.055	デッドインフェクション VIII			15s間、解除不可のウィルス感染源になります。感染すると被ダメージが $H_W_BAD5.5%$COLOR_END増加し、周囲7ｍ内の味方に疫病を伝染します。	icon_skills.plague_tex	icon_skills.plague_tex	True
+701708	Plague	Debuff	False	perc	15000	0	701808	デッドインフェクション IX			15s間、解除不可のウィルス感染源になります。感染すると被ダメージが $H_W_BAD5.5%$COLOR_END増加し、周囲7ｍ内の味方に疫病を伝染します。	icon_skills.plague_tex	icon_skills.plague_tex	True
+701708	DefPotion	Debuff	False	perc	15000	0	1.055	デッドインフェクション IX			15s間、解除不可のウィルス感染源になります。感染すると被ダメージが $H_W_BAD5.5%$COLOR_END増加し、周囲7ｍ内の味方に疫病を伝染します。	icon_skills.plague_tex	icon_skills.plague_tex	True
+701720	Plague	Debuff	False	7	15000	0	701820	デッドインフェクション I			15s間、解除不可のウィルス感染源になります。感染すると被ダメージが $H_W_BAD5.5%$COLOR_END増加し、周囲7ｍ内の味方に疫病を伝染します。	icon_skills.plague_tex	icon_skills.plague_tex	True
+701720	DefPotion	Debuff	False	perc	15000	0	1.055	デッドインフェクション I			15s間、解除不可のウィルス感染源になります。感染すると被ダメージが $H_W_BAD5.5%$COLOR_END増加し、周囲7ｍ内の味方に疫病を伝染します。	icon_skills.plague_tex	icon_skills.plague_tex	True
+701721	Plague	Debuff	False	7	15000	0	701821	デッドインフェクション II			15s間、解除不可のウィルス感染源になります。感染すると被ダメージが $H_W_BAD5.5%$COLOR_END増加し、周囲7ｍ内の味方に疫病を伝染します。	icon_skills.plague_tex	icon_skills.plague_tex	True
+701721	DefPotion	Debuff	False	perc	15000	0	1.055	デッドインフェクション II			15s間、解除不可のウィルス感染源になります。感染すると被ダメージが $H_W_BAD5.5%$COLOR_END増加し、周囲7ｍ内の味方に疫病を伝染します。	icon_skills.plague_tex	icon_skills.plague_tex	True
+701722	Plague	Debuff	False	7	15000	0	701822	デッドインフェクション III			15s間、解除不可のウィルス感染源になります。感染すると被ダメージが $H_W_BAD5.5%$COLOR_END増加し、周囲7ｍ内の味方に疫病を伝染します。	icon_skills.plague_tex	icon_skills.plague_tex	True
+701722	DefPotion	Debuff	False	perc	15000	0	1.055	デッドインフェクション III			15s間、解除不可のウィルス感染源になります。感染すると被ダメージが $H_W_BAD5.5%$COLOR_END増加し、周囲7ｍ内の味方に疫病を伝染します。	icon_skills.plague_tex	icon_skills.plague_tex	True
+701723	Plague	Debuff	False	7	15000	0	701823	デッドインフェクション IV			15s間、解除不可のウィルス感染源になります。感染すると被ダメージが $H_W_BAD5.5%$COLOR_END増加し、周囲7ｍ内の味方に疫病を伝染します。	icon_skills.plague_tex	icon_skills.plague_tex	True
+701723	DefPotion	Debuff	False	perc	15000	0	1.055	デッドインフェクション IV			15s間、解除不可のウィルス感染源になります。感染すると被ダメージが $H_W_BAD5.5%$COLOR_END増加し、周囲7ｍ内の味方に疫病を伝染します。	icon_skills.plague_tex	icon_skills.plague_tex	True
+701724	Plague	Debuff	False	7	15000	0	701824	デッドインフェクション V			15s間、解除不可のウィルス感染源になります。感染すると被ダメージが $H_W_BAD5.5%$COLOR_END増加し、周囲7ｍ内の味方に疫病を伝染します。	icon_skills.plague_tex	icon_skills.plague_tex	True
+701724	DefPotion	Debuff	False	perc	15000	0	1.055	デッドインフェクション V			15s間、解除不可のウィルス感染源になります。感染すると被ダメージが $H_W_BAD5.5%$COLOR_END増加し、周囲7ｍ内の味方に疫病を伝染します。	icon_skills.plague_tex	icon_skills.plague_tex	True
+701725	Plague	Debuff	False	7	15000	0	701825	デッドインフェクション VI			15s間、解除不可のウィルス感染源になります。感染すると被ダメージが $H_W_BAD5.5%$COLOR_END増加し、周囲7ｍ内の味方に疫病を伝染します。	icon_skills.plague_tex	icon_skills.plague_tex	True
+701725	DefPotion	Debuff	False	perc	15000	0	1.055	デッドインフェクション VI			15s間、解除不可のウィルス感染源になります。感染すると被ダメージが $H_W_BAD5.5%$COLOR_END増加し、周囲7ｍ内の味方に疫病を伝染します。	icon_skills.plague_tex	icon_skills.plague_tex	True
+701726	Plague	Debuff	False	7	15000	0	701826	デッドインフェクション VII			15s間、解除不可のウィルス感染源になります。感染すると被ダメージが $H_W_BAD5.5%$COLOR_END増加し、周囲7ｍ内の味方に疫病を伝染します。	icon_skills.plague_tex	icon_skills.plague_tex	True
+701726	DefPotion	Debuff	False	perc	15000	0	1.055	デッドインフェクション VII			15s間、解除不可のウィルス感染源になります。感染すると被ダメージが $H_W_BAD5.5%$COLOR_END増加し、周囲7ｍ内の味方に疫病を伝染します。	icon_skills.plague_tex	icon_skills.plague_tex	True
+701727	Plague	Debuff	False	7	15000	0	701827	デッドインフェクション VIII			15s間、解除不可のウィルス感染源になります。感染すると被ダメージが $H_W_BAD5.5%$COLOR_END増加し、周囲7ｍ内の味方に疫病を伝染します。	icon_skills.plague_tex	icon_skills.plague_tex	True
+701727	DefPotion	Debuff	False	perc	15000	0	1.055	デッドインフェクション VIII			15s間、解除不可のウィルス感染源になります。感染すると被ダメージが $H_W_BAD5.5%$COLOR_END増加し、周囲7ｍ内の味方に疫病を伝染します。	icon_skills.plague_tex	icon_skills.plague_tex	True
+701728	Plague	Debuff	False	7	15000	0	701828	デッドインフェクション IX			15s間、解除不可のウィルス感染源になります。感染すると被ダメージが $H_W_BAD5.5%$COLOR_END増加し、周囲7ｍ内の味方に疫病を伝染します。	icon_skills.plague_tex	icon_skills.plague_tex	True
+701728	DefPotion	Debuff	False	perc	15000	0	1.055	デッドインフェクション IX			15s間、解除不可のウィルス感染源になります。感染すると被ダメージが $H_W_BAD5.5%$COLOR_END増加し、周囲7ｍ内の味方に疫病を伝染します。	icon_skills.plague_tex	icon_skills.plague_tex	True
 701800	HPChange	DOT	False	abs	5000	1	-1141	デッドインフェクション I			持続ダメージ$H_W_GOOD-1141$COLOR_ENDを受けます。	icon_skills.plague_tex	icon_skills.plague_tex	True
 701801	HPChange	DOT	False	abs	5000	1	-1585	デッドインフェクション II			持続ダメージ$H_W_BAD-1585$COLOR_ENDを受けます。	icon_skills.plague_tex	icon_skills.plague_tex	True
 701802	HPChange	DOT	False	abs	5000	1	-2202	デッドインフェクション III			持続ダメージ$H_W_BAD-2202$COLOR_ENDを受けます。	icon_skills.plague_tex	icon_skills.plague_tex	True
@@ -3888,7 +3888,7 @@
 702004	Power	Buff	True	abs	20000	0	20	デストラクションエレメント II			デストラクションエレメントがあなたに宿り、クリティカル威力が0.45倍増加します。力が40増加します。	icon_skills.summonspiritofattack_tex	icon_skills.summonspiritofattack2_tex	True
 702004	CritPower	Buff	True	abs	20000	0	0.45	デストラクションエレメント II			デストラクションエレメントがあなたに宿り、クリティカル威力が0.45倍増加します。力が40増加します。	icon_skills.summonspiritofattack_tex	icon_skills.summonspiritofattack2_tex	True
 702005	330	Buff	True	swch	1000	0	0	フォースエレメント			精霊と心を通わせている状態。戦闘状態の移動速度が10増加し、2秒毎にMPを200ずつ消費します。精霊召喚スキル使用時、精霊毎に異なるバフを味方に付与し、強化された精霊を召喚します。	icon_skills.spiritedness_tex	icon_skills.spiritedness_tex	False
-702012	MovSpd	Buff	True	abs	2000	0	0	回復の流れ			効果時間中、リカバリーバレット、ミスティックボールを受けると、追加でHP15,000が<font color = '#66bbff'>回復</font>します。	icon_skills.energiesofprotection_tex	icon_skills.energiesofprotection_tex	True
+702012	MovSpd	Buff	True	abs	2000	0	0	回復の流れ			効果時間中、リカバリーバレット、ミスティックボールを受けると、追加で0が<font color = '#66bbff'>回復</font>します。	icon_skills.energiesofprotection_tex	icon_skills.energiesofprotection_tex	True
 702120	DelayedEffect	Buff	True	abs	5000	0	425001	精霊：プロテクションエレメント			見えてはいけない	icon_skills.summonspiritofaggro_tex	icon_skills.summonspiritofaggro_tex	False
 702120	Immune	Buff	True	9	5000	0	0	精霊：プロテクションエレメント			見えてはいけない	icon_skills.summonspiritofaggro_tex	icon_skills.summonspiritofaggro_tex	False
 702121	DelayedEffect	Buff	True	abs	5000	0	10152203	精霊：ライフエレメント			見えてはいけない	icon_skills.summonspiritofheal_tex	icon_skills.summonspiritofheal_tex	False
@@ -5273,9 +5273,9 @@
 5000003	CCrystalBind	Buff	True	abs	0	0	1	完全な光輝の書：クリスタル保護			死亡時、クリスタルが壊れるのを防止します。	icon_items.q_closedspace_stone_05_tex	icon_items.q_closedspace_stone_05_tex	True
 5000004	GatheringTime	Buff	True	perc	0	0	0.6	採集速度上昇			採集速度が$H_W_GOOD40%$COLOR_END増加します。	icon_status.collect_speedup_tex	icon_status.collect_speedup_tex	True
 5000010	Crit	Buff	True	perc	0	0	30	ハラトの奇跡			クリティカル発生率が2900％上昇します。	icon_status.plusecritical_tex	icon_status.plusecritical_tex	True
-5000013	ASpd	Buff	True	perc	1800000	0	1.04	Bravery	95206	勇猛のポーション	Increases skill damage by $H_W_GOOD10%$COLOR_END, and reduces damage taken by $H_W_GOOD10%$COLOR_END. Also increases Attack Speed by $H_W_GOOD4%$COLOR_END.	icon_items.potion10_tex	icon_items.potion10_tex	True
-5000013	DefPotion	Buff	True	perc	1800000	0	0.9	Bravery	95206	勇猛のポーション	Increases skill damage by $H_W_GOOD10%$COLOR_END, and reduces damage taken by $H_W_GOOD10%$COLOR_END. Also increases Attack Speed by $H_W_GOOD4%$COLOR_END.	icon_items.potion10_tex	icon_items.potion10_tex	True
-5000013	AtkPotion	Buff	True	perc	1800000	0	1.1	Bravery	95206	勇猛のポーション	Increases skill damage by $H_W_GOOD10%$COLOR_END, and reduces damage taken by $H_W_GOOD10%$COLOR_END. Also increases Attack Speed by $H_W_GOOD4%$COLOR_END.	icon_items.potion10_tex	icon_items.potion10_tex	True
+5000013	ASpd	Buff	True	perc	1800000	0	1.04	Bravery	95206	勇猛のポーション	スキル威力が$H_W_GOOD10%$COLOR_END, and reduces damage taken by $H_W_GOOD10%$COLOR_END. Also increases Attack Speed by $H_W_GOOD4%$COLOR_END.	icon_items.potion10_tex	icon_items.potion10_tex	True
+5000013	DefPotion	Buff	True	perc	1800000	0	0.9	Bravery	95206	勇猛のポーション	スキル威力が$H_W_GOOD10%$COLOR_END, and reduces damage taken by $H_W_GOOD10%$COLOR_END. Also increases Attack Speed by $H_W_GOOD4%$COLOR_END.	icon_items.potion10_tex	icon_items.potion10_tex	True
+5000013	AtkPotion	Buff	True	perc	1800000	0	1.1	Bravery	95206	勇猛のポーション	スキル威力が$H_W_GOOD10%$COLOR_END, and reduces damage taken by $H_W_GOOD10%$COLOR_END. Also increases Attack Speed by $H_W_GOOD4%$COLOR_END.	icon_items.potion10_tex	icon_items.potion10_tex	True
 5010000	HPChange	Buff	True	perc	30000	1	0.03	幻影の回復ポーション	101305	幻影の回復ポーション	30秒間、1秒毎に全HPの5％、計90％が持続的に回復。	icon_items.potion17_tex	icon_items.potion17_tex	True
 5010001	Resurrect	Buff	True	seta	0	0	1	ヴェリックの恩寵			ヴェリックの恩寵を受けます。持続時間内に死亡時、その場で即時に復活できます。	icon_skills.selfpreresurrection_tex	icon_skills.selfpreresurrection_tex	True
 5010002	EnchantChance	Buff	True	perc	0	1	1.2	輝く強化職人の加護			強化の際、成功確率が大幅に増加します。 (覚醒強化には適用されません)	icon_items.parts_heavyarmorc5_tex	icon_items.parts_heavyarmorc5_tex	True
@@ -5823,7 +5823,7 @@
 8000077	DefPotion	Buff	True	perc	1800000	0	0.9	カイアの聖水	100689	カイアの聖水 I	スキルダメージが$H_W_GOOD10%$COLOR_END、攻撃速度が$H_W_GOOD4%$COLOR_END上昇し、受けるダメージが$H_W_GOOD10%$COLOR_END減少します。	icon_items.potion10_tex	icon_items.potion10_tex	True
 8000077	AtkPotion	Buff	True	perc	1800000	0	1.1	カイアの聖水	100689	カイアの聖水 I	スキルダメージが$H_W_GOOD10%$COLOR_END、攻撃速度が$H_W_GOOD4%$COLOR_END上昇し、受けるダメージが$H_W_GOOD10%$COLOR_END減少します。	icon_items.potion10_tex	icon_items.potion10_tex	True
 8000078	XPBoost	Buff	True	perc	0	1	2	高速成長100（ネットカフェ）			狩りの獲得経験値が100％増加します。 公認ネットカフェでログインした時のみ適用されます。	icon_items.f2p_xpbooster_tex	icon_items.f2p_xpbooster_tex	False
-8000079	42	Buff	True	perc	0	1	2	信頼の証票100（ネットカフェ）			獲得する信用数値と信用ポイントが100％増加します。ただし、戦場信用数値と戦場信用ポイントには適用されません。公認ネットカフェでログインした時のみ適用されます。	icon_items.f2p_reputationbooster_tex	icon_items.f2p_reputationbooster_tex	False
+8000079	42	Buff	True	perc	0	1	2	信頼の証票100（Dream Club）			獲得する信用数値と信用ポイントが100％増加します。ただし、戦場信用数値と戦場信用ポイントには適用されません。Dream Club時のみ適用されます。	icon_items.f2p_reputationbooster_tex	icon_items.f2p_reputationbooster_tex	False
 8000080	41	Buff	True	perc	0	1	2	交渉の名手100（ネットカフェ）			クエストのゴールド報酬が100％増加します。 公認ネットカフェでログインした時のみ適用されます。	icon_items.f2p_questrewardbooster_tex	icon_items.f2p_questrewardbooster_tex	False
 8000081	XPBoost	Buff	True	perc	1296000000	1	2	高速成長100（15日）	5248	【支援物資】高速成長100（15日）	15日間、狩りの獲得経験値が100％増加します。接続を終了しても残り時間は減少します。	icon_items.f2p_xpbooster_tex	icon_items.f2p_xpbooster_tex	True
 8000082	42	Buff	True	perc	1296000000	1	2	信頼の証票100（15日）	5249	【支援物資】信頼の証票100（15日）	15日間、獲得する信用数値信用ポイントが100％増加します。ただし、戦場信用数値と戦場信用ポイントには適用されません。接続を終了しても残り時間は減少します。	icon_items.f2p_reputationbooster_tex	icon_items.f2p_reputationbooster_tex	True
@@ -6468,7 +6468,7 @@
 10155133	AtkPotion	Buff	True	perc	30000	0	1.1	朱月			力が$calcValue(multiple,3,0,3)、攻撃速度が25、攻撃範囲が20％増加します。スキル発動時、「エヴァシブロール」と「反撃」、「ピアーズスパイク」、「フリンチストライク」を除くクールタイム60秒未満の全てのスキルのクールタイムを初期化し、効果持続中はスキルのクールタイムが60％短縮されます。$BR<font color = '#F9B600'>PvEで発動</font>$BR以下のスキルを威力増加する$BRオーバースラッシュ $H_W_GOOD10%$COLOR_END増加.$BRグレイブバースト $H_W_GOOD10%$COLOR_END増加.$BR月牙乱槍 $H_W_GOOD20%$COLOR_END増加.$BR新月 $H_W_GOOD5%$COLOR_END増加.	icon_skills.redmoon_tex	icon_skills.redmoon_tex	True
 10155134	AtkPotion	Buff	True	perc	30000	0	1.2	朱月			力が$calcValue(multiple,3,0,3)、攻撃速度が25、攻撃範囲が20％増加します。スキル発動時、「エヴァシブロール」と「反撃」、「ピアーズスパイク」、「フリンチストライク」を除くクールタイム60秒未満の全てのスキルのクールタイムを初期化し、効果持続中はスキルのクールタイムが60％短縮されます。$BR<font color = '#F9B600'>PvEで発動</font>$BR以下のスキルを威力増加する$BRオーバースラッシュ $H_W_GOOD10%$COLOR_END増加.$BRグレイブバースト $H_W_GOOD10%$COLOR_END増加.$BR月牙乱槍 $H_W_GOOD20%$COLOR_END増加.$BR新月 $H_W_GOOD5%$COLOR_END増加.	icon_skills.redmoon_tex	icon_skills.redmoon_tex	True
 10155135	AtkPotion	Buff	True	perc	30000	0	1.05	朱月			力が$calcValue(multiple,3,0,3)、攻撃速度が25、攻撃範囲が20％増加します。スキル発動時、「エヴァシブロール」と「反撃」、「ピアーズスパイク」、「フリンチストライク」を除くクールタイム60秒未満の全てのスキルのクールタイムを初期化し、効果持続中はスキルのクールタイムが60％短縮されます。$BR<font color = '#F9B600'>PvEで発動</font>$BR以下のスキルを威力増加する$BRオーバースラッシュ $H_W_GOOD10%$COLOR_END増加.$BRグレイブバースト $H_W_GOOD10%$COLOR_END増加.$BR月牙乱槍 $H_W_GOOD20%$COLOR_END増加.$BR新月 $H_W_GOOD5%$COLOR_END増加.	icon_skills.redmoon_tex	icon_skills.redmoon_tex	True
-10155137	AtkPotion	Buff	True	perc	32000	0	1.1	Bloody Eclipse			<font color = '#F9B600'>PvEのみ</font>$BRApplies only with Sheen Advancement.$BR$BR以下のスキル威力増加する$BRオーバースラッシュ $H_W_GOOD10%$COLOR_END増加.$BRグレイブバースト $H_W_GOOD10%$COLOR_END増加.$BR月鳴り $H_W_GOOD50%$COLOR_END増加.	icon_skills.illusionmoon_tex	icon_skills.illusionmoon_tex	True
+10155137	AtkPotion	Buff	True	perc	32000	0	1.1	血塗られた日蝕			<font color = '#F9B600'>PvEで発動</font>$BRオーバースラッシュのスキル威力が$H_W_GOOD10%$COLOR_END増加する。$BRグレイブバーストのスキル威力が$H_W_GOOD10%$COLOR_END増加する。$BR月鳴りのスキル威力が$H_W_GOOD50%$COLOR_END増加する。	icon_skills.illusionmoon_tex	icon_skills.illusionmoon_tex	True
 10155140	263	Buff	True	perc	5000	0	10155190	月光招			【行動不能】抵抗が大幅に上昇します。			False
 10155150	CritChance	Buff	True	perc	10000	0	100	標的捕捉			敵の攻撃を完璧に回避して、反撃の機会を掴みます。「連撃」を除いた次の攻撃スキルの一撃目でクリティカルが100％発生します。	icon_status.darkriftareadance_tex	icon_status.darkriftareadance_tex	True
 10155170	Stun	Stun	False	swch	3000	0	5	月光陣			月明かりによって引き付けられ、気絶します。	icon_skills.moongravity_tex	icon_skills.moongravity_tex	True
@@ -7338,8 +7338,8 @@
 31260251	StackCounter	DOT	False	swch	120000	0	31260252	アルゴンパラサイト			空気中のアルゴンパラサイトに感染しました。2分30秒後に感染状態が解除されますが、重複するごとに効果が変化します。$BR1重複：効果無し$BR2重複：2秒毎にHPが100ずつ減少$BR3重複：2秒毎にHPが100,000ずつ減少$BRこの効果は解除できません。	icon_status.cruel_slayer_3_tex	icon_status.cruel_slayer_3_tex	True
 31261200	Stun	Stun	False	swch	3000	0	5	脳震とう			気絶して動けません。解除できません。	icon_status.confuseup_tex	icon_status.confuseup_tex	True
 31261300	Stun	Stun	False	swch	7000	0	5	脳震とう			気絶して動けません。解除できません。	icon_status.confuseup_tex	icon_status.confuseup_tex	True
-31261500	DelayedEffect	Buff	True	abs	45000	0	975150	破滅の鎧			破滅の鎧が最大$H_W_GOOD0$COLOR_ENDのダメージを無効化します。最大値を超えると、結界は破壊されます。持続時間内に破壊できない場合、その効果により全ての対象プレイヤーは死亡し、ケルサイクは破滅の憤怒に飲み込まれます！	icon_items.fireice_tex	icon_items.fireice_tex	True
-31261500	Immune	Buff	True	18	45000	0	0	破滅の鎧			破滅の鎧が最大$H_W_GOOD0$COLOR_ENDのダメージを無効化します。最大値を超えると、結界は破壊されます。持続時間内に破壊できない場合、その効果により全ての対象プレイヤーは死亡し、ケルサイクは破滅の憤怒に飲み込まれます！	icon_items.fireice_tex	icon_items.fireice_tex	True
+31261500	DelayedEffect	Buff	True	abs	45000	0	975150	破滅の鎧			ケルサイクはこの場所に入ったとき、自分の絶大な強さに気づき、無敵になった。彼が力を使い果たしたときこそ、あなたに攻撃するチャンスが訪れる。もちろん、それまで生き残ることができればの話だが......	icon_items.fireice_tex	icon_items.fireice_tex	True
+31261500	Immune	Buff	True	18	45000	0	0	破滅の鎧			ケルサイクはこの場所に入ったとき、自分の絶大な強さに気づき、無敵になった。彼が力を使い果たしたときこそ、あなたに攻撃するチャンスが訪れる。もちろん、それまで生き残ることができればの話だが......	icon_items.fireice_tex	icon_items.fireice_tex	True
 31261501	Power	Buff	True	perc	0	0	1.05	シカンダーの力			神の力で攻撃力と攻撃速度が5％上昇します。	icon_status.plusattack_tex	icon_status.plusattack_tex	True
 31261501	ASpd	Buff	True	perc	0	0	1.05	シカンダーの力			神の力で攻撃力と攻撃速度が5％上昇します。	icon_status.plusattack_tex	icon_status.plusattack_tex	True
 31261502	Power	Buff	True	perc	0	0	1.1	シカンダーの覚醒			神の力で攻撃力と攻撃速度が10％上昇します。	icon_status.plusattack_tex	icon_status.plusattack_tex	True
@@ -8322,12 +8322,12 @@
 78300144	Stun	Stun	False	swch	5000	0	5	気絶			5秒間、身動きが取れません。	icon_status.paralyzestatus_tex	icon_status.paralyzestatus_tex	True
 78300201	Stun	Stun	False	swch	3500	0	5	スタン			身動きが取れません。			True
 78300211	Stun	Stun	False	swch	5000	0	5	気絶			5秒間、身動きが取れません。	icon_status.paralyzestatus_tex	icon_status.paralyzestatus_tex	True
-78300222	Drunk1	Debuff	True	seta	0	0	0	属性：炎			炎属性になりました。草属性ゴーレムに対し、スキル威力20％、攻撃速度が10％増加します。炎、水属性ゴーレムに対し、スキル威力が20％減少し、受けるダメージが10％増加します。	icon_status.battlecommand03_tex	icon_status.battlecommand03_tex	True
-78300223	Drunk1	Debuff	True	seta	0	0	0	属性：水			水属性となりました。炎属性ゴーレムに対し、スキル威力20％、攻撃速度が10％増加します。水、草属性ゴーレムに対し、スキル威力が20％減少し、受けるダメージが10％増加します。	icon_status.battlecommand01_tex	icon_status.battlecommand01_tex	True
-78300224	Drunk1	Debuff	True	seta	0	0	0	属性：草			草属性となりました。水属性ゴーレムに対し、スキル威力20％、攻撃速度が10％増加します。草、炎属性ゴーレムに対し、スキル威力が20％減少し、受けるダメージが10％増加します。	icon_status.battlecommand04_tex	icon_status.battlecommand04_tex	True
-78300225	Attack	Debuff	True	perc	0	0	0.85	属性：ノーマル			無属性になりました。全ての属性に与えるダメージが20%減少し、属性抵抗力が落ちて受けるダメージが10%増加します。	icon_status.battlecommand02_tex	icon_status.battlecommand02_tex	True
-78300225	HPChange	Debuff	True	perc	0	2	-0.06	属性：ノーマル			無属性になりました。全ての属性に与えるダメージが20%減少し、属性抵抗力が落ちて受けるダメージが10%増加します。	icon_status.battlecommand02_tex	icon_status.battlecommand02_tex	True
-78300225	DefPotion	Debuff	True	perc	0	0	1.1	属性：ノーマル			無属性になりました。全ての属性に与えるダメージが20%減少し、属性抵抗力が落ちて受けるダメージが10%増加します。	icon_status.battlecommand02_tex	icon_status.battlecommand02_tex	True
+78300222	Drunk1	Debuff	True	seta	0	0	0	属性：炎			炎属性になりました。草属性ゴーレムに対し、スキル威力15％、攻撃速度が10％増加します。炎、水属性ゴーレムに対し、スキル威力が15％減少し、受けるダメージが10％増加します。	icon_status.battlecommand03_tex	icon_status.battlecommand03_tex	True
+78300223	Drunk1	Debuff	True	seta	0	0	0	属性：水			水属性となりました。炎属性ゴーレムに対し、スキル威力15％、攻撃速度が10％増加します。水、草属性ゴーレムに対し、スキル威力が15％減少し、受けるダメージが10％増加します。	icon_status.battlecommand01_tex	icon_status.battlecommand01_tex	True
+78300224	Drunk1	Debuff	True	seta	0	0	0	属性：草			草属性となりました。水属性ゴーレムに対し、スキル威力15％、攻撃速度が10％増加します。草、炎属性ゴーレムに対し、スキル威力が15％減少し、受けるダメージが10％増加します。	icon_status.battlecommand04_tex	icon_status.battlecommand04_tex	True
+78300225	Attack	Debuff	True	perc	0	0	0.85	属性：ノーマル			無属性になりました。全ての属性に与えるダメージが15%減少し、属性抵抗力が落ちて受けるダメージが10%増加します。	icon_status.battlecommand02_tex	icon_status.battlecommand02_tex	True
+78300225	HPChange	Debuff	True	perc	0	2	-0.06	属性：ノーマル			無属性になりました。全ての属性に与えるダメージが15%減少し、属性抵抗力が落ちて受けるダメージが10%増加します。	icon_status.battlecommand02_tex	icon_status.battlecommand02_tex	True
+78300225	DefPotion	Debuff	True	perc	0	0	1.1	属性：ノーマル			無属性になりました。全ての属性に与えるダメージが15%減少し、属性抵抗力が落ちて受けるダメージが10%増加します。	icon_status.battlecommand02_tex	icon_status.battlecommand02_tex	True
 78300229	HPChange	DOT	True	perc	0	2	-0.06	火傷			熱気に侵され、2秒毎にHPが6％ずつ減少します。	icon_status.firedamage_tex	icon_status.firedamage_tex	True
 78300230	HPChange	DOT	True	perc	0	2	-0.06	溺水			水に溺れ、2秒毎にHPが6％ずつ減少します。	icon_status.icedamage_tex	icon_status.icedamage_tex	True
 78300231	HPChange	DOT	True	perc	0	2	-0.06	毒草			毒に蝕まれ、2秒毎にHPが6％ずつ減少します。	icon_status.poisonstatus_tex	icon_status.poisonstatus_tex	True
@@ -9492,8 +9492,8 @@
 90340515	HPChange	DOT	False	perc	15000	3	-0.06	大量出血			過剰な出血により$H_W_BAD3s$COLOR_END毎全HPの$H_W_BAD6%$COLOR_ENDが持続的に減少します。	icon_status.damagedown_tex	icon_status.damagedown_tex	True
 90340518	Endurance	Debuff	True	perc	120000	0	1	破滅の業火			効果時間終了後、対象者は即死します。$BRこの効果は、「破滅の冷氷」でのみ解除することができます。	icon_status.firedamage_tex	icon_status.firedamage_tex	False
 90340519	Endurance	Debuff	True	perc	120000	0	1	破滅の冷氷			効果時間終了後、対象者は即死します。$BRこの効果は、「破滅の業火」でのみ解除することができます。	icon_status.icedamage_tex	icon_status.icedamage_tex	False
-90340601	Attack	DOT	True	perc	480000	0	1.13	デモクロンの呪い			重複毎にスキル威力が$H_W_GOOD10%$COLOR_END増加しますが、$H_W_BAD1秒$COLOR_END毎に全HPの$H_W_BAD0.5%$COLOR_ENDが持続的に減少します。この効果は最大99回まで重複可能で、浄化できません。	icon_status.diseaseup_tex	icon_status.diseaseup_tex	True
-90340601	HPChange	DOT	True	perc	480000	1	-0.005	デモクロンの呪い			重複毎にスキル威力が$H_W_GOOD10%$COLOR_END増加しますが、$H_W_BAD1秒$COLOR_END毎に全HPの$H_W_BAD0.5%$COLOR_ENDが持続的に減少します。この効果は最大99回まで重複可能で、浄化できません。	icon_status.diseaseup_tex	icon_status.diseaseup_tex	True
+90340601	Attack	DOT	True	perc	480000	0	1.13	デモクロンの呪い			重複毎にスキル威力が$H_W_GOOD13%$COLOR_END増加しますが、$H_W_BAD1秒$COLOR_END毎に全HPの$H_W_BAD0.5%$COLOR_ENDが持続的に減少します。この効果は最大99回まで重複可能で、浄化できません。	icon_status.diseaseup_tex	icon_status.diseaseup_tex	True
+90340601	HPChange	DOT	True	perc	480000	1	-0.005	デモクロンの呪い			重複毎にスキル威力が$H_W_GOOD13%$COLOR_END増加しますが、$H_W_BAD1秒$COLOR_END毎に全HPの$H_W_BAD0.5%$COLOR_ENDが持続的に減少します。この効果は最大99回まで重複可能で、浄化できません。	icon_status.diseaseup_tex	icon_status.diseaseup_tex	True
 90340602	IncreasedHeal	DOT	False	swch	60000	0	0.8	感染：デモクロンウィルス			デモクロンウィルスに感染した。回復量が減少します。	icon_status.minuscriticalresist_tex	icon_status.minuscriticalresist_tex	True
 90340604	220	Buff	True	swch	5000	0	0	充填：デモクロンエネルギー			デモクロンのエネルギーが集まっています。解除できない場合、強大な力を獲得します。	icon_status.fearstatus_tex	icon_status.fearstatus_tex	True
 90340604	DelayedEffect	Buff	True	abs	5000	0	90340605	充填：デモクロンエネルギー			デモクロンのエネルギーが集まっています。解除できない場合、強大な力を獲得します。	icon_status.fearstatus_tex	icon_status.fearstatus_tex	True
@@ -9687,31 +9687,31 @@
 91600055	HPChange	DOT	False	perc	150000	2	-0.07	ダルカンの炎			[英語名] Darkan's Fire $BR$H_W_BAD2s$COLOR_END毎にHPが$H_W_BAD7%$COLOR_END減少する。	icon_status.darkriftwill_tex	icon_status.darkriftwill_tex	True
 91600055	DelayedEffect	DOT	False	swch	150000	0	470025	ダルカンの炎			[英語名] Darkan's Fire $BR$H_W_BAD2s$COLOR_END毎にHPが$H_W_BAD7%$COLOR_END減少する。	icon_status.darkriftwill_tex	icon_status.darkriftwill_tex	True
 91850000	297	Buff	True	seta	300000	0	0	不気味な精霊			不気味な精霊が邪魔をする…。	icon_skills.widepurity_tex	icon_skills.widepurity_tex	True
-91900000	PVPDef	Buff	True	abs	300000	0	2	Weak Murderous Intent			Increases Power by $H_W_GOOD4$COLOR_END, Attack Speed by $H_W_GOOD2$COLOR_END, Crit Factor by $H_W_GOOD100%5$COLOR_END, and Movement Speed by $H_W_GOOD100%4$COLOR_END.	icon_skills.battlefield_high_ranking_tex	icon_skills.battlefield_high_ranking_tex	True
-91900000	PVPAtk	Buff	True	abs	300000	0	4	Weak Murderous Intent			Increases Power by $H_W_GOOD4$COLOR_END, Attack Speed by $H_W_GOOD2$COLOR_END, Crit Factor by $H_W_GOOD100%5$COLOR_END, and Movement Speed by $H_W_GOOD100%4$COLOR_END.	icon_skills.battlefield_high_ranking_tex	icon_skills.battlefield_high_ranking_tex	True
-91900000	190	Buff	True	swch	300000	0	0	Weak Murderous Intent			Increases Power by $H_W_GOOD4$COLOR_END, Attack Speed by $H_W_GOOD2$COLOR_END, Crit Factor by $H_W_GOOD100%5$COLOR_END, and Movement Speed by $H_W_GOOD100%4$COLOR_END.	icon_skills.battlefield_high_ranking_tex	icon_skills.battlefield_high_ranking_tex	True
-91900001	PVPDef	Buff	True	abs	300000	0	3	Medium Murderous Intent			Increases Power by $H_W_GOOD6$COLOR_END, Attack Speed by $H_W_GOOD3$COLOR_END, Crit Factor by $H_W_GOOD100%5$COLOR_END, and Movement Speed by $H_W_GOOD100%4$COLOR_END.	icon_skills.battlefield_high_ranking_tex	icon_skills.battlefield_high_ranking_tex	True
-91900001	PVPAtk	Buff	True	abs	300000	0	6	Medium Murderous Intent			Increases Power by $H_W_GOOD6$COLOR_END, Attack Speed by $H_W_GOOD3$COLOR_END, Crit Factor by $H_W_GOOD100%5$COLOR_END, and Movement Speed by $H_W_GOOD100%4$COLOR_END.	icon_skills.battlefield_high_ranking_tex	icon_skills.battlefield_high_ranking_tex	True
-91900001	190	Buff	True	swch	300000	0	0	Medium Murderous Intent			Increases Power by $H_W_GOOD6$COLOR_END, Attack Speed by $H_W_GOOD3$COLOR_END, Crit Factor by $H_W_GOOD100%5$COLOR_END, and Movement Speed by $H_W_GOOD100%4$COLOR_END.	icon_skills.battlefield_high_ranking_tex	icon_skills.battlefield_high_ranking_tex	True
-91900002	PVPDef	Buff	True	abs	300000	0	4	Strong Intent			Increases Power by $H_W_GOOD8$COLOR_END, Attack Speed by $H_W_GOOD4$COLOR_END, Crit Factor by $H_W_GOOD100%5$COLOR_END, and Movement Speed by $H_W_GOOD100%4$COLOR_END.	icon_skills.battlefield_high_ranking_tex	icon_skills.battlefield_high_ranking_tex	True
-91900002	PVPAtk	Buff	True	abs	300000	0	8	Strong Intent			Increases Power by $H_W_GOOD8$COLOR_END, Attack Speed by $H_W_GOOD4$COLOR_END, Crit Factor by $H_W_GOOD100%5$COLOR_END, and Movement Speed by $H_W_GOOD100%4$COLOR_END.	icon_skills.battlefield_high_ranking_tex	icon_skills.battlefield_high_ranking_tex	True
-91900002	190	Buff	True	swch	300000	0	0	Strong Intent			Increases Power by $H_W_GOOD8$COLOR_END, Attack Speed by $H_W_GOOD4$COLOR_END, Crit Factor by $H_W_GOOD100%5$COLOR_END, and Movement Speed by $H_W_GOOD100%4$COLOR_END.	icon_skills.battlefield_high_ranking_tex	icon_skills.battlefield_high_ranking_tex	True
-91900003	PVPDef	Buff	True	abs	300000	0	5	Insane Murderous Intent			Increases Power by $H_W_GOOD10$COLOR_END, Attack Speed by $H_W_GOOD5$COLOR_END, Crit Factor by $H_W_GOOD100%5$COLOR_END, and Movement Speed by $H_W_GOOD100%4$COLOR_END.	icon_skills.battlefield_high_ranking_tex	icon_skills.battlefield_high_ranking_tex	True
-91900003	PVPAtk	Buff	True	abs	300000	0	10	Insane Murderous Intent			Increases Power by $H_W_GOOD10$COLOR_END, Attack Speed by $H_W_GOOD5$COLOR_END, Crit Factor by $H_W_GOOD100%5$COLOR_END, and Movement Speed by $H_W_GOOD100%4$COLOR_END.	icon_skills.battlefield_high_ranking_tex	icon_skills.battlefield_high_ranking_tex	True
-91900003	190	Buff	True	swch	300000	0	0	Insane Murderous Intent			Increases Power by $H_W_GOOD10$COLOR_END, Attack Speed by $H_W_GOOD5$COLOR_END, Crit Factor by $H_W_GOOD100%5$COLOR_END, and Movement Speed by $H_W_GOOD100%4$COLOR_END.	icon_skills.battlefield_high_ranking_tex	icon_skills.battlefield_high_ranking_tex	True
-91900004	DefPotion	Buff	True	perc	300000	0	2	Murderous Intent is Active			<font color = '#F9B600'>PvEで発動</font>$BRWhile Murderous Intent is active, decreases skill damage by $H_W_BAD90%$COLOR_END.$BRDecreases healing effects by $H_W_BAD90%$COLOR_END.$BRIncreases damage taken by $H_W_BAD100%$COLOR_END.	icon_skills.battlefield_high_ranking_tex	icon_skills.battlefield_high_ranking_tex	True
-91900004	AtkPotion	Buff	True	perc	300000	0	0.1	Murderous Intent is Active			<font color = '#F9B600'>PvEで発動</font>$BRWhile Murderous Intent is active, decreases skill damage by $H_W_BAD90%$COLOR_END.$BRDecreases healing effects by $H_W_BAD90%$COLOR_END.$BRIncreases damage taken by $H_W_BAD100%$COLOR_END.	icon_skills.battlefield_high_ranking_tex	icon_skills.battlefield_high_ranking_tex	True
-91900004	164	Buff	True	perc	300000	0	0.1	Murderous Intent is Active			<font color = '#F9B600'>PvEで発動</font>$BRWhile Murderous Intent is active, decreases skill damage by $H_W_BAD90%$COLOR_END.$BRDecreases healing effects by $H_W_BAD90%$COLOR_END.$BRIncreases damage taken by $H_W_BAD100%$COLOR_END.	icon_skills.battlefield_high_ranking_tex	icon_skills.battlefield_high_ranking_tex	True
-91900010	Endurance	Buff	True	perc	100	0	1	PvP Resurrection Cuckery			We're removing your buffs. Don't be too salty about it.	icon_items.enchantsource2_tex	icon_items.enchantsource2_tex	True
-91900011	Endurance	Buff	True	perc	100	0	1	PvP Resurrection Cuckery			We're removing your buffs. Don't be too salty about it.	icon_items.enchantsource2_tex	icon_items.enchantsource2_tex	True
-91900012	Endurance	Buff	True	perc	100	0	1	PvP Resurrection Cuckery			We're removing your buffs. Don't be too salty about it.	icon_items.enchantsource2_tex	icon_items.enchantsource2_tex	True
-91900013	Endurance	Buff	True	perc	100	0	1	PvP Resurrection Cuckery			We're removing your buffs. Don't be too salty about it.	icon_items.enchantsource2_tex	icon_items.enchantsource2_tex	True
+91900000	PVPDef	Buff	True	abs	300000	0	2	殺意 I			PvP攻撃力を$H_W_GOOD4$COLOR_END、PvP耐久力を$H_W_GOOD2$COLOR_END増加させる。	icon_skills.battlefield_high_ranking_tex	icon_skills.battlefield_high_ranking_tex	True
+91900000	PVPAtk	Buff	True	abs	300000	0	4	殺意 I			PvP攻撃力を$H_W_GOOD4$COLOR_END、PvP耐久力を$H_W_GOOD2$COLOR_END増加させる。	icon_skills.battlefield_high_ranking_tex	icon_skills.battlefield_high_ranking_tex	True
+91900000	190	Buff	True	swch	300000	0	0	殺意 I			PvP攻撃力を$H_W_GOOD4$COLOR_END、PvP耐久力を$H_W_GOOD2$COLOR_END増加させる。	icon_skills.battlefield_high_ranking_tex	icon_skills.battlefield_high_ranking_tex	True
+91900001	PVPDef	Buff	True	abs	300000	0	3	殺意 II			PvP攻撃力を$H_W_GOOD6$COLOR_END、PvP耐久力を$H_W_GOOD3$COLOR_END増加させる。	icon_skills.battlefield_high_ranking_tex	icon_skills.battlefield_high_ranking_tex	True
+91900001	PVPAtk	Buff	True	abs	300000	0	6	殺意 II			PvP攻撃力を$H_W_GOOD6$COLOR_END、PvP耐久力を$H_W_GOOD3$COLOR_END増加させる。	icon_skills.battlefield_high_ranking_tex	icon_skills.battlefield_high_ranking_tex	True
+91900001	190	Buff	True	swch	300000	0	0	殺意 II			PvP攻撃力を$H_W_GOOD6$COLOR_END、PvP耐久力を$H_W_GOOD3$COLOR_END増加させる。	icon_skills.battlefield_high_ranking_tex	icon_skills.battlefield_high_ranking_tex	True
+91900002	PVPDef	Buff	True	abs	300000	0	4	殺意 III			PvP攻撃力を$H_W_GOOD8$COLOR_END、PvP耐久力を$H_W_GOOD4$COLOR_END増加させる。	icon_skills.battlefield_high_ranking_tex	icon_skills.battlefield_high_ranking_tex	True
+91900002	PVPAtk	Buff	True	abs	300000	0	8	殺意 III			PvP攻撃力を$H_W_GOOD8$COLOR_END、PvP耐久力を$H_W_GOOD4$COLOR_END増加させる。	icon_skills.battlefield_high_ranking_tex	icon_skills.battlefield_high_ranking_tex	True
+91900002	190	Buff	True	swch	300000	0	0	殺意 III			PvP攻撃力を$H_W_GOOD8$COLOR_END、PvP耐久力を$H_W_GOOD4$COLOR_END増加させる。	icon_skills.battlefield_high_ranking_tex	icon_skills.battlefield_high_ranking_tex	True
+91900003	PVPDef	Buff	True	abs	300000	0	5	殺意 IV			PvP攻撃力を$H_W_GOOD10$COLOR_END、PvP耐久力を$H_W_GOOD5$COLOR_END増加させる。	icon_skills.battlefield_high_ranking_tex	icon_skills.battlefield_high_ranking_tex	True
+91900003	PVPAtk	Buff	True	abs	300000	0	10	殺意 IV			PvP攻撃力を$H_W_GOOD10$COLOR_END、PvP耐久力を$H_W_GOOD5$COLOR_END増加させる。	icon_skills.battlefield_high_ranking_tex	icon_skills.battlefield_high_ranking_tex	True
+91900003	190	Buff	True	swch	300000	0	0	殺意 IV			PvP攻撃力を$H_W_GOOD10$COLOR_END、PvP耐久力を$H_W_GOOD5$COLOR_END増加させる。	icon_skills.battlefield_high_ranking_tex	icon_skills.battlefield_high_ranking_tex	True
+91900004	DefPotion	Buff	True	perc	300000	0	2	殺意が溢れている			<font color = '#F9B600'>PvEで発動</font>$BR殺意が発動している間、スキル威力が$H_W_BAD90%$COLOR_END減少。$BR回復効果を$H_W_BAD90%$COLOR_END減少。$BR被ダメージが$H_W_BAD100%$COLOR_END増加。	icon_skills.battlefield_high_ranking_tex	icon_skills.battlefield_high_ranking_tex	True
+91900004	AtkPotion	Buff	True	perc	300000	0	0.1	殺意が溢れている			<font color = '#F9B600'>PvEで発動</font>$BR殺意が発動している間、スキル威力が$H_W_BAD90%$COLOR_END減少。$BR回復効果を$H_W_BAD90%$COLOR_END減少。$BR被ダメージが$H_W_BAD100%$COLOR_END増加。	icon_skills.battlefield_high_ranking_tex	icon_skills.battlefield_high_ranking_tex	True
+91900004	164	Buff	True	perc	300000	0	0.1	殺意が溢れている			<font color = '#F9B600'>PvEで発動</font>$BR殺意が発動している間、スキル威力が$H_W_BAD90%$COLOR_END減少。$BR回復効果を$H_W_BAD90%$COLOR_END減少。$BR被ダメージが$H_W_BAD100%$COLOR_END増加。	icon_skills.battlefield_high_ranking_tex	icon_skills.battlefield_high_ranking_tex	True
+91900010	Endurance	Buff	True	perc	100	0	1	詠唱回復			バフを削除します。冷たくしないでください。	icon_items.enchantsource2_tex	icon_items.enchantsource2_tex	True
+91900011	Endurance	Buff	True	perc	100	0	1	詠唱回復			バフを削除します。冷たくしないでください。	icon_items.enchantsource2_tex	icon_items.enchantsource2_tex	True
+91900012	Endurance	Buff	True	perc	100	0	1	詠唱回復			バフを削除します。冷たくしないでください。	icon_items.enchantsource2_tex	icon_items.enchantsource2_tex	True
+91900013	Endurance	Buff	True	perc	100	0	1	詠唱回復			バフを削除します。冷たくしないでください。	icon_items.enchantsource2_tex	icon_items.enchantsource2_tex	True
 91900017	BuffNearbyParty	Buff	True	seta	20000	3	91900020	バトルウィル II				icon_skills.fightingwill_tex	icon_skills.fightingwill_tex	True
-91900019	Endurance	Buff	True	perc	100	0	1	PvP Resurrection Cuckery			We're removing your buffs. Don't be too salty about it.	icon_items.enchantsource2_tex	icon_items.enchantsource2_tex	True
-91900020	AtkPotion	Buff	True	perc	0	0	0.86	PvP Damage decrease			Decrease PvP damage by 14%.	icon_skills.sp_attack1_tex	icon_skills.sp_attack1_tex	True
-91900021	MovSpd	Debuff	False	setp	3000	0	0.85	Scattershot			Decreases Movement Speed by $H_W_BAD15%$COLOR_END.	icon_status.minusmove_tex	icon_status.minusmove_tex	True
-91900021	HPDrain	Debuff	False	perc	3000	0	0.9	Scattershot			Decreases Movement Speed by $H_W_BAD15%$COLOR_END.	icon_status.minusmove_tex	icon_status.minusmove_tex	True
-91900022	AtkPotion	Buff	True	perc	20000	0	0.86	バトルウィル II			Decrease PvP damage by 14%.	icon_skills.fightingwill_tex	icon_skills.fightingwill_tex	True
+91900019	Endurance	Buff	True	perc	100	0	1	詠唱回復			バフを削除します。冷たくしないでください。	icon_items.enchantsource2_tex	icon_items.enchantsource2_tex	True
+91900020	AtkPotion	Buff	True	perc	0	0	0.86	PvPダメージ減少			PvPダメージを14%減少させる。	icon_skills.sp_attack1_tex	icon_skills.sp_attack1_tex	True
+91900021	MovSpd	Debuff	False	setp	3000	0	0.85	手当たり次第な攻撃			移動速度を$H_W_BAD15%$COLOR_END減少させる。	icon_status.minusmove_tex	icon_status.minusmove_tex	True
+91900021	HPDrain	Debuff	False	perc	3000	0	0.9	手当たり次第な攻撃			移動速度を$H_W_BAD15%$COLOR_END減少させる。	icon_status.minusmove_tex	icon_status.minusmove_tex	True
+91900022	AtkPotion	Buff	True	perc	20000	0	0.86	バトルウィル II			PvPダメージを14%減少させる。	icon_skills.fightingwill_tex	icon_skills.fightingwill_tex	True
 91900200	MovSpd	Buff	True	perc	15000	0	1.3	クリスマスの風			さらに速度が増す。	icon_status.lightweight_tex	icon_status.lightweight_tex	True
 91900201	AllowAggro	Buff	True	swch	10000	0	0	クリスマスイブ			あなたにはプレゼントを盗む技術がある。	icon_skills.seduction_tex	icon_skills.seduction_tex	True
 91900201	Visibility	Buff	True	swch	10000	0	0	クリスマスイブ			あなたにはプレゼントを盗む技術がある。	icon_skills.seduction_tex	icon_skills.seduction_tex	True
@@ -10085,12 +10085,12 @@
 98300144	Stun	Stun	False	swch	5000	0	5	気絶			5秒間、身動きが取れません。	icon_status.paralyzestatus_tex	icon_status.paralyzestatus_tex	True
 98300201	Stun	Stun	False	swch	3500	0	5	スタン			身動きが取れません。			True
 98300211	Stun	Stun	False	swch	5000	0	5	気絶			5秒間、身動きが取れません。	icon_status.paralyzestatus_tex	icon_status.paralyzestatus_tex	True
-98300222	Drunk1	Debuff	True	seta	0	0	0	属性：炎			炎属性になりました。草属性ゴーレムに対し、スキル威力20％、攻撃速度が10％増加します。炎、水属性ゴーレムに対し、スキル威力が20％減少し、受けるダメージが10％増加します。	icon_status.battlecommand03_tex	icon_status.battlecommand03_tex	True
-98300223	Drunk1	Debuff	True	seta	0	0	0	属性：水			水属性となりました。炎属性ゴーレムに対し、スキル威力20％、攻撃速度が10％増加します。水、草属性ゴーレムに対し、スキル威力が20％減少し、受けるダメージが10％増加します。	icon_status.battlecommand01_tex	icon_status.battlecommand01_tex	True
-98300224	Drunk1	Debuff	True	seta	0	0	0	属性：草			草属性となりました。水属性ゴーレムに対し、スキル威力20％、攻撃速度が10％増加します。草、炎属性ゴーレムに対し、スキル威力が20％減少し、受けるダメージが10％増加します。	icon_status.battlecommand04_tex	icon_status.battlecommand04_tex	True
-98300225	Attack	Debuff	True	perc	0	0	0.85	属性：ノーマル			無属性になりました。全ての属性に与えるダメージが20%減少し、属性抵抗力が落ちて受けるダメージが10%増加します。	icon_status.battlecommand02_tex	icon_status.battlecommand02_tex	True
-98300225	HPChange	Debuff	True	perc	0	2	-0.08	属性：ノーマル			無属性になりました。全ての属性に与えるダメージが20%減少し、属性抵抗力が落ちて受けるダメージが10%増加します。	icon_status.battlecommand02_tex	icon_status.battlecommand02_tex	True
-98300225	DefPotion	Debuff	True	perc	0	0	1.1	属性：ノーマル			無属性になりました。全ての属性に与えるダメージが20%減少し、属性抵抗力が落ちて受けるダメージが10%増加します。	icon_status.battlecommand02_tex	icon_status.battlecommand02_tex	True
+98300222	Drunk1	Debuff	True	seta	0	0	0	属性：炎			炎属性になりました。草属性ゴーレムに対し、スキル威力15％、攻撃速度が10％増加します。炎、水属性ゴーレムに対し、スキル威力が15％減少し、受けるダメージが10％増加します。	icon_status.battlecommand03_tex	icon_status.battlecommand03_tex	True
+98300223	Drunk1	Debuff	True	seta	0	0	0	属性：水			水属性となりました。炎属性ゴーレムに対し、スキル威力15％、攻撃速度が10％増加します。水、草属性ゴーレムに対し、スキル威力が15％減少し、受けるダメージが10％増加します。	icon_status.battlecommand01_tex	icon_status.battlecommand01_tex	True
+98300224	Drunk1	Debuff	True	seta	0	0	0	属性：草			草属性となりました。水属性ゴーレムに対し、スキル威力15％、攻撃速度が10％増加します。草、炎属性ゴーレムに対し、スキル威力が15％減少し、受けるダメージが10％増加します。	icon_status.battlecommand04_tex	icon_status.battlecommand04_tex	True
+98300225	Attack	Debuff	True	perc	0	0	0.85	属性：ノーマル			無属性になりました。全ての属性に与えるダメージが15%減少し、属性抵抗力が落ちて受けるダメージが10%増加します。 また、2秒ごとにHPが8%減少する。	icon_status.battlecommand02_tex	icon_status.battlecommand02_tex	True
+98300225	HPChange	Debuff	True	perc	0	2	-0.08	属性：ノーマル			無属性になりました。全ての属性に与えるダメージが15%減少し、属性抵抗力が落ちて受けるダメージが10%増加します。 また、2秒ごとにHPが8%減少する。	icon_status.battlecommand02_tex	icon_status.battlecommand02_tex	True
+98300225	DefPotion	Debuff	True	perc	0	0	1.1	属性：ノーマル			無属性になりました。全ての属性に与えるダメージが15%減少し、属性抵抗力が落ちて受けるダメージが10%増加します。 また、2秒ごとにHPが8%減少する。	icon_status.battlecommand02_tex	icon_status.battlecommand02_tex	True
 98300229	HPChange	DOT	True	perc	0	2	-0.08	火傷			熱気に侵され、2秒毎にHPが8％ずつ減少します。	icon_status.firedamage_tex	icon_status.firedamage_tex	True
 98300230	HPChange	DOT	True	perc	0	2	-0.08	溺水			水に溺れ、2秒毎にHPが8％ずつ減少します。	icon_status.icedamage_tex	icon_status.icedamage_tex	True
 98300231	HPChange	DOT	True	perc	0	2	-0.08	毒草			毒に蝕まれ、2秒毎にHPが8％ずつ減少します。	icon_status.poisonstatus_tex	icon_status.poisonstatus_tex	True
@@ -10897,7 +10897,7 @@
 303401005	MovSpd	Debuff	True	perc	15000	0	0.5	プラズマ衝撃			時限爆弾が爆発しました！衝撃波に攻撃されて移動速度が$H_W_BAD50％$COLOR_END、スキルによる移動距離が$H_W_BAD30％$COLOR_END減少します。この効果は解除できません。	icon_status.minusmove_tex	icon_status.minusmove_tex	True
 303401005	HPDrain	Debuff	True	perc	15000	0	0.7	プラズマ衝撃			時限爆弾が爆発しました！衝撃波に攻撃されて移動速度が$H_W_BAD50％$COLOR_END、スキルによる移動距離が$H_W_BAD30％$COLOR_END減少します。この効果は解除できません。	icon_status.minusmove_tex	icon_status.minusmove_tex	True
 303401005	43	Debuff	True	perc	15000	0	0.7	プラズマ衝撃			時限爆弾が爆発しました！衝撃波に攻撃されて移動速度が$H_W_BAD50％$COLOR_END、スキルによる移動距離が$H_W_BAD30％$COLOR_END減少します。この効果は解除できません。	icon_status.minusmove_tex	icon_status.minusmove_tex	True
-303401008	Block	Debuff	True	swch	20000	0	0	神経損傷			ベンタロンのプラズマ放出により、スキルを使用できません。	icon_status.vergoscurse_tex	icon_status.vergoscurse_tex	True
+303401008	Block	Debuff	True	swch	20000	0	0	サイレンス			スキルを使用できません。	icon_status.vergoscurse_tex	icon_status.vergoscurse_tex	True
 303401012	Stun	Debuff	True	swch	1500	0	5	リバースカレント			ベンタロンの強力な磁場攻撃によって身体が強制的に移動しています。	icon_status.electriceffect3_tex	icon_status.electriceffect3_tex	True
 303402000	HPChange	DOT	True	perc	30000	3	-0.1	電気ショック			強力な電流により1重複当たり$H_W_BAD3s$COLOR_END毎にHPが$H_W_BAD10％$COLOR_END減少します。最大12回まで重複されます。	icon_skills.electricshock_tex	icon_skills.electricshock_tex	True
 303402000	DelayedEffect	DOT	True	swch	30000	0	303402009	電気ショック			強力な電流により1重複当たり$H_W_BAD3s$COLOR_END毎にHPが$H_W_BAD10％$COLOR_END減少します。最大12回まで重複されます。	icon_skills.electricshock_tex	icon_skills.electricshock_tex	True
@@ -11000,17 +11000,17 @@
 303600059	ASpd	Buff	True	perc	0	0	1.3	凶暴化			命の危機を感じたダルカンがより強力になります。	icon_status.darkriftarearage_tex	icon_status.darkriftarearage_tex	True
 303600060	HPChange	Debuff	False	perc	6000	1	-0.05	闇の破片			効果が解除されるまでの間、$H_W_BAD1s$COLOR_END毎に全HPの$H_W_BAD10%$COLOR_ENDが減少し、スキルを使用できません。 	icon_status.fearstatus_tex	icon_status.fearstatus_tex	True
 303600060	Block	Debuff	False	swch	6000	0	0	闇の破片			効果が解除されるまでの間、$H_W_BAD1s$COLOR_END毎に全HPの$H_W_BAD10%$COLOR_ENDが減少し、スキルを使用できません。 	icon_status.fearstatus_tex	icon_status.fearstatus_tex	True
-303800001	371	Buff	True	seta	10800000	966	1	カイアの祝福	285004	カイアの加護	[英語名] Kaia's Blessing $BR戦乱の時代の謎のエネルギーが有効な間は、ダメージを受けない。<br>	icon_status.godspell_tex	icon_status.godspell_tex	True
-303800002	DelayedEffect	Debuff	False	seta	10000	0	303800003	カイアの刻印			[英語名] Kaia's mark $BRあなたは強力な謎のエネルギーにさらされ、10秒後に死にます $BR死ぬのを防ぐには<font color = '#F9B600'>カイアの祝福</font>を受ける必要があります.	icon_status.yellowaura_tex	icon_status.yellowaura_tex	True
-303800002	330	Debuff	False	swch	10000	0	0	カイアの刻印			[英語名] Kaia's mark $BRあなたは強力な謎のエネルギーにさらされ、10秒後に死にます $BR死ぬのを防ぐには<font color = '#F9B600'>カイアの祝福</font>を受ける必要があります.	icon_status.yellowaura_tex	icon_status.yellowaura_tex	True
-303800002	331	Debuff	False	swch	10000	0	0	カイアの刻印			[英語名] Kaia's mark $BRあなたは強力な謎のエネルギーにさらされ、10秒後に死にます $BR死ぬのを防ぐには<font color = '#F9B600'>カイアの祝福</font>を受ける必要があります.	icon_status.yellowaura_tex	icon_status.yellowaura_tex	True
-303800003	HPChange	Debuff	False	perc	0	1	-0.33	カイアの激怒			[英語名] Kaia's fury $BR時間経過とともにHPが急激に減少する。	icon_status.orangeaura_tex	icon_status.orangeaura_tex	True
-303900001	CritPower	Buff	True	abs	1200000	0	-3	セレンの穏やかな旋律	282142	女神エリーヌの守護	[英語名] Seren's Calm Melody $BRセレンの庭園の神秘的なエネルギーが活動している間はダメージを受けない。.<br>セレンは平和的であることが知られており、その結果、あなたのクリティカル威力は3減少する。	icon_items.raw_flower1	icon_items.raw_flower1	True
-303900001	371	Buff	True	seta	1200000	966	1	セレンの穏やかな旋律	282142	女神エリーヌの守護	[英語名] Seren's Calm Melody $BRセレンの庭園の神秘的なエネルギーが活動している間はダメージを受けない。.<br>セレンは平和的であることが知られており、その結果、あなたのクリティカル威力は3減少する。	icon_items.raw_flower1	icon_items.raw_flower1	True
-303900002	DelayedEffect	Debuff	False	seta	500	0	303900003	セレンの叫び声			[英語名] Seren's Shriek $BR謎の強力なエネルギーにさらされ、10秒後に死にます。 $BR死なないようにするには、<font color = '#F9B600'>Elinu's Floral Veil</font>を使用する必要があります..	icon_status.yellowaura_tex	icon_status.yellowaura_tex	True
-303900002	330	Debuff	False	swch	500	0	0	セレンの叫び声			[英語名] Seren's Shriek $BR謎の強力なエネルギーにさらされ、10秒後に死にます。 $BR死なないようにするには、<font color = '#F9B600'>Elinu's Floral Veil</font>を使用する必要があります..	icon_status.yellowaura_tex	icon_status.yellowaura_tex	True
-303900002	331	Debuff	False	swch	500	0	0	セレンの叫び声			[英語名] Seren's Shriek $BR謎の強力なエネルギーにさらされ、10秒後に死にます。 $BR死なないようにするには、<font color = '#F9B600'>Elinu's Floral Veil</font>を使用する必要があります..	icon_status.yellowaura_tex	icon_status.yellowaura_tex	True
-303900003	HPChange	Debuff	False	perc	0	1	-0.9	大自然の怒り			[英語名] Wrath of Nature $BR時間経過とともにHPが急速に減少する.	icon_status.orangeaura_tex	icon_status.orangeaura_tex	True
+303800001	371	Buff	True	seta	10800000	966	1	カイアの祝福	285004	カイアの加護	戦場の神秘的なエネルギーが発動している間は、ダメージを受けない。<br>	icon_status.godspell_tex	icon_status.godspell_tex	True
+303800002	DelayedEffect	Debuff	False	seta	10000	0	303800003	カイアの印			強力な謎のエネルギーの流れにさらされ、10秒で戦闘不能に陥る。$B生き延びるには<font color = '#F9B600'>カイアの祝福</font>を使用してください。	icon_status.yellowaura_tex	icon_status.yellowaura_tex	True
+303800002	330	Debuff	False	swch	10000	0	0	カイアの印			強力な謎のエネルギーの流れにさらされ、10秒で戦闘不能に陥る。$B生き延びるには<font color = '#F9B600'>カイアの祝福</font>を使用してください。	icon_status.yellowaura_tex	icon_status.yellowaura_tex	True
+303800002	331	Debuff	False	swch	10000	0	0	カイアの印			強力な謎のエネルギーの流れにさらされ、10秒で戦闘不能に陥る。$B生き延びるには<font color = '#F9B600'>カイアの祝福</font>を使用してください。	icon_status.yellowaura_tex	icon_status.yellowaura_tex	True
+303800003	HPChange	Debuff	False	perc	0	1	-0.33	カイアの憤怒			時間経過とともにHPが急速に減少する。	icon_status.orangeaura_tex	icon_status.orangeaura_tex	True
+303900001	CritPower	Buff	True	abs	1200000	0	-3	セレンの穏やかな旋律	282142	女神エリーヌの守護	セレンの庭園内の不思議な魔法を受けない。<br>セレンは平和主義な為、クリティカル威力が3減少する。	icon_items.raw_flower1	icon_items.raw_flower1	True
+303900001	371	Buff	True	seta	1200000	966	1	セレンの穏やかな旋律	282142	女神エリーヌの守護	セレンの庭園内の不思議な魔法を受けない。<br>セレンは平和主義な為、クリティカル威力が3減少する。	icon_items.raw_flower1	icon_items.raw_flower1	True
+303900002	DelayedEffect	Debuff	False	seta	500	0	303900003	セレンの叫び声			不思議な魔法さらされ、10秒で戦闘不能に陥る。<font color = '#F9B600'>女神エリーヌの守護</font>を使用することで不思議な魔法を受けつけなくなる。	icon_status.yellowaura_tex	icon_status.yellowaura_tex	True
+303900002	330	Debuff	False	swch	500	0	0	セレンの叫び声			不思議な魔法さらされ、10秒で戦闘不能に陥る。<font color = '#F9B600'>女神エリーヌの守護</font>を使用することで不思議な魔法を受けつけなくなる。	icon_status.yellowaura_tex	icon_status.yellowaura_tex	True
+303900002	331	Debuff	False	swch	500	0	0	セレンの叫び声			不思議な魔法さらされ、10秒で戦闘不能に陥る。<font color = '#F9B600'>女神エリーヌの守護</font>を使用することで不思議な魔法を受けつけなくなる。	icon_status.yellowaura_tex	icon_status.yellowaura_tex	True
+303900003	HPChange	Debuff	False	perc	0	1	-0.9	大自然の怒り			時間経過とともにHPが急速に減少する。	icon_status.orangeaura_tex	icon_status.orangeaura_tex	True
 303900004	Block	Debuff	True	swch	30000	0	0	沈黙			スキルのクールダウンが初期化され、しばらくの間スキル使用不可になる。	icon_status.vergoscurse_tex	icon_status.vergoscurse_tex	True
 950700002	Stun	Stun	True	swch	10000	0	5	瀕死			ケマルデアの攻撃で瀕死状態になりました。	icon_status.exhaustion_tex	icon_status.exhaustion_tex	True
 950800003	HPChange	Buff	True	perc	0	3	0.03	ミステルの加護			ミステルの加護でHP、MPが持続回復され、覚醒スキルのクールタイムが減少します。	icon_skills.moonlight_tex	icon_skills.moonlight_tex	True
@@ -11143,7 +11143,7 @@
 999009600	Stun1	Debuff	False	seta	3930000	15	4	気絶攻撃			敵軍を15秒に一度気絶状態にします。	icon_status.minddomination_tex	icon_status.minddomination_tex	True
 999009700	Power	Buff	True	perc	60000	0	1.5	透明化			透明化します。力が$H_W_GOOD50%$COLOR_END上昇します。	icon_status.immunedebuff_tex	icon_status.immunedebuff_tex	True
 999009700	Visibility	Buff	True	swch	60000	0	0	透明化			透明化します。力が$H_W_GOOD50%$COLOR_END上昇します。	icon_status.immunedebuff_tex	icon_status.immunedebuff_tex	True
-999009710	HPChange	Buff	True	abs	1000	1	100000	HP回復			HPが10000回復します。	icon_items.potion14_tex	icon_items.potion14_tex	True
+999009710	HPChange	Buff	True	abs	1000	1	100000	HP回復			HPが100,000回復します。	icon_items.potion14_tex	icon_items.potion14_tex	True
 999009720	CDR	Buff	True	swch	60000	0	0.8	クールタイム減少			クールタイムが$H_W_GOOD20%$COLOR_END減少します。	icon_status.pluswill_tex	icon_status.pluswill_tex	True
 999009730	MovSpdInCombat	Buff	True	seta	60000	0	240	移動速度上昇			移動速度が$H_W_GOOD240$COLOR_ENDに固定されます。	icon_status.aura_of_wind_tex	icon_status.aura_of_wind_tex	True
 999009730	OutOfCombatMovSpd	Buff	True	seta	60000	0	240	移動速度上昇			移動速度が$H_W_GOOD240$COLOR_ENDに固定されます。	icon_status.aura_of_wind_tex	icon_status.aura_of_wind_tex	True
