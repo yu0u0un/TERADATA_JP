@@ -1203,18 +1203,18 @@
 201	SMT_INGAMESTORE_BASKET_DELETED	選択したアイテムを削除しました。
 203	SMT_INGAMESTORE_BUYALERT	商店で購入した商品は<font color = '#FFFFFF'>女神の贈り物</font>より支給されます。<br><font color = '#FF0000'>キャラクターのインベントリにアイテムを受け取るか、購入後7日を経過したアイテムは払い戻しできません。</font>
 201	SMT_INGAMESTORE_BUY_MONEY_PRODUCT	{ItemDesc}を1個あたり{EachPrice@cash}で購入しました。【女神の贈り物】を確認してください。
-201	SMT_INGAMESTORE_BUY_MONEY_PRODUCT_POPUP_INVALID_MESSAGE	有効ではない商品です。ポポリメダルショップを開き、もう一度お試しください。
+201	SMT_INGAMESTORE_BUY_MONEY_PRODUCT_POPUP_INVALID_MESSAGE	有効ではない商品です。アストラムコインショップを開き、もう一度お試しください。
 201	SMT_INGAMESTORE_BUY_MONEY_PRODUCT_POPUP_MESSAGE	アイテム購入が完了しました。&#xA;【女神の贈り物】を確認してください。
 201	SMT_INGAMESTORE_BUY_MONEY_PRODUCT_POPUP_NETWORK_ERROR_MESSAGE	一時的なネットワークエラーが発生しました。もう一度お試しください。
-201	SMT_INGAMESTORE_BUY_MONEY_PRODUCT_POPUP_UNKNOWN_ERROR_MESSAGE	購入中にエラーが発生しました。しばらくしてからポポリメダルショップを開き、もう一度お試しください。［エラーコード：{ErrorText}］
-201	SMT_INGAMESTORE_BUY_TCAT_PRODUCT	{ItemDesc}{Count}個を1個あたり{EachPrice@tcat}ポポリメダルで購入しました。
+201	SMT_INGAMESTORE_BUY_MONEY_PRODUCT_POPUP_UNKNOWN_ERROR_MESSAGE	購入中にエラーが発生しました。しばらくしてからアストラムコインショップを開き、もう一度お試しください。［エラーコード：{ErrorText}］
+201	SMT_INGAMESTORE_BUY_TCAT_PRODUCT	{ItemDesc}{Count}個を1個あたり{EachPrice@tcat}アストラムコインで購入しました。
 203	SMT_INGAMESTORE_CHECKING_BALANCE_FAILED_MESSAGE	残高照会に失敗しました。更新ボタンを押してもう一度お試しください。［エラーコード：{ErrorText}］
 203	SMT_INGAMESTORE_CLOSED	今は商店を使用できません。
 203	SMT_INGAMESTORE_ERROR	商品を購入できません。
 203	SMT_INGAMESTORE_LOWMONEY	保有金額が足りません。チャージ後に購入してください。
 201	SMT_INGAMESTORE_OPEN_CHARGE_PAGE	チャージ
 201	SMT_INGAMESTORE_OPEN_ITEM_CLAIM	女神の贈り物を開く
-203	SMT_INGAMESTORE_TCAT_BUYALERT	購入したアイテムは<font color = '#FFFFFF'>かばん</font>に届きます。<br><font color = '#FF0000'>ポポリメダルで購入したアイテムは払い戻しできません。</font>
+203	SMT_INGAMESTORE_TCAT_BUYALERT	購入したアイテムは<font color = '#FFFFFF'>かばん</font>に届きます。<br><font color = '#FF0000'>アストラムコインで購入したアイテムは払い戻しできません。</font>
 201	SMT_INGAMESTORE_TERA_SHOP	はい
 201	SMT_INVALID_CLIMBING_END_POS	［這い上がり］の最終座標が有効誤差範囲を超えました。
 203	SMT_INVALID_CUSTOMIZING_ITEM	このアイテムはクリスタルではありません。
@@ -1384,7 +1384,7 @@
 201	SMT_LORD_START_REG_CANDIDATE_MSG1	{lordNumber}代領主選出のための立候補期間が始まりました。
 201	SMT_LORD_START_REG_CANDIDATE_MSG2	大都市にいる［選挙管理人］から立候補できます。
 201	SMT_LOST_DUNGEON_OWNERSHIP	間もなくテレポートで離脱します。
-203	SMT_LOW_TCAT_MESSAGE	ポポリメダルが足りません。
+203	SMT_LOW_TCAT_MESSAGE	アストラムコインが足りません。
 201	SMT_MANDATE_CONSUL	{username}が執政官に任命されました。
 203	SMT_MATCHING_CANT_REQUEST4	{party}メンバーの情報が正しくないため追加マッチングを申請できません。
 201	SMT_MAX_ENCHANT_SUCCEED	{UserName}が{ItemName}強化に成功しました。
@@ -1393,7 +1393,7 @@
 201	SMT_MEDIATE_CALCULATE	精算を完了しました。
 209	SMT_MEDIATE_CALCULATE_GET_ITEM	{ItemName}を{ItemAmount}個獲得しました。
 201	SMT_MEDIATE_CALCULATE_GET_MONEY	{Amount@money}を獲得しました。
-201	SMT_MEDIATE_CALCULATE_GET_TCAT	{Amount@tcat}ポポリメダルを獲得しました。
+201	SMT_MEDIATE_CALCULATE_GET_TCAT	{Amount@tcat}アストラムコインを獲得しました。
 203	SMT_MEDIATE_CANT_BARGAIN	{UserName}は交渉できない状態です。
 203	SMT_MEDIATE_CANT_BARGAIN_REQUEST	交渉を行うためには、かばんに空きスロットが必要です。
 203	SMT_MEDIATE_CANT_BUY_ITEM	交渉中のアイテムは購入できません。
@@ -1416,8 +1416,8 @@
 203	SMT_MEDIATE_REG_FAIL_IS_NO_AGENT_TYPE	取引仲介所に登録できないアイテムです。
 203	SMT_MEDIATE_REG_PRICE_UI_NO_REGISTERED_ITEM	取引中のアイテムがありません。
 201	SMT_MEDIATE_REG_SUCCESS_ITEM	取引仲介所に{ItemName}{Count}個を1個あたり{amount@money}で登録しました。
-201	SMT_MEDIATE_REG_SUCCESS_ITEM_MONEYTCAT	取引仲介所に{ItemName}{Count}個を1個あたり{amount@money}または{tcatPrice@tcat}ポポリメダルで登録しました。
-201	SMT_MEDIATE_REG_SUCCESS_TCATITEM	取引仲介所に{ItemName}{Count}個を1個あたり{amount@tcat}ポポリメダルに登録しました。
+201	SMT_MEDIATE_REG_SUCCESS_ITEM_MONEYTCAT	取引仲介所に{ItemName}{Count}個を1個あたり{amount@money}または{tcatPrice@tcat}アストラムコインで登録しました。
+201	SMT_MEDIATE_REG_SUCCESS_TCATITEM	取引仲介所に{ItemName}{Count}個を1個あたり{amount@tcat}アストラムコインに登録しました。
 201	SMT_MEDIATE_SUCCESS_BUY	取引仲介所で{ItemName}を購入しました。アイテムを精算してください。
 201	SMT_MEDIATE_SUCCESS_SELL	取引仲介所に登録された{ItemName}が売れました。仲介人の所で精算してください。
 201	SMT_MEDIATE_TRADE_CANCEL_ME	交渉をキャンセルしました。
@@ -1428,7 +1428,7 @@
 201	SMT_MEDIATE_TRADE_FINISH_BUY_ITEM	{ItemName}を{ItemAmount}個購入しました。
 201	SMT_MEDIATE_TRADE_FINISH_SELL_ITEM	{ItemName}を{ItemAmount}個販売しました。
 201	SMT_MEDIATE_TRADE_FINISH_USE_MONEY	購入代金{Amount@money}を支払いました。
-201	SMT_MEDIATE_TRADE_FINISH_USE_TCAT	購入代金としてポポリメダル{Amount@tcat}枚を支払いました。
+201	SMT_MEDIATE_TRADE_FINISH_USE_TCAT	購入代金としてアストラムコイン{Amount@tcat}枚を支払いました。
 201	SMT_MEDIATE_TRADE_INPUT_MONEY	{UserName}が{Amount@money}を取引価格として提示しました。
 203	SMT_MEGAPHONE_POPUP_MESSAGE	メッセージを入力してください。最大{length}文字
 203	SMT_MEGAPHONE_POPUP_TITLE	メガホン
@@ -1622,7 +1622,7 @@
 208	SMT_PK_SYSMSG_KILL_OBJECT	{player}を倒しました。
 208	SMT_PK_SYSMSG_KILL_SUBJECT	{player}に倒されました。
 208	SMT_PK_SYSMSG_START	反逆宣言をしました。
-201	SMT_PLAYTIME_START	ようこそ、Menma's TERAへ!. Discord : http://discord.gg/menmastera
+201	SMT_PLAYTIME_START	ようこそ、MT The Dreamへ!. Discord : http://discord.gg/mtdream
 201	SMT_PLAYTIME_TIMER	ゲーム開始から{PlayTime}時間経過しました。
 201	SMT_PLAY_GUIDE_COMPLETE_EVENT	{EventName}に完了した指令があります。
 201	SMT_PLAY_GUIDE_NEW_EVENT	{EventName}に新しい指令があります。
@@ -1926,7 +1926,7 @@
 201	SMT_TOGGLE_UI	【Ctrl＋Z】を押すとUIが表示されます。
 201	SMT_TOGGLE_UI_FPMODE	【Ctrl＋Z】でスクリーンショットモードを解除できます。
 201	SMT_TOGGLE_UI_TPMODE	【Ctrl＋Z】で一人称モードに変更できます。
-203	SMT_TOOMANY_TCAT_MESSAGE	これ以上ポポリメダルを持つことができません。
+203	SMT_TOOMANY_TCAT_MESSAGE	これ以上アストラムコインを持つことができません。
 203	SMT_TOWN_TELEPORT_CANT_USE	移動先が近いため呪文書を使用できません。
 203	SMT_TRADE_BROKER_CANT_SEARCH_ALL	キーワードを入力してください。
 201	SMT_TRADE_CANCEL	トレードをキャンセルしました。

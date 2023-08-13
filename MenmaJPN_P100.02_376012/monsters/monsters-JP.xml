@@ -2830,6 +2830,7 @@
 		<Monster name="司令官ルキイ" id="5030" isBoss="True" hp="700000000" speciesId="0" />
 		<Monster name="シャドウウォーリアー" id="5031" isBoss="False" hp="1500000" speciesId="0" />
 		<Monster name="シャンドラ・マナイアの幻影" id="9000" isBoss="False" hp="807599" speciesId="0" />
+		<Monster name="パスハ" id="9016" isBoss="False" hp="10000" speciesId="0" />
 	</Zone>
 	<Zone id="59" name="三日月村" >
 		<Monster name="ジェレミア・ロッツ" id="1001" isBoss="False" hp="10000" speciesId="0" />
@@ -5444,8 +5445,8 @@
 		<Monster name="護衛隊兵士" id="3022" isBoss="False" hp="10000" speciesId="0" />
 	</Zone>
 	<Zone id="99" name="unknown" >
-		<Monster name="Guild Shop" id="2" isBoss="False" hp="0" speciesId="0" />
-		<Monster name="Minister of Finance" id="3" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="ギルド商店" id="2" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="財務担当官" id="3" isBoss="False" hp="0" speciesId="0" />
 		<Monster name="ペガサス管理人" id="4" isBoss="False" hp="0" speciesId="0" />
 		<Monster name="ホムンクルス研究所" id="5" isBoss="False" hp="0" speciesId="0" />
 		<Monster name="狩り場移動魔法石" id="6" isBoss="False" hp="0" speciesId="0" />
@@ -6585,173 +6586,173 @@
 		<Monster name="Kaia" id="311" isBoss="False" hp="10000" speciesId="0" />
 		<Monster name="Mr. Wiggles" id="312" isBoss="False" hp="10000" speciesId="0" />
 		<Monster name="ダンジョンイベント商人" id="629" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="カナ・エリーン" id="1001" isBoss="False" hp="945" speciesId="0" />
-		<Monster name="ギルバート・グレイス" id="1002" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="高潔な岩・ハルラン" id="1003" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="深い海・リウム" id="1004" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="荒い木・ハーガント" id="1005" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="青き峡谷・ローガン" id="1006" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="温かい川・ナエル" id="1007" isBoss="False" hp="945" speciesId="0" />
-		<Monster name="ベロニクス" id="1008" isBoss="False" hp="945" speciesId="0" />
-		<Monster name="南門警備兵" id="1009" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="バラカ民" id="1010" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="天元の石板" id="1011" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="秘密書庫の本棚" id="1014" isBoss="False" hp="945" speciesId="0" />
-		<Monster name="ブラガ" id="1015" isBoss="False" hp="945" speciesId="0" />
-		<Monster name="思慮の唄・オメロス" id="1016" isBoss="False" hp="945" speciesId="0" />
-		<Monster name="堅硬な柱・ガルム" id="1018" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="仕える岩・アルフィ" id="1019" isBoss="False" hp="945" speciesId="0" />
+		<Monster name="カナ・エリーン" id="630" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="ギルバート・グレイス" id="1001" isBoss="False" hp="945" speciesId="0" />
+		<Monster name="高潔な岩・ハルラン" id="1002" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="深い海・リウム" id="1003" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="荒い木・ハーガント" id="1004" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="青き峡谷・ローガン" id="1005" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="温かい川・ナエル" id="1006" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="ベロニクス" id="1007" isBoss="False" hp="945" speciesId="0" />
+		<Monster name="南門警備兵" id="1008" isBoss="False" hp="945" speciesId="0" />
+		<Monster name="バラカ民" id="1009" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="天元の石板" id="1010" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="秘密書庫の本棚" id="1011" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="ブラガ" id="1014" isBoss="False" hp="945" speciesId="0" />
+		<Monster name="思慮の唄・オメロス" id="1015" isBoss="False" hp="945" speciesId="0" />
+		<Monster name="堅硬な柱・ガルム" id="1016" isBoss="False" hp="945" speciesId="0" />
+		<Monster name="仕える岩・アルフィ" id="1018" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="高潔な岩・ハルラン" id="1019" isBoss="False" hp="945" speciesId="0" />
 		<Monster name="高潔な岩・ハルラン" id="1020" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="高潔な岩・ハルラン" id="1021" isBoss="False" hp="945" speciesId="0" />
-		<Monster name="ギルバート・グレイス" id="1022" isBoss="False" hp="100" speciesId="0" />
-		<Monster name="ロードス" id="1023" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="ポアロン" id="1024" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="ギルバート・グレイス" id="1021" isBoss="False" hp="945" speciesId="0" />
+		<Monster name="ロードス" id="1022" isBoss="False" hp="100" speciesId="0" />
+		<Monster name="ポアロン" id="1023" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="高潔な岩・ハルラン" id="1024" isBoss="False" hp="10000" speciesId="0" />
 		<Monster name="高潔な岩・ハルラン" id="1025" isBoss="False" hp="10000" speciesId="0" />
 		<Monster name="高潔な岩・ハルラン" id="1026" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="高潔な岩・ハルラン" id="1031" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="ミルエン・ホワイトリバー" id="1049" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="メッセージボード" id="1050" isBoss="False" hp="945" speciesId="0" />
-		<Monster name="ギルバート・グレイス" id="1051" isBoss="False" hp="945" speciesId="0" />
-		<Monster name="ベロニクス" id="1100" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="オリンの意志" id="1102" isBoss="False" hp="100" speciesId="0" />
-		<Monster name="ロードス" id="1103" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="ポアロン" id="1104" isBoss="False" hp="91545" speciesId="0" />
+		<Monster name="ミルエン・ホワイトリバー" id="1031" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="メッセージボード" id="1049" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="ギルバート・グレイス" id="1050" isBoss="False" hp="945" speciesId="0" />
+		<Monster name="ベロニクス" id="1051" isBoss="False" hp="945" speciesId="0" />
+		<Monster name="オリンの意志" id="1100" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="ロードス" id="1102" isBoss="False" hp="100" speciesId="0" />
+		<Monster name="ポアロン" id="1103" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="シオズ・エリーン" id="1104" isBoss="False" hp="91545" speciesId="0" />
 		<Monster name="Jubestine" id="1117" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="シオズ・エリーン" id="1149" isBoss="False" hp="0" speciesId="0" />
-		<Monster name="ベイガス・ラハナ" id="1150" isBoss="False" hp="945" speciesId="0" />
-		<Monster name="放漫の針・クローク" id="1151" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="ミルエン・ホワイトリバー" id="1271" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="ベイガス・ラハナ" id="1149" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="放漫の針・クローク" id="1150" isBoss="False" hp="945" speciesId="0" />
+		<Monster name="ミルエン・ホワイトリバー" id="1151" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="ジョンド" id="1271" isBoss="False" hp="10000" speciesId="0" />
 		<Monster name="ジョンド" id="1272" isBoss="False" hp="10000" speciesId="0" />
 		<Monster name="ジョンド" id="1273" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="ジョンド" id="1276" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="納品担当ゴブリン" id="1277" isBoss="False" hp="91545" speciesId="0" />
-		<Monster name="納品馬車" id="1278" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="バレク" id="1957" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="Caramel" id="1958" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="マレン" id="1960" isBoss="False" hp="0" speciesId="0" />
-		<Monster name="ダレン" id="1961" isBoss="False" hp="0" speciesId="0" />
-		<Monster name="アレン" id="1963" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="ミル・エリーン" id="2001" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="深い川・ムラム" id="2002" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="赤き星・オマル" id="2003" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="仕える手・マンド" id="2004" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="黒い砂・ガロム" id="2005" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="金色砂ゴラン" id="2006" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="大木・ミルクン" id="2007" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="静寂の丘・メディ" id="2008" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="若草水晶・ヤルカス" id="2009" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="光の滝・アルリ" id="2010" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="白い波・ムラマン" id="2011" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="霧の岩・イルン" id="2012" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="熟考の根・ガロス" id="2013" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="義理の光・ジェレン" id="2014" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="青き揺籃・タマン" id="2015" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="深い根・カダン" id="2016" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="星の意志・アルキ" id="2017" isBoss="False" hp="807599" speciesId="0" />
-		<Monster name="中央警備兵" id="2018" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="知恵の岩・イキン" id="2019" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="黄金の苔・グリマン" id="2020" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="巻雲風・マグニ" id="2021" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="光る瀬・ナルディン" id="2022" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="鋼鉄の岩・ヒュノン" id="2023" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="炎の風・ガリン" id="2024" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="鋼鉄の風・ムント" id="2026" isBoss="False" hp="945" speciesId="0" />
+		<Monster name="納品担当ゴブリン" id="1276" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="納品馬車" id="1277" isBoss="False" hp="91545" speciesId="0" />
+		<Monster name="バレク" id="1278" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Caramel" id="1957" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="マレン" id="1959" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="ダレン" id="1960" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="アレン" id="1961" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="ミル・エリーン" id="1963" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="深い川・ムラム" id="2001" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="赤き星・オマル" id="2002" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="仕える手・マンド" id="2003" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="黒い砂・ガロム" id="2004" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="金色砂ゴラン" id="2005" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="大木・ミルクン" id="2006" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="静寂の丘・メディ" id="2007" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="若草水晶・ヤルカス" id="2008" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="光の滝・アルリ" id="2009" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="白い波・ムラマン" id="2010" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="霧の岩・イルン" id="2011" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="熟考の根・ガロス" id="2012" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="義理の光・ジェレン" id="2013" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="青き揺籃・タマン" id="2014" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="深い根・カダン" id="2015" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="星の意志・アルキ" id="2016" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="中央警備兵" id="2017" isBoss="False" hp="807599" speciesId="0" />
+		<Monster name="知恵の岩・イキン" id="2018" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="黄金の苔・グリマン" id="2019" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="巻雲風・マグニ" id="2020" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="光る瀬・ナルディン" id="2021" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="鋼鉄の岩・ヒュノン" id="2022" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="炎の風・ガリン" id="2023" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="鋼鉄の風・ムント" id="2024" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="民" id="2026" isBoss="False" hp="945" speciesId="0" />
 		<Monster name="民" id="2027" isBoss="False" hp="945" speciesId="0" />
 		<Monster name="民" id="2028" isBoss="False" hp="945" speciesId="0" />
 		<Monster name="民" id="2029" isBoss="False" hp="945" speciesId="0" />
 		<Monster name="民" id="2030" isBoss="False" hp="945" speciesId="0" />
 		<Monster name="民" id="2031" isBoss="False" hp="945" speciesId="0" />
-		<Monster name="民" id="2032" isBoss="False" hp="366797" speciesId="0" />
-		<Monster name="南門警備兵" id="2033" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="赤い夜・ウルン" id="2034" isBoss="False" hp="945" speciesId="0" />
+		<Monster name="南門警備兵" id="2032" isBoss="False" hp="366797" speciesId="0" />
+		<Monster name="赤い夜・ウルン" id="2033" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="民" id="2034" isBoss="False" hp="945" speciesId="0" />
 		<Monster name="民" id="2035" isBoss="False" hp="945" speciesId="0" />
 		<Monster name="民" id="2036" isBoss="False" hp="945" speciesId="0" />
-		<Monster name="民" id="2037" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="賢者の本" id="2037" isBoss="False" hp="10000" speciesId="0" />
 		<Monster name="賢者の本" id="2038" isBoss="False" hp="10000" speciesId="0" />
 		<Monster name="賢者の本" id="2039" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="賢者の本" id="2040" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="イルカシティーポータル" id="2044" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="秀麗な葉・バナム" id="2045" isBoss="False" hp="0" speciesId="0" />
-		<Monster name="赤い稲妻・ヌーク" id="2046" isBoss="False" hp="0" speciesId="0" />
-		<Monster name="青い稲妻・イイェブ" id="2047" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="エムス・モーガー" id="2048" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="訓練の間守衛" id="2049" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="団結の間守衛" id="2050" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="狩り場移動魔法石" id="2051" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="連盟集会所 移動ポータル" id="2052" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="イルカシティーポータル" id="2053" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="白い月・ラミム" id="2055" isBoss="False" hp="945" speciesId="0" />
-		<Monster name="堅硬な柱・ガルム" id="2056" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="ラルフ" id="2057" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="セリオネ・ディン" id="2058" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="シオンヌ" id="2059" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="カルタン" id="2060" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="ジェレミー・ウェイング" id="2061" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="リリン・エリーン" id="2062" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="銀の羽・ムトム" id="2063" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="ブト" id="2064" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="ルゥン" id="2065" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="ポポ" id="2066" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="銀色の砂・シランド" id="2069" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="白色の砂・テサン" id="2070" isBoss="False" hp="945" speciesId="0" />
-		<Monster name="民" id="2072" isBoss="False" hp="0" speciesId="0" />
-		<Monster name="赤き絶壁ヒューズ" id="2073" isBoss="False" hp="0" speciesId="0" />
-		<Monster name="エルリオン・クベル" id="2074" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="黒き絶壁ウッズ" id="2075" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="闇の商人グマルン" id="2076" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="イルカシティーポータル" id="2040" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="秀麗な葉・バナム" id="2044" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="赤い稲妻・ヌーク" id="2045" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="青い稲妻・イイェブ" id="2046" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="エムス・モーガー" id="2047" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="訓練の間守衛" id="2048" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="団結の間守衛" id="2049" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="狩り場移動魔法石" id="2050" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="連盟集会所 移動ポータル" id="2051" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="イルカシティーポータル" id="2052" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="白い月・ラミム" id="2053" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="堅硬な柱・ガルム" id="2055" isBoss="False" hp="945" speciesId="0" />
+		<Monster name="ラルフ" id="2056" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="セリオネ・ディン" id="2057" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="シオンヌ" id="2058" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="カルタン" id="2059" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="ジェレミー・ウェイング" id="2060" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="リリン・エリーン" id="2061" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="銀の羽・ムトム" id="2062" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="ブト" id="2063" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="ルゥン" id="2064" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="ポポ" id="2065" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="銀色の砂・シランド" id="2066" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="白色の砂・テサン" id="2069" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="民" id="2070" isBoss="False" hp="945" speciesId="0" />
+		<Monster name="赤き絶壁ヒューズ" id="2072" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="エルリオン・クベル" id="2073" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="黒き絶壁ウッズ" id="2074" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="闇の商人グマルン" id="2075" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="オリンの結界守護兵" id="2102" isBoss="False" hp="807599" speciesId="0" />
 		<Monster name="オリンの結界守護兵" id="2103" isBoss="False" hp="807599" speciesId="0" />
-		<Monster name="オリンの結界守護兵" id="2104" isBoss="False" hp="366797" speciesId="0" />
-		<Monster name="ジュード" id="2105" isBoss="False" hp="366797" speciesId="0" />
-		<Monster name="アクト" id="2106" isBoss="False" hp="945" speciesId="0" />
-		<Monster name="ブラガ" id="2107" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="白い砂・リオム" id="2108" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="赤い砂・ベンベ" id="2109" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="赤き揺籃・モべ" id="2110" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="金の揺籃・カレ" id="2111" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="ジュード" id="2104" isBoss="False" hp="366797" speciesId="0" />
+		<Monster name="アクト" id="2105" isBoss="False" hp="366797" speciesId="0" />
+		<Monster name="ブラガ" id="2106" isBoss="False" hp="945" speciesId="0" />
+		<Monster name="白い砂・リオム" id="2107" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="赤い砂・ベンベ" id="2108" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="赤き揺籃・モべ" id="2109" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="金の揺籃・カレ" id="2110" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="狩り場移動魔法石" id="2111" isBoss="False" hp="10000" speciesId="0" />
 		<Monster name="狩り場移動魔法石" id="2112" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="狩り場移動魔法石" id="2113" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="賢者の本" id="2114" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="グレアム・ヘインツ" id="2200" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="賢者の本" id="2113" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="グレアム・ヘインツ" id="2114" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="ホコリの積もった本" id="2200" isBoss="False" hp="10000" speciesId="0" />
 		<Monster name="ホコリの積もった本" id="2201" isBoss="False" hp="10000" speciesId="0" />
 		<Monster name="ホコリの積もった本" id="2202" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="ホコリの積もった本" id="2203" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="天元の石板" id="2204" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="天元の石板" id="2203" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="仕える岩・アルフィ" id="2204" isBoss="False" hp="10000" speciesId="0" />
 		<Monster name="仕える岩・アルフィ" id="2205" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="仕える岩・アルフィ" id="2206" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="天元の石板" id="2207" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="古びた本" id="3000" isBoss="False" hp="322569" speciesId="0" />
-		<Monster name="知識の聖堂守護精霊" id="4001" isBoss="False" hp="13038" speciesId="0" />
-		<Monster name="ヴァルキオン連合軍兵士" id="4002" isBoss="False" hp="13038" speciesId="0" />
+		<Monster name="天元の石板" id="2206" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="古びた本" id="2207" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="知識の聖堂守護精霊" id="3000" isBoss="False" hp="322569" speciesId="0" />
+		<Monster name="ヴァルキオン連合軍兵士" id="4001" isBoss="False" hp="13038" speciesId="0" />
+		<Monster name="デオリック・ヴィルパー" id="4002" isBoss="False" hp="13038" speciesId="0" />
 		<Monster name="デオリック・ヴィルパー" id="4003" isBoss="False" hp="13038" speciesId="0" />
-		<Monster name="デオリック・ヴィルパー" id="4004" isBoss="False" hp="27338" speciesId="0" />
-		<Monster name="ミュエル・ラフェレイト" id="4005" isBoss="False" hp="13038" speciesId="0" />
-		<Monster name="デオリック・ヴィルパー" id="4011" isBoss="False" hp="322569" speciesId="0" />
-		<Monster name="ゴブリンポーター" id="4012" isBoss="False" hp="322569" speciesId="0" />
-		<Monster name="ゴブリン盗賊" id="4023" isBoss="False" hp="17366" speciesId="0" />
-		<Monster name="補給馬車" id="4108" isBoss="False" hp="366797" speciesId="0" />
-		<Monster name="ロードス" id="4998" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="Jingles" id="4999" isBoss="False" hp="945" speciesId="0" />
+		<Monster name="ミュエル・ラフェレイト" id="4004" isBoss="False" hp="27338" speciesId="0" />
+		<Monster name="デオリック・ヴィルパー" id="4005" isBoss="False" hp="13038" speciesId="0" />
+		<Monster name="ゴブリンポーター" id="4011" isBoss="False" hp="322569" speciesId="0" />
+		<Monster name="ゴブリン盗賊" id="4012" isBoss="False" hp="322569" speciesId="0" />
+		<Monster name="補給馬車" id="4023" isBoss="False" hp="17366" speciesId="0" />
+		<Monster name="ロードス" id="4108" isBoss="False" hp="366797" speciesId="0" />
+		<Monster name="Jingles" id="4998" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="堅硬な柱・バロン" id="4999" isBoss="False" hp="945" speciesId="0" />
 		<Monster name="堅硬な柱・バロン" id="5000" isBoss="False" hp="945" speciesId="0" />
-		<Monster name="堅硬な柱・バロン" id="5001" isBoss="False" hp="0" speciesId="0" />
-		<Monster name="ガイド01" id="5005" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="ガイド01" id="5001" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="ツヨ・クナレ" id="5005" isBoss="False" hp="10000" speciesId="0" />
 		<Monster name="フカ戦闘兵" id="6003" isBoss="True" hp="8000000" speciesId="0" />
 		<Monster name="フカ哨戒兵" id="6004" isBoss="True" hp="8000000" speciesId="0" />
-		<Monster name="ツヨ・クナレ" id="7000" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="ホイルン" id="7001" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="ガデロン" id="7002" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="アンク" id="7003" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="高い風・カディン" id="7004" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="純粋な火花・ムラカン" id="7005" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="5周年感謝イベントお助け人" id="7006" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="暗い雲・ヴィーラック" id="7007" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="暗い空・フィラク" id="8000" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="ちび魔女エルロニア" id="9000" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="次元の魔法石" id="9805" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="グリアス" id="9996" isBoss="False" hp="100" speciesId="0" />
-		<Monster name="攻撃木人" id="9997" isBoss="False" hp="100" speciesId="0" />
+		<Monster name="ホイルン" id="7000" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="ガデロン" id="7001" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="アンク" id="7002" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="高い風・カディン" id="7003" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="純粋な火花・ムラカン" id="7004" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="5周年感謝イベントお助け人" id="7005" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="暗い雲・ヴィーラック" id="7006" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="暗い空・フィラク" id="7007" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="ちび魔女エルロニア" id="8000" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="次元の魔法石" id="9000" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="グリアス" id="9805" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="攻撃木人" id="9996" isBoss="False" hp="100" speciesId="0" />
+		<Monster name="かかし" id="9997" isBoss="False" hp="100" speciesId="0" />
 		<Monster name="かかし" id="9998" isBoss="False" hp="100" speciesId="0" />
-		<Monster name="かかし" id="9999" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="タクルム・ドンカン" id="10130" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="タクルム・ドンカン" id="9999" isBoss="False" hp="10000" speciesId="0" />
 		<Monster name="鉱物収集家ミネルン" id="20000" isBoss="False" hp="10000" speciesId="0" />
 		<Monster name="結晶取集商人" id="20050" isBoss="False" hp="10000" speciesId="0" />
 		<Monster name="ベリル" id="20090" isBoss="False" hp="10000" speciesId="0" />
@@ -6788,11 +6789,12 @@
 		<Monster name="もみじ収集人" id="240026" isBoss="False" hp="10000" speciesId="0" />
 		<Monster name="シルバーロング" id="240027" isBoss="False" hp="10000" speciesId="0" />
 		<Monster name="ゴールドロング" id="240028" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="雪合戦戦利品商人" id="250000" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="カシュバル交換員" id="260000" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="ドド" id="261000" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="巨人の森交換員" id="40009600" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="パスハ" id="40009601" isBoss="False" hp="23608" speciesId="0" />
+		<Monster name="雪合戦戦利品商人" id="240030" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="カシュバル交換員" id="250000" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="ドド" id="260000" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="巨人の森交換員" id="270000" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="パスハ" id="40009600" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="隠された卵" id="40009601" isBoss="False" hp="23608" speciesId="0" />
 		<Monster name="隠された卵" id="40009617" isBoss="False" hp="23608" speciesId="0" />
 	</Zone>
 	<Zone id="191" name="帝国領地" >
@@ -10948,35 +10950,113 @@
 		<Monster name="カプリコーン" id="88602" isBoss="True" hp="88800000000" speciesId="10" />
 		<Monster name="強力な幻影の魔石" id="99991" isBoss="False" hp="37000000" speciesId="0" />
 		<Monster name="不完全な幻影の魔石" id="99999" isBoss="False" hp="3700" speciesId="0" />
-		<Monster name="ザ・クラウン" id="434001" isBoss="False" hp="0" speciesId="0" />
 		<Monster name="ザ・クラウン" id="885004" isBoss="False" hp="0" speciesId="0" />
 		<Monster name="ザ・クラウン" id="885005" isBoss="False" hp="0" speciesId="0" />
-		<Monster name="クーマス" id="885006" isBoss="False" hp="6220000000" speciesId="0" />
-		<Monster name="クーマス" id="885051" isBoss="False" hp="74000000" speciesId="0" />
-		<Monster name="堅硬のバジリスク" id="885052" isBoss="False" hp="74000000" speciesId="0" />
-		<Monster name="歪曲のバジリスク" id="885053" isBoss="False" hp="74000000" speciesId="0" />
-		<Monster name="無敵のブラッディゴーレム" id="885054" isBoss="False" hp="74000000" speciesId="0" />
-		<Monster name="急造のバトルゴーレム" id="885055" isBoss="False" hp="74000000" speciesId="0" />
-		<Monster name="未完のバトルゴーレム" id="885056" isBoss="False" hp="74000000" speciesId="0" />
-		<Monster name="アガンティシャーマン" id="885057" isBoss="False" hp="74000000" speciesId="0" />
-		<Monster name="アガンティシャーマン" id="885058" isBoss="False" hp="74000000" speciesId="0" />
-		<Monster name="アガンティシャーマン" id="885161" isBoss="False" hp="13300000000" speciesId="2" />
-		<Monster name="疫病の牙" id="885164" isBoss="False" hp="13300000000" speciesId="2" />
-		<Monster name="疫病の牙" id="885165" isBoss="False" hp="13300000000" speciesId="2" />
-		<Monster name="祝福の魔石" id="885166" isBoss="False" hp="13300000000" speciesId="2" />
-		<Monster name="祝福の魔石" id="885167" isBoss="False" hp="13300000000" speciesId="2" />
-		<Monster name="祝福の魔石" id="886011" isBoss="False" hp="74000000" speciesId="0" />
-		<Monster name="祝福の魔石" id="886022" isBoss="False" hp="0" speciesId="0" />
-		<Monster name="四階の宝箱" id="8851611" isBoss="False" hp="74000000" speciesId="0" />
-		<Monster name="九階の宝箱" id="8851612" isBoss="False" hp="74000000" speciesId="0" />
-		<Monster name="十四階の宝箱" id="8851711" isBoss="False" hp="74000000" speciesId="0" />
-		<Monster name="二十二階の宝箱" id="8851712" isBoss="False" hp="74000000" speciesId="0" />
-		<Monster name="堅硬のカラシュアルメロ" id="8851811" isBoss="False" hp="74000000" speciesId="0" />
-		<Monster name="無敵のカラシュアルメロ" id="8851812" isBoss="False" hp="74000000" speciesId="0" />
-		<Monster name="歪曲のカラシュアルメロ" id="8851911" isBoss="False" hp="0" speciesId="0" />
-		<Monster name="カラシュアルメロ" id="8851912" isBoss="False" hp="0" speciesId="0" />
-		<Monster name="カラシュアルメロ" id="8852012" isBoss="False" hp="74000000" speciesId="0" />
-		<Monster name="森の女王" id="8852112" isBoss="False" hp="74000000" speciesId="0" />
+		<Monster name="ザ・クラウン" id="885006" isBoss="False" hp="6220000000" speciesId="0" />
+		<Monster name="クーマス" id="885015" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="クーマス" id="885016" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="堅硬のバジリスク" id="885021" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="歪曲のバジリスク" id="885024" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="無敵のブラッディゴーレム" id="885032" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="急造のバトルゴーレム" id="885037" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="未完のバトルゴーレム" id="885038" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="アガンティシャーマン" id="885041" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="アガンティシャーマン" id="885042" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="アガンティシャーマン" id="885043" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="疫病の牙" id="885044" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="疫病の牙" id="885045" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="祝福の魔石" id="885051" isBoss="False" hp="74000000" speciesId="0" />
+		<Monster name="祝福の魔石" id="885052" isBoss="False" hp="74000000" speciesId="0" />
+		<Monster name="祝福の魔石" id="885053" isBoss="False" hp="74000000" speciesId="0" />
+		<Monster name="祝福の魔石" id="885054" isBoss="False" hp="74000000" speciesId="0" />
+		<Monster name="四階の宝箱" id="885055" isBoss="False" hp="74000000" speciesId="0" />
+		<Monster name="九階の宝箱" id="885056" isBoss="False" hp="74000000" speciesId="0" />
+		<Monster name="十四階の宝箱" id="885057" isBoss="False" hp="74000000" speciesId="0" />
+		<Monster name="二十二階の宝箱" id="885058" isBoss="False" hp="74000000" speciesId="0" />
+		<Monster name="堅硬のカラシュアルメロ" id="885061" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="無敵のカラシュアルメロ" id="885062" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="歪曲のカラシュアルメロ" id="885064" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="カラシュアルメロ" id="885065" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="カラシュアルメロ" id="885066" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="森の女王" id="885067" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="惨忍な拷問官" id="885068" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="堅硬のカラシュグルドラ" id="885071" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="無敵のカラシュグルドラ" id="885072" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="歪曲のカラシュグルドラ" id="885074" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="カラシュグルドラ" id="885075" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="カラシュグルドラ" id="885076" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="カルラン重鎧兵" id="885077" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="アルゴンシャマルラン僧兵" id="885078" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="堅硬のキリアン" id="885081" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="無敵のキリアン" id="885082" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="歪曲のキリアン" id="885084" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="キリアン" id="885085" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="キリアン" id="885086" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="剣闘士" id="885087" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="狂戦士" id="885088" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="パルノン" id="885089" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="死の搾取者" id="885090" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="死の覚醒者" id="885091" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="死の冒涜者" id="885092" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="死の引導者" id="885093" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="トゥルサの玩具" id="885095" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="壺" id="885101" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="壺" id="885102" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="壺" id="885103" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="壺" id="885104" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="サイク・トゥルカン" id="885111" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="ロド・ナクトゥム" id="885112" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="ナカラ・ヘルグント" id="885113" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="毒されたユニコーン" id="885114" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="洗脳されたフカ隊長" id="885115" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="デヴァ族邪教徒偵察兵" id="885116" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="ニンピ妖精戦士" id="885117" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="獰猛なマリゴス" id="885118" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="ゴリラ" id="885119" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="ラマヤン・ビビッシュ" id="885121" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="アルゴンの壁" id="885122" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="猛毒の寄生野獣" id="885131" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="奇妙な幻影の魔石" id="885132" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="闇の略奪者" id="885133" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="血毒の寄生野獣" id="885134" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="グラ大食家" id="885135" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="ザ・クラウン" id="885152" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="ザ・クラウンの分身" id="885154" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="ザ・クラウンの分身" id="885155" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="ザ・クラウンの分身" id="885156" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="ザ・クラウンの分身" id="885157" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="幻影の大砲" id="885158" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="挙動不審な監視者" id="885161" isBoss="False" hp="13300000000" speciesId="2" />
+		<Monster name="挙動不審な監視者" id="885164" isBoss="False" hp="13300000000" speciesId="2" />
+		<Monster name="挙動不審な監視者" id="885165" isBoss="False" hp="13300000000" speciesId="2" />
+		<Monster name="中央監視者" id="885166" isBoss="False" hp="13300000000" speciesId="2" />
+		<Monster name="アルゴン司祭" id="885167" isBoss="False" hp="13300000000" speciesId="2" />
+		<Monster name="シャンドラ・マナイア" id="885200" isBoss="True" hp="93200000000" speciesId="2" />
+		<Monster name="二十階の宝箱" id="886011" isBoss="False" hp="74000000" speciesId="0" />
+		<Monster name="二十一階の宝箱" id="886022" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="ザ・クラウン" id="886033" isBoss="False" hp="62200000000" speciesId="0" />
+		<Monster name="幽霊" id="8850511" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="巨大な幽霊" id="8850512" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="悪霊" id="8850513" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="巨大な悪霊" id="8850514" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="恐怖の射手" id="8850611" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="恐怖の魔術師" id="8850612" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="強風の狂戦士" id="8850613" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="黒衣の騎士" id="8850614" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="黒衣の司祭" id="8850615" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="黒衣の剣闘士" id="8850616" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="モンスター召喚装置" id="8851111" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="歪曲の悪霊" id="8851112" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="十六階の宝箱" id="8851611" isBoss="False" hp="74000000" speciesId="0" />
+		<Monster name="十七階の魔法石" id="8851612" isBoss="False" hp="74000000" speciesId="0" />
+		<Monster name="十七階の宝箱" id="8851711" isBoss="False" hp="74000000" speciesId="0" />
+		<Monster name="十八階の魔法石" id="8851712" isBoss="False" hp="74000000" speciesId="0" />
+		<Monster name="十八階の宝箱" id="8851811" isBoss="False" hp="74000000" speciesId="0" />
+		<Monster name="十九階の魔法石" id="8851812" isBoss="False" hp="74000000" speciesId="0" />
+		<Monster name="十九階の宝箱" id="8851911" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="二十二階の魔法石" id="8851912" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="二十階の魔法石" id="8852012" isBoss="False" hp="74000000" speciesId="0" />
+		<Monster name="二十一階の魔法石" id="8852112" isBoss="False" hp="74000000" speciesId="0" />
 	</Zone>
 	<Zone id="436" name="カラスチャ召喚地（特殊空間）" >
 		<Monster name="ロック狂信徒" id="1001" isBoss="False" hp="1160" speciesId="0" />
@@ -13376,19 +13456,27 @@
 	</Zone>
 	<Zone id="628" name="ヴェリカ直轄領" >
 		<Monster name="マグナート" id="1000" isBoss="True" hp="72000000000" speciesId="0" />
-		<Monster name="フェンリル" id="1100" isBoss="False" hp="615" speciesId="0" />
-		<Monster name="ケルキン" id="1101" isBoss="False" hp="615" speciesId="0" />
-		<Monster name="ケルキン" id="1102" isBoss="False" hp="615" speciesId="0" />
-		<Monster name="ケルキン" id="1201" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="ローラ・エリーン" id="1202" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="リアン・クベル" id="1203" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="アイエル" id="1204" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="ローラ・エリーン" id="1205" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="エドウィン" id="1206" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="エドウィン" id="3000" isBoss="True" hp="4680000000" speciesId="0" />
-		<Monster name="エドウィン" id="3001" isBoss="True" hp="4680000000" speciesId="0" />
-		<Monster name="警備兵" id="5400" isBoss="False" hp="73015" speciesId="0" />
-		<Monster name="警備兵" id="5401" isBoss="False" hp="73015" speciesId="0" />
+		<Monster name="フェンリル" id="1001" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="ケルキン" id="1003" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="ケルキン" id="1004" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="ケルキン" id="1005" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="ローラ・エリーン" id="1006" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="リアン・クベル" id="1008" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="アイエル" id="1009" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="ローラ・エリーン" id="1010" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="エドウィン" id="1100" isBoss="False" hp="615" speciesId="0" />
+		<Monster name="エドウィン" id="1101" isBoss="False" hp="615" speciesId="0" />
+		<Monster name="エドウィン" id="1102" isBoss="False" hp="615" speciesId="0" />
+		<Monster name="警備兵" id="1201" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="警備兵" id="1202" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="警備兵" id="1203" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="警備兵" id="1204" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="リダ・エリーン" id="1205" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="ギスラン・リオナス" id="1206" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="エスト" id="3000" isBoss="True" hp="4680000000" speciesId="0" />
+		<Monster name="オスト" id="3001" isBoss="True" hp="4680000000" speciesId="0" />
+		<Monster name="灼熱の憤怒 自律小型機" id="5400" isBoss="False" hp="73015" speciesId="0" />
+		<Monster name="冷酷な憎悪 自律小型機" id="5401" isBoss="False" hp="73015" speciesId="0" />
 	</Zone>
 	<Zone id="630" name="ヴィアアウレウム領" >
 		<Monster name="水のプレデター" id="2100" isBoss="False" hp="0" speciesId="0" />
@@ -14119,6 +14207,7 @@
 		<Monster name="時空バシリスク" id="509" isBoss="False" hp="2720000000" speciesId="0" />
 		<Monster name="時空バシリスク" id="510" isBoss="False" hp="2720000000" speciesId="0" />
 		<Monster name="時空の飛竜" id="901" isBoss="False" hp="643603" speciesId="0" />
+		<Monster name="時空の飛竜" id="902" isBoss="False" hp="643603" speciesId="0" />
 		<Monster name="全ての球体を破壊せよ" id="911" isBoss="False" hp="0" speciesId="0" />
 		<Monster name="ヘメラを討伐せよ" id="912" isBoss="False" hp="0" speciesId="0" />
 		<Monster name="時空の飛竜を通じて移動せよ" id="913" isBoss="False" hp="0" speciesId="0" />
@@ -17146,7 +17235,7 @@
 		<Monster name="Vindictive Orcan Mauler" id="4010" isBoss="False" hp="167113" speciesId="0" />
 		<Monster name="Vindictive Dwarf Orcan" id="4011" isBoss="False" hp="40492" speciesId="0" />
 		<Monster name="Bloodlust Gutrend Seer" id="6000" isBoss="False" hp="167113" speciesId="0" />
-		<Monster name="海岸カメ" id="6001" isBoss="False" hp="65000000" speciesId="0" />
+		<Monster name="海岸カメ" id="6001" isBoss="False" hp="138000000" speciesId="0" />
 		<Monster name="放浪するクチャート予言者" id="6011" isBoss="False" hp="167113" speciesId="0" />
 		<Monster name="堕落したオーカン海賊" id="6021" isBoss="False" hp="250000000" speciesId="0" />
 		<Monster name="Zolyn" id="6022" isBoss="False" hp="250000000" speciesId="0" />
@@ -19242,7 +19331,6 @@
 		<Monster name="ランダンの日記 14" id="6005" isBoss="False" hp="10000" speciesId="0" />
 		<Monster name="ランダンの日記 239" id="6006" isBoss="False" hp="10000" speciesId="0" />
 		<Monster name="移動ポータル" id="6007" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="Rampaging RK-9" id="7000" isBoss="True" hp="180000000000" speciesId="49" />
 	</Zone>
 	<Zone id="3035" name="ヴェリカ直轄領" >
 		<Monster name="ヴェリックの意志" id="1001" isBoss="False" hp="10000" speciesId="0" />
@@ -19251,6 +19339,7 @@
 		<Monster name="クーマスの幻影" id="1005" isBoss="False" hp="0" speciesId="0" />
 		<Monster name="アルガフの幻影" id="1006" isBoss="False" hp="27448770" speciesId="0" />
 		<Monster name="アルガフの幻影" id="1007" isBoss="False" hp="27448770" speciesId="0" />
+		<Monster name="Burst RK-9" id="7000" isBoss="False" hp="0" speciesId="0" />
 	</Zone>
 	<Zone id="3036" name="暴風のエルカラス号 (ハード)" >
 		<Monster name="【ボス】次元の魔法石を通じて烈風のエルカラス号に移動後、暴走したダルカンを討伐せよ" id="914" isBoss="False" hp="0" speciesId="0" />
@@ -19425,62 +19514,190 @@
 		<Monster name="次元の魔法石" id="1502" isBoss="False" hp="10000" speciesId="0" />
 		<Monster name="捨てられた本" id="6000" isBoss="False" hp="10000" speciesId="0" />
 	</Zone>
+	<Zone id="3104" name="ルクミアの幻夢" >
+		<Monster name="ルクミアを討伐せよ" id="100" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="ルクミア" id="1000" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="次元の魔法石" id="1503" isBoss="False" hp="0" speciesId="0" />
+	</Zone>
+	<Zone id="3105" name="unknown" >
+		<Monster name="ロガッシュを討伐せよ" id="100" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="ロガッシュ" id="1000" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="次元の魔法石" id="1501" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="次元の魔法石" id="1502" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="ドローン" id="2000" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="ハスミナ" id="50000" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="ハスミナ" id="50001" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="ホアール・トゥルカン" id="50100" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="ホアール・トゥルカン" id="50101" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="次元の魔法石" id="50200" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="次元の魔法石" id="50201" isBoss="False" hp="0" speciesId="0" />
+	</Zone>
+	<Zone id="3106" name="unknown" >
+		<Monster name="狂帝ガルダン" id="1000" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="狂帝ガルダン" id="1001" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="ベラ・ホワイトリバー" id="9000" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="次元の魔法石" id="9010" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="次元の魔法石" id="9011" isBoss="False" hp="0" speciesId="0" />
+	</Zone>
+	<Zone id="3107" name="unknown" >
+		<Monster name="悲劇のバーンスタイン" id="1000" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="悪霊実験体" id="1020" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="次元の魔法石" id="8001" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="次元の魔法石" id="8002" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="ハスミナ" id="30000" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="ハスミナ" id="30001" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="ホアール・トゥルカン" id="30010" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="ホアール・トゥルカン" id="30011" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="デュリオン" id="30050" isBoss="False" hp="0" speciesId="0" />
+	</Zone>
+	<Zone id="3108" name="unknown" >
+		<Monster name="ケルコフ" id="1000" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="次元の魔法石" id="1404" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="次元の魔法石" id="1501" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="次元の魔法石" id="1502" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="次元の魔法石" id="1503" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="次元の魔法石" id="1504" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="カリオス" id="2000" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="アンタレス" id="3000" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="名もなき亡霊" id="3110" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="ビッキー" id="4001" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="ビッキー" id="4002" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="ビッキー" id="4003" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="ビッキー" id="4004" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="ビッキー" id="4005" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="ビッキー" id="4006" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="ビッキー" id="4007" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="破れた記憶の欠片" id="5004" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="汚れた記憶の欠片" id="5005" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="古い記憶の欠片" id="5006" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="アンタレスの深淵入口" id="9920" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="虚ろなケルコフを討伐してください。" id="92001" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="虚ろなカリオスを討伐してください。" id="92002" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="虚ろなアンタレスを討伐してください。" id="92003" isBoss="False" hp="0" speciesId="0" />
+	</Zone>
+	<Zone id="3109" name="unknown" >
+		<Monster name="守衛長ケトロを討伐せよ" id="100" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="創造の実験室を通過せよ" id="200" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="破滅のヘレンを討伐せよ" id="300" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="守衛長ケトロ" id="1000" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="ちびケトロ" id="1100" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="次元の魔法石" id="1501" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="次元の魔法石" id="1502" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="次元の魔法石" id="1503" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="破滅のヘレン" id="2000" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="ほら穴" id="5001" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="ほら穴" id="5002" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="ほら穴" id="5005" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="ほら穴" id="5006" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="ほら穴" id="5007" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="ほら穴" id="5008" isBoss="False" hp="0" speciesId="0" />
+	</Zone>
+	<Zone id="3110" name="unknown" >
+		<Monster name="Defeat Ur." id="100" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="Ur" id="1000" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="Exit Teleportal" id="1502" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="Exit Teleportal" id="1503" isBoss="False" hp="0" speciesId="0" />
+	</Zone>
 	<Zone id="3126" name="不滅のケルサイク隠蔽地" >
-		<Monster name="ルクミアを討伐せよ" id="100" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="ルクミア" id="101" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="次元の魔法石" id="1000" isBoss="True" hp="30556187500" speciesId="2" />
-		<Monster name="Blazing Avatar" id="1001" isBoss="True" hp="800000000" speciesId="2" />
-		<Monster name="Frostbite Avatar" id="1002" isBoss="True" hp="800000000" speciesId="2" />
-		<Monster name="Argon Magister Priest" id="1006" isBoss="False" hp="100000000" speciesId="2" />
-		<Monster name="Argon Magister Priest" id="1007" isBoss="False" hp="100000000" speciesId="2" />
-		<Monster name="Argon Magister Priest" id="1008" isBoss="False" hp="100000000" speciesId="0" />
-		<Monster name="Argon Magister Priest" id="1009" isBoss="False" hp="100000000" speciesId="2" />
-		<Monster name="Argon Soldier" id="1010" isBoss="False" hp="1000000000" speciesId="2" />
-		<Monster name="Main Island Force Platform" id="1011" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="Subsidiary Island Force Platform" id="1012" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="Argon Soldier" id="2001" isBoss="False" hp="25132181" speciesId="2" />
-		<Monster name="Frostbite Argon Priest" id="2002" isBoss="False" hp="25132181" speciesId="2" />
-		<Monster name="Blazing Argon Priest" id="2003" isBoss="False" hp="25132181" speciesId="2" />
-		<Monster name="Guardian Stone" id="2004" isBoss="False" hp="0" speciesId="0" />
-		<Monster name="Guardian Stone" id="2005" isBoss="False" hp="0" speciesId="0" />
-		<Monster name="Teleportal" id="5001" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="Teleportal" id="5002" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="Relic Stone" id="5005" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="Azure Wardstone" id="6001" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="Defense Stone" id="9002" isBoss="False" hp="0" speciesId="0" />
-		<Monster name="Defense Stone" id="9003" isBoss="False" hp="0" speciesId="0" />
-		<Monster name="Defense Stone" id="9004" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="入口前の通路にいる守護モンスターを討伐せよ" id="100" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="不滅のケルサイクを討伐せよ" id="101" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="不滅のケルサイク" id="1000" isBoss="True" hp="30556187500" speciesId="2" />
+		<Monster name="火炎のケルサイク" id="1001" isBoss="True" hp="800000000" speciesId="2" />
+		<Monster name="冷氷のケルサイク" id="1002" isBoss="True" hp="800000000" speciesId="2" />
+		<Monster name="アルゴンシャマルラン僧兵" id="1006" isBoss="False" hp="100000000" speciesId="2" />
+		<Monster name="アルゴンシャマルラン僧兵" id="1007" isBoss="False" hp="100000000" speciesId="2" />
+		<Monster name="アルゴンシャマルラン僧兵" id="1008" isBoss="False" hp="100000000" speciesId="0" />
+		<Monster name="アルゴンシャマルラン僧兵" id="1009" isBoss="False" hp="100000000" speciesId="2" />
+		<Monster name="アルゴン兵士" id="1010" isBoss="False" hp="1000000000" speciesId="2" />
+		<Monster name="メイン島移動跳躍台" id="1011" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="衛星島移動跳躍台" id="1012" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="アルゴン兵士" id="2001" isBoss="False" hp="25132181" speciesId="2" />
+		<Monster name="冷氷のアルゴン司祭" id="2002" isBoss="False" hp="25132181" speciesId="2" />
+		<Monster name="火炎のアルゴン司祭" id="2003" isBoss="False" hp="25132181" speciesId="2" />
+		<Monster name="守護石" id="2004" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="守護石" id="2005" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="次元の魔法石" id="5001" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="次元の魔法石" id="5002" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="魔法石" id="5005" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="青い守護石" id="6001" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="結界石" id="9002" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="結界石" id="9003" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="結界石" id="9004" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="次元の魔法石" id="40010" isBoss="False" hp="0" speciesId="0" />
 	</Zone>
 	<Zone id="3201" name="極彩のパルクイーンの巣" >
-		<Monster name="ロガッシュを討伐せよ" id="911" isBoss="False" hp="0" speciesId="0" />
-		<Monster name="ロガッシュ" id="912" isBoss="False" hp="0" speciesId="0" />
-		<Monster name="次元の魔法石" id="913" isBoss="False" hp="0" speciesId="0" />
-		<Monster name="次元の魔法石" id="1000" isBoss="True" hp="10620000000" speciesId="0" />
-		<Monster name="ドローン" id="1501" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="ハスミナ" id="1502" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="ハスミナ" id="1503" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="ホアール・トゥルカン" id="2000" isBoss="True" hp="8030000000" speciesId="0" />
-		<Monster name="ホアール・トゥルカン" id="2001" isBoss="False" hp="5000000" speciesId="0" />
-		<Monster name="次元の魔法石" id="320127" isBoss="False" hp="500000000000" speciesId="0" />
+		<Monster name="フェルバーを討伐せよ。" id="911" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="障害物を通過して興奮剤ポンプを止めよ。" id="912" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="極彩のパルクイーンを討伐せよ。" id="913" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="フェルバー" id="1000" isBoss="True" hp="10620000000" speciesId="0" />
+		<Monster name="次元の魔法石" id="1501" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="次元の魔法石" id="1502" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="次元の魔法石" id="1503" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="極彩のパルクイーン" id="2000" isBoss="True" hp="8030000000" speciesId="0" />
+		<Monster name="パルクイーンの卵" id="2001" isBoss="False" hp="5000000" speciesId="0" />
+		<Monster name="極彩のパルクイーン" id="320127" isBoss="False" hp="500000000000" speciesId="0" />
 	</Zone>
 	<Zone id="3202" name="激怒した司令官の修練場" >
-		<Monster name="狂帝ガルダン" id="1000" isBoss="True" hp="44000000000" speciesId="6" />
-		<Monster name="狂帝ガルダン" id="1001" isBoss="False" hp="13038" speciesId="0" />
-		<Monster name="ベラ・ホワイトリバー" id="1002" isBoss="False" hp="13038" speciesId="0" />
-		<Monster name="次元の魔法石" id="1003" isBoss="False" hp="13038" speciesId="0" />
+		<Monster name="激怒した司令官キリガル" id="1000" isBoss="True" hp="44000000000" speciesId="6" />
+		<Monster name="激怒した司令官キリガル" id="1001" isBoss="False" hp="13038" speciesId="0" />
+		<Monster name="激怒した司令官キリガル" id="1002" isBoss="False" hp="13038" speciesId="0" />
+		<Monster name="激怒した司令官キリガル" id="1003" isBoss="False" hp="13038" speciesId="0" />
 		<Monster name="次元の魔法石" id="1503" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="Teleportal" id="1504" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="次元の魔法石" id="1504" isBoss="False" hp="10000" speciesId="0" />
 	</Zone>
 	<Zone id="3203" name="狂気のコロシアム" >
-		<Monster name="悲劇のバーンスタイン" id="100" isBoss="False" hp="0" speciesId="0" />
-		<Monster name="悪霊実験体" id="1000" isBoss="True" hp="60000000000" speciesId="0" />
-		<Monster name="次元の魔法石" id="1001" isBoss="True" hp="20089331250" speciesId="0" />
-		<Monster name="次元の魔法石" id="1002" isBoss="True" hp="20089331250" speciesId="0" />
-		<Monster name="ハスミナ" id="1501" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="ハスミナ" id="1502" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="ホアール・トゥルカン" id="6000" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="不滅の闘神を討伐せよ" id="100" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="不滅の闘神" id="1000" isBoss="True" hp="60000000000" speciesId="0" />
+		<Monster name="不滅の闘神" id="1001" isBoss="True" hp="20089331250" speciesId="0" />
+		<Monster name="不滅の闘神" id="1002" isBoss="True" hp="20089331250" speciesId="0" />
+		<Monster name="次元の魔法石" id="1501" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="次元の魔法石" id="1502" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="捨てられた本" id="6000" isBoss="False" hp="10000" speciesId="0" />
+	</Zone>
+	<Zone id="3204" name="残酷なルクミアの幻夢" >
+		<Monster name="ルクミアを討伐せよ" id="100" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="悪夢の主ルクミア" id="1000" isBoss="False" hp="10000000000" speciesId="0" />
+		<Monster name="悪夢の痕跡" id="1021" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="次元の魔法石" id="1503" isBoss="False" hp="0" speciesId="0" />
+	</Zone>
+	<Zone id="3205" name="unknown" >
+		<Monster name="ロガッシュを討伐せよ" id="100" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="狂気のロガッシュ" id="1000" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="次元の魔法石" id="1501" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="次元の魔法石" id="1502" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="ドローン" id="2000" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="ハスミナ" id="50000" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="ハスミナ" id="50001" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="ホアール・トゥルカン" id="50100" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="ホアール・トゥルカン" id="50101" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="次元の魔法石" id="50200" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="次元の魔法石" id="50201" isBoss="False" hp="0" speciesId="0" />
+	</Zone>
+	<Zone id="3206" name="unknown" >
+		<Monster name="激怒した狂帝ガルダン" id="1000" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="激怒した狂帝ガルダン" id="1001" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="ベラ・ホワイトリバー" id="9000" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="次元の魔法石" id="9010" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="次元の魔法石" id="9011" isBoss="False" hp="0" speciesId="0" />
+	</Zone>
+	<Zone id="3209" name="unknown" >
+		<Monster name="守衛長のケトロを討伐せよ" id="100" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="創造の実験室を通過せよ" id="200" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="破滅のヘレンを討伐せよ" id="300" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="守衛長のケトロ" id="1000" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="ちびケトロ" id="1100" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="次元の魔法石" id="1501" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="次元の魔法石" id="1502" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="次元の魔法石" id="1503" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="破滅のヘレン" id="2000" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="ほら穴" id="5001" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="ほら穴" id="5002" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="ほら穴" id="5005" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="ほら穴" id="5006" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="ほら穴" id="5007" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="ほら穴" id="5008" isBoss="False" hp="0" speciesId="0" />
 	</Zone>
 	<Zone id="9999" name="unknown" >
-		<Monster name="ケルコフ" id="9999" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="ヴァルキオン偵察隊指令書" id="9999" isBoss="False" hp="0" speciesId="0" />
 	</Zone>
 </Zones>
