@@ -7880,6 +7880,8 @@
 12000074	Common	Common	Common	天駆けるバハールの銀獅子召喚			icon_skills.vehicle_lion_bahar_silver_tex
 12000075	Common	Common	Common	【イベント】キャラクター外見変更券 (1日)			icon_status.f2p_rewardbox_tex
 12000076	Common	Common	Common	【イベント】【スキル書】：Lv7スライム（プリン）召喚ボックス			icon_status.f2p_rewardbox_tex
+12000098	Common	Common	Common	ホワイトベアー召喚			icon_skills.vehicle_bear_a_tex
+12000099	Common	Common	Common	ワイルドベアー召喚			icon_skills.vehicle_bear_b_tex
 12100075	Common	Common	Common	[イベント]炎の翼タキ召喚			icon_skills.vehicle_ostrich_b_tex
 12200001	Common	Common	Common	鋼鉄の飛竜召喚			icon_equipments.vehicle_dragon_a_tex
 12200002	Common	Common	Common	灼熱の飛竜召喚			icon_equipments.vehicle_dragon_b_tex
@@ -10168,6 +10170,7 @@
 15200004	Common	Common	Common	毒薬			icon_items.q_flaskseal_tex
 15210001	Common	Common	Common	戦闘黒鉄戦馬召喚			icon_skills.vehicle_elephant_tex
 15210002	Common	Common	Common	戦闘獅子召喚			icon_skills.trans_lion_white_tex
+15300000	Common	Common	Common	【スキル書】白獅子召喚			icon_skills.trans_lion_white_tex
 15300001	Common	Common	Common	軍馬召喚（白）			icon_skills.mounthorse04_tex
 16300006	Common	Common	Common	Emblem of Success			icon_items.parts_magicweaponc15_tex
 16300007	Common	Common	Common	Memento of Fame			icon_items.parts_lightweaponc9_tex
@@ -13078,15 +13081,15 @@
 60410676	Common	Common	Common	遠征隊の報酬 II			icon_items.presentbox1_tex
 60410677	Common	Common	Common	遠征隊の報酬 III			icon_items.presentbox1_tex
 60410678	Common	Common	Common	遠征隊の報酬 IV			icon_items.presentbox1_tex
-60410679	Common	Common	Common	ゴールデンポポリコインギフト			icon_items.gold_tcat_pocket_tex
+60410679	Common	Common	Common	ゴールデンアストラムコインギフト			icon_items.gold_tcat_pocket_tex
 60410680	Common	Common	Common	ヴェリックのゴールデンボックス			icon_items.gold_kaia_presentbox_tex
-60410681	Common	Common	Common	キラキラポポリコインギフト			icon_items.mystic_tcat_pocket_tex
+60410681	Common	Common	Common	キラキラアストラムコインギフト			icon_items.mystic_tcat_pocket_tex
 60410682	Common	Common	Common	調査団の収集箱			icon_items.q_arogonnbox_tex
 60410683	Common	Common	Common	エリーヌのゴールドボックス			icon_items.gift_box03_tex
 60410684	Common	Common	Common	エリーヌのシルバーボックス			icon_items.gift_box04_tex
 60410685	Common	Common	Common	エリーヌのブロンズボックス			icon_items.gift_box05_tex
-60410686	Common	Common	Common	祝福のポポリコインギフト			icon_items.gold_tcat_pocket_tex
-60410687	Common	Common	Common	幻想のポポリコインギフト			icon_items.mystic_tcat_pocket_tex
+60410686	Common	Common	Common	祝福のアストラムコインギフト			icon_items.gold_tcat_pocket_tex
+60410687	Common	Common	Common	幻想のアストラムコインギフト			icon_items.mystic_tcat_pocket_tex
 60410688	Common	Common	Common	カイアのバトルチェストII			icon_items.presentbox1_tex
 60410689	Common	Common	Common	勝利者の箱			icon_items.gift_box03_tex
 60410690	Common	Common	Common	挑戦者の箱			icon_items.gift_box04_tex
