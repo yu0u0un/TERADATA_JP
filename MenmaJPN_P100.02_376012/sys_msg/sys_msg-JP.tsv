@@ -2356,7 +2356,7 @@
 201	SMT_FISHING_MINIGAME_HOWTO	エリア内に獲物が入るように、{ActionKey}キーを押して操作します
 201	SMT_FISHING_REWARD	{UserName}様が{ItemName}を{ItemCount}個獲得しました
 203	SMT_DELIVERY_INFOR_RESET	日付変更に伴い、納品画面が更新されました。
-202	SMT_GOLDENBELL_MESSAGE	{UserName}様がすべての守護者に幸せを呼び寄せました。
+201	SMT_GOLDENBELL_MESSAGE	{UserName}様がすべての守護者に幸せを呼び寄せました。
 202	SMT_FIELDBOSS_APPEAR	{RegionName}に<font color = '#ff3300'>{npcname}</font>が出現しました。
 201	SMT_FIELDBOSS_DIE_GUILD	<font color = '#f6f493'>{guildName}</font>ギルドの<font color = '#f6f493'>{userName}</font>様が<font color = '#ff3300'>{npcname}</font>を討伐しました。
 201	SMT_FIELDBOSS_DIE_NOGUILD	<font color = '#f6f493'>{userName}</font>様が<font color = '#ff3300'>{npcname}</font>を討伐しました。

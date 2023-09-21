@@ -801,7 +801,7 @@
 29059	フラッシュスプリング	400100	icon_skills.instantleap_tex	活力の紋章	icon_crest.e_crestactivespeedup_tex	戦闘状態での移動速度が50上昇（2秒間持続）
 29060	スピニングエッジ	80100	icon_skills.chainblade_tex	闘志の紋章	icon_crest.e_crestpassiveattackup_tex	モンスター攻撃時、スキル威力が30%増加
 29061	サタンフレイル	60100	icon_skills.chainbrandish_tex	連闘の紋章	icon_crest.e_crestnextskillattackup_tex	連係して「ムーンスラッシュ」使用時、スキル威力が35％増加
-29062	ムーンスラッシュ	50100	icon_skills.chainsuperblow_tex	必殺の紋章	icon_crest.e_crestpassivecriticalup_tex	クリティカル発生が3倍上昇
+29062	ムーンスラッシュ	50100	icon_skills.chainsuperblow_tex	必殺の紋章	icon_crest.e_crestpassivecriticalup_tex	クリティカル発生が2倍上昇
 29063	ダークネスハイド	180100	icon_skills.hideindarkness_tex	集中の紋章	icon_crest.e_crestpassivecooltimedown_tex	クールタイムを35%短縮
 29064	ダークネスハイド	180100	icon_skills.hideindarkness_tex	時の紋章	icon_crest.e_crestpassivedurationup_tex	効果の持続時間が100%延長
 29065	スピニングエッジ	80100	icon_skills.chainblade_tex	力の紋章	icon_crest.e_crestactiveattackup_tex	全体HPの1.5％を消耗する代わりにスキル威力30％増加
@@ -882,9 +882,9 @@
 31001	連打	10100	icon_skills.comboattack01_tex	精神の紋章	icon_crest.e_crestpassivemprecoveryup_tex	命中時のMP回復量が15%増加
 31002	連打	10100	icon_skills.comboattack01_tex	迅速の紋章	icon_crest.e_crestactiveattackspeedup_tex	10%の確率で攻撃速度が15％上昇（10秒間持続）
 31003	ガードブロウ	20100	icon_skills.smashattack02_tex	闘志の紋章	icon_crest.e_crestpassiveattackup_tex	スキル威力が20%増加
-31004	ガードブロウ	20100	icon_skills.smashattack02_tex	連闘の紋章	icon_crest.e_crestnextskillattackup_tex	ジャストガード成功時、 100%の確率でスキル威力が15%増加（6秒間持続）、ギガントラースが発動中、ジャストガードの後18秒間、全てのスキルダメージを5%増加させる効果に変更。
+31004	ガードブロウ	20100	icon_skills.smashattack02_tex	連闘の紋章	icon_crest.e_crestnextskillattackup_tex	ジャストガード成功時、 100%の確率でジャストガードの後スキル威力が15%増加（6秒間持続）。練武-ギガントラース(変速)適用時はこの紋章の効果はなくなる。
 31005	スピンキック	70100	icon_skills.upperkick_tex	連闘の紋章	icon_crest.e_crestnextskillattackup_tex	スキル命中時、  100%の確率でスキル威力が10％増加（3秒間持続）
-31006	スピンキック	70100	icon_skills.upperkick_tex	保護の紋章	icon_crest.e_crestactivedefenceup_tex	スキル使用時、5秒以内に使用する「テンペスト」「トルネードダイブ」「デッドリーマグナム」の何れかに前方防御効果の適用
+31006	スピンキック	70100	icon_skills.upperkick_tex	保護の紋章	icon_crest.e_crestactivedefenceup_tex	スキル使用時、5秒以内に使用する「テンペスト」「トルネードダイブ」「デッドリーマグナム」の何れかに前方防御効果の適用。練武-ギガントラース(変速)適用時はこの紋章の効果はなくなる。
 31007	スピンキック	70100	icon_skills.upperkick_tex	集中の紋章	icon_crest.e_crestpassivecooltimedown_tex	クールタイムを15%短縮
 31008	レイジングバースト	30100	icon_skills.dragonrisingblow_tex	精神の紋章	icon_crest.e_creststrecover_tex	打撃成功時、全アドレナリンの50％が上昇
 31009	アースインパクト	40100	icon_skills.poundonground_tex	精神の紋章	icon_crest.e_creststrecover_tex	打撃が成功する度に、アドレナリンが全体の3％上昇

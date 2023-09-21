@@ -7880,8 +7880,6 @@
 12000074	Common	Common	Common	天駆けるバハールの銀獅子召喚			icon_skills.vehicle_lion_bahar_silver_tex
 12000075	Common	Common	Common	【イベント】キャラクター外見変更券 (1日)			icon_status.f2p_rewardbox_tex
 12000076	Common	Common	Common	【イベント】【スキル書】：Lv7スライム（プリン）召喚ボックス			icon_status.f2p_rewardbox_tex
-12000098	Common	Common	Common	ホワイトベアー召喚			icon_skills.vehicle_bear_a_tex
-12000099	Common	Common	Common	ワイルドベアー召喚			icon_skills.vehicle_bear_b_tex
 12100075	Common	Common	Common	[イベント]炎の翼タキ召喚			icon_skills.vehicle_ostrich_b_tex
 12200001	Common	Common	Common	鋼鉄の飛竜召喚			icon_equipments.vehicle_dragon_a_tex
 12200002	Common	Common	Common	灼熱の飛竜召喚			icon_equipments.vehicle_dragon_b_tex
@@ -10170,7 +10168,6 @@
 15200004	Common	Common	Common	毒薬			icon_items.q_flaskseal_tex
 15210001	Common	Common	Common	戦闘黒鉄戦馬召喚			icon_skills.vehicle_elephant_tex
 15210002	Common	Common	Common	戦闘獅子召喚			icon_skills.trans_lion_white_tex
-15300000	Common	Common	Common	【スキル書】白獅子召喚			icon_skills.trans_lion_white_tex
 15300001	Common	Common	Common	軍馬召喚（白）			icon_skills.mounthorse04_tex
 16300006	Common	Common	Common	Emblem of Success			icon_items.parts_magicweaponc15_tex
 16300007	Common	Common	Common	Memento of Fame			icon_items.parts_lightweaponc9_tex
@@ -14509,6 +14506,7 @@
 65190029	Common	Common	Common	移動速度の玉			icon_items.potion2_tex
 65190030	Common	Common	Common	正体不明の玉			icon_items.potion2_tex
 70006000	Common	Common	Common	移動呪文書：守備隊の野営地			icon_items.townrecall_tex
+91905217	Common	Common	Common	信用ポイント：1,750（カイアの剣）			icon_items.reputationpoint_tex
 98140000	Common	Common	Common	Menma's 勇敢な万能秘薬			icon_items.menma_brave_multinostrum
 98140001	Common	Common	Common	ダルカンの翼			icon_status.descentofdarkness_tex
 98140003	Common	Common	Common	ダルカンの黒翼			icon_status.descentofdarkness3_tex
@@ -14548,6 +14546,10 @@
 98150019	Common	Common	Common	奇妙なポーション			icon_items.q_oddpotion_tex
 98150020	Common	Common	Common	不気味なポーション			icon_items.q_weirdpotion_tex
 98150021	Common	Common	Common	温かいポーション			icon_items.q_warm_potion_tex
+98150022	Common	Common	Common	スカイ・ソアー			icon_skills.flyingcostumemt_tex
+98150023	Common	Common	Common	昏き胸飾り			icon_equipments.brooch_23pa_tex
+98150030	Common	Common	Common	入場回数追加券 [ルクミアの幻夢]			icon_items.dungeonresetscroll_tex
+98150031	Common	Common	Common	入場回数追加券 [残酷なルクミアの幻夢]			icon_items.dungeonresetscroll_tex
 98240000	Common	Common	Common	オリバー(茶)召喚			icon_skills.vehicle_llama_d_tex
 98240001	Common	Common	Common	連盟軍馬召喚（ヴェリカ）			icon_skills.horse_lord_c_tex
 98240002	Common	Common	Common	連盟軍馬召喚（アルレマンシア）			icon_skills.horse_lord_b_tex
@@ -14602,6 +14604,12 @@
 98245053	Common	Common	Common	迅速なレインボウ			icon_skills.unicon_tex
 98245054	Common	Common	Common	死魔戦馬召喚			icon_skills.vehicle_horse_undead_tex
 98245055	Common	Common	Common	ローレルアントラー召喚			icon_skills.vehicle_gianthaechi_b_tex
+98245056	Common	Common	Common	パイレーツ召喚			icon_skills.vehicle_pyrepelt_tex
+98245057	Common	Common	Common	炎々としたパイレーツ召喚			icon_skills.vehicle_b_pyrepelt_tex
+98245058	Common	Common	Common	パイレーツ召喚			icon_skills.vehicle_pyrepelt_tex
+98245059	Common	Common	Common	炎々としたパイレーツ召喚			icon_skills.vehicle_b_pyrepelt_tex
+98245060	Common	Common	Common	ハートフェニックス召喚			icon_skills.vehicle_phoenix_pink_tex
+98245061	Common	Common	Common	シルバーフェニックス召喚			icon_skills.vehicle_phoenix_white_tex
 98340001	Common	Common	Common	下級ギルドボックス			icon_items.mysterybox5_tex
 98340010	Common	Common	Common	守護者の装備ボックス(武器)			icon_items.gift_box04_tex
 98340011	Common	Common	Common	守護者の装備ボックス(胴防具)			icon_items.gift_box04_tex
