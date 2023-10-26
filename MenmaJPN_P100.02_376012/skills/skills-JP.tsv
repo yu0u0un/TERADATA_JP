@@ -14526,6 +14526,7 @@
 98140058	Common	Common	Common	不安定な冷却爆弾			icon_items.homonpcrts2c_tex
 98140060	Common	Common	Common	[イベント] アイスフィッシュの餌			icon_items.worm01_tex
 98140062	Common	Common	Common	減速のポーション			icon_items.potion9_tex
+98140157	Common	Common	Common	コウモリの翼			icon_status.darkriftdestroy_tex
 98141000	Common	Common	Common	Menma's 強靭な万能秘薬			icon_items.menma_strong_multinostrum
 98150000	Common	Common	Common	入場回数追加券 [烈風のエルカラス号]			icon_items.dungeonresetscroll_tex
 98150002	Common	Common	Common	入場回数追加券 [陥落したヴェリックの神殿]			icon_items.dungeonresetscroll_tex
@@ -14610,6 +14611,8 @@
 98245059	Common	Common	Common	炎々としたパイレーツ召喚			icon_skills.vehicle_b_pyrepelt_tex
 98245060	Common	Common	Common	ハートフェニックス召喚			icon_skills.vehicle_phoenix_pink_tex
 98245061	Common	Common	Common	シルバーフェニックス召喚			icon_skills.vehicle_phoenix_white_tex
+98245062	Common	Common	Common	ダークフェニックス召喚			icon_skills.vehicle_phoenix_black_tex
+98245063	Common	Common	Common	ジャイアントハロウィン・キャット召喚			icon_skills.vehicle_halloween_kitty_tex
 98340001	Common	Common	Common	下級ギルドボックス			icon_items.mysterybox5_tex
 98340010	Common	Common	Common	守護者の装備ボックス(武器)			icon_items.gift_box04_tex
 98340011	Common	Common	Common	守護者の装備ボックス(胴防具)			icon_items.gift_box04_tex

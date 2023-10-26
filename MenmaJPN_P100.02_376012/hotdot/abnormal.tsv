@@ -1140,7 +1140,7 @@
 26040	icon_skills.focusstance_tex
 26050	icon_skills.markingofarcher_tex
 26060	icon_skills.arrowshower_tex
-26070	icon_skills.escapingattack_tex
+26070	icon_skills.chain_arrow
 26080	icon_skills.spiderarrow_tex
 26090	icon_skills.contaningshot_tex
 26100	icon_skills.markingofarcher_tex
@@ -1154,7 +1154,7 @@
 26160	icon_skills.paralysistrap_tex
 26170	icon_skills.arrowshower_tex
 26171	icon_skills.arrowshower_tex
-26180	icon_skills.venomarrow_tex
+26180	icon_skills.windwalk_tex
 26190	icon_skills.chain_arrow
 26200	icon_skills.turningkick_tex
 26210	icon_skills.escapingattack_tex
@@ -1551,6 +1551,7 @@
 100299	icon_skills.ironwillb_tex
 100300	icon_skills.thunderingroar_tex
 100301	icon_skills.thunderingroar_tex
+100302	icon_skills.ironwillb_tex
 100400	icon_skills.allroundslash_tex
 100500	icon_skills.poisonblowattack_tex
 100501	icon_skills.poisonblowattack_tex
@@ -1768,7 +1769,7 @@
 301804	icon_skills.drawsword_tex
 301805	icon_skills.energyrelease_tex
 301806	icon_equipments.brooch_23p_tex
-301807	icon_status.boundmoveup_tex
+301807	icon_equipments.brooch_23p_tex
 301808	icon_equipments.brooch_23p_tex
 301900	icon_skills.jawbreaker_tex
 302000	icon_skills.tenacity_tex
@@ -6814,7 +6815,6 @@
 98200396	icon_status.godspell_tex
 98200397	icon_status.godspell_tex
 98200398	icon_status.godspell_tex
-98200399	icon_skills.excesselectron_tex
 98270001	icon_status.lightweight_tex
 98300102	icon_status.paralyzestatus_tex
 98300104	icon_status.electriccharge3_tex
