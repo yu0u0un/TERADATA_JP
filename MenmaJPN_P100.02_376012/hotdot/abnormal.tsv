@@ -2464,6 +2464,8 @@
 700016	icon_skills.passive_rare_tex
 700017	icon_skills.passive_singlecore
 700018	icon_skills.tyrannosaur_passive_rare_tex
+700019	icon_status.collect_speedup_tex
+700021	icon_skills.arouseangercancel_tex
 700100	icon_skills.autoresurrect_tex
 700200	icon_skills.areahpgain_tex
 700201	icon_skills.areahpgain_tex
@@ -6603,6 +6605,7 @@
 91900020	icon_skills.sp_attack1_tex
 91900021	icon_status.minusmove_tex
 91900022	icon_skills.fightingwill_tex
+91900101	icon_items.griffon_potion_level_60_tex
 91900200	icon_status.lightweight_tex
 91900201	icon_skills.seduction_tex
 91900202	icon_skills.guildskills_ccres_tex

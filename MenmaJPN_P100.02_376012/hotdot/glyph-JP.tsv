@@ -306,7 +306,6 @@
 24038	フェリーレイジ	80100	icon_skills.berserk_tex	活力の紋章	icon_crest.e_crestactivespeedup_tex	戦闘中の移動速度が追加で20上昇（15秒間持続）
 24039	シャーピングシャウト	160100	icon_skills.piercingshout_tex	連闘の紋章	icon_crest.e_crestnextskillattackup_tex	連係して「フェンシングカーブ」使用時、スキル威力が25％増加
 24040	跳躍斬り	110100	icon_skills.downattack_tex	機会の紋章	icon_crest.e_crestactivecooltimereset_tex	30%の確率でクールタイムが初期化
-24041	ホミサイドオーラ	200100	icon_skills.murderousvent_tex	時の紋章	icon_crest.e_crestpassivedurationup_tex	効果の持続時間が30%延長
 24042	ホミサイドオーラ	200100	icon_skills.murderousvent_tex	連迅の紋章	icon_crest.e_crestnextskillattackspeedup_tex	連係して「アースストライク」使用時、発動速度が25％上昇
 24043	ホミサイドオーラ	200100	icon_skills.murderousvent_tex	テスト	icon_skills.voidtrap_tex	効果無し
 24044	気合	0		均衡の紋章	icon_crest.e_crestactivereactionresist_tex	均衡が1.5倍上昇（15秒間持続）
@@ -804,7 +803,7 @@
 29062	ムーンスラッシュ	50100	icon_skills.chainsuperblow_tex	必殺の紋章	icon_crest.e_crestpassivecriticalup_tex	クリティカル発生が2倍上昇
 29063	ダークネスハイド	180100	icon_skills.hideindarkness_tex	集中の紋章	icon_crest.e_crestpassivecooltimedown_tex	クールタイムを35%短縮
 29064	ダークネスハイド	180100	icon_skills.hideindarkness_tex	時の紋章	icon_crest.e_crestpassivedurationup_tex	効果の持続時間が100%延長
-29065	スピニングエッジ	80100	icon_skills.chainblade_tex	力の紋章	icon_crest.e_crestactiveattackup_tex	全体HPの1.5％を消耗する代わりにスキル威力30％増加
+29065	スピニングエッジ	80100	icon_skills.chainblade_tex	力の紋章	icon_crest.e_crestactiveattackup_tex	全体HPの1.5％を消耗する代わりにスキル威力30％増加(HPが10.6%以下の場合は効果が適用されない)
 29066	暗黒爆発	0		必殺の紋章	icon_crest.e_crestpassivecriticalup_tex	クリティカル発生率が2倍増加
 29067	ムーンスラッシュ	50100	icon_skills.chainsuperblow_tex	闘志の紋章	icon_crest.e_crestpassiveattackup_tex	モンスター攻撃時、スキル威力が15%増加
 29068	フラッシュサイズ	190100	icon_skills.reversewithdraw_tex	闘志の紋章	icon_crest.e_crestpassiveattackup_tex	スキル威力が10%増加
