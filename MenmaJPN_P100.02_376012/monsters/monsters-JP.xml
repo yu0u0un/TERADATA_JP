@@ -2832,6 +2832,8 @@
 		<Monster name="司令官ルキイ" id="5030" isBoss="True" hp="450000000" speciesId="0" />
 		<Monster name="シャドウウォーリアー" id="5031" isBoss="False" hp="1500000" speciesId="0" />
 		<Monster name="ちび魔女エルロニア" id="8000" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="スノーウィー" id="8008" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="オルセン" id="8021" isBoss="False" hp="10000" speciesId="0" />
 		<Monster name="シャンドラ・マナイアの幻影" id="9000" isBoss="False" hp="807599" speciesId="0" />
 		<Monster name="パスハ" id="9016" isBoss="False" hp="10000" speciesId="0" />
 		<Monster name="アケリス" id="9017" isBoss="False" hp="10000" speciesId="0" />
@@ -2841,6 +2843,9 @@
 		<Monster name="レアン" id="9031" isBoss="False" hp="10000" speciesId="0" />
 		<Monster name="クル" id="9040" isBoss="False" hp="10000" speciesId="0" />
 		<Monster name="ツル" id="9041" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="スナズル" id="9050" isBoss="False" hp="807599" speciesId="0" />
+		<Monster name="アストロ" id="9051" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="アリズ" id="9052" isBoss="False" hp="807599" speciesId="0" />
 	</Zone>
 	<Zone id="59" name="三日月村" >
 		<Monster name="ジェレミア・ロッツ" id="1001" isBoss="False" hp="10000" speciesId="0" />
@@ -3607,6 +3612,10 @@
 		<Monster name="Morara" id="30061" isBoss="False" hp="57155" speciesId="0" />
 		<Monster name="Mission Board" id="30062" isBoss="False" hp="10000" speciesId="0" />
 		<Monster name="Fraya" id="30063" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Free Traders Soldier" id="30065" isBoss="False" hp="57155" speciesId="0" />
+		<Monster name="Free Traders Soldier" id="30066" isBoss="False" hp="807599" speciesId="0" />
+		<Monster name="Adiar" id="30067" isBoss="False" hp="807599" speciesId="0" />
+		<Monster name="スノーウィー" id="38008" isBoss="False" hp="10000" speciesId="0" />
 		<Monster name="フレイロン" id="50000" isBoss="False" hp="10000" speciesId="0" />
 		<Monster name="ドットロン" id="50001" isBoss="False" hp="10000" speciesId="0" />
 		<Monster name="クアン" id="50002" isBoss="False" hp="10000" speciesId="0" />
@@ -5837,7 +5846,8 @@
 		<Monster name="パルクイーンの巣入口" id="3101" isBoss="False" hp="0" speciesId="0" />
 		<Monster name="司令官の修練場 入口" id="3102" isBoss="False" hp="0" speciesId="0" />
 		<Monster name="司令官の修練場 入口" id="3202" isBoss="False" hp="0" speciesId="0" />
-		<Monster name="ルクミアの幻夢 入り口" id="3204" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="ルクミアの幻夢 入口" id="3204" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="狂帝の処刑場 入口" id="3206" isBoss="False" hp="0" speciesId="0" />
 		<Monster name="秘密基地 入口" id="5001" isBoss="False" hp="0" speciesId="0" />
 		<Monster name="ヴァンピールの屋敷 入口" id="5002" isBoss="False" hp="0" speciesId="0" />
 		<Monster name="邪教徒の隠れ家 入口" id="5003" isBoss="False" hp="0" speciesId="0" />
@@ -5891,7 +5901,7 @@
 		<Monster name="ペガサス管理人" id="8273" isBoss="False" hp="0" speciesId="0" />
 		<Monster name="戦闘/魔法技術教官" id="8281" isBoss="False" hp="0" speciesId="0" />
 		<Monster name="幻影の塔入口" id="9034" isBoss="False" hp="0" speciesId="0" />
-		<Monster name="バハールの神殿 入口" id="9044" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="凍てつくバハールの神殿 入口" id="9044" isBoss="False" hp="0" speciesId="0" />
 		<Monster name="デモロスのルーレット入口" id="9066" isBoss="False" hp="0" speciesId="0" />
 		<Monster name="ベルノの実験室 入口" id="9067" isBoss="False" hp="0" speciesId="0" />
 		<Monster name="嘘つきタルスキの遊び場　入口" id="9070" isBoss="False" hp="0" speciesId="0" />
@@ -5958,6 +5968,8 @@
 		<Monster name="ブルースノーマン妖精" id="1002" isBoss="False" hp="0" speciesId="0" />
 		<Monster name="サンタ族長" id="1003" isBoss="False" hp="0" speciesId="0" />
 		<Monster name="サンタ族長" id="1004" isBoss="False" hp="55000000" speciesId="0" />
+		<Monster name="サンタ族長" id="4001" isBoss="False" hp="300000" speciesId="0" />
+		<Monster name="小さなサンタ族長" id="4002" isBoss="False" hp="100000000" speciesId="0" />
 		<Monster name="爆弾ボックス" id="6000" isBoss="False" hp="30000" speciesId="0" />
 		<Monster name="光る箱" id="6001" isBoss="False" hp="100000" speciesId="0" />
 	</Zone>
@@ -8757,6 +8769,7 @@
 		<Monster name="連合任務掲示板" id="1401" isBoss="False" hp="10000" speciesId="0" />
 		<Monster name="連合任務掲示板" id="1402" isBoss="False" hp="10000" speciesId="0" />
 		<Monster name="次元の魔法石" id="1501" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Teleportal" id="1503" isBoss="False" hp="10000" speciesId="0" />
 		<Monster name="警備兵" id="1700" isBoss="False" hp="807599" speciesId="0" />
 		<Monster name="パンパントン" id="2000" isBoss="False" hp="10000" speciesId="0" />
 		<Monster name="カカルン" id="2001" isBoss="False" hp="10000" speciesId="0" />
@@ -11393,17 +11406,17 @@
 		<Monster name="アドニス" id="44432" isBoss="False" hp="945" speciesId="0" />
 		<Monster name="キングラザード" id="44434" isBoss="True" hp="127657075" speciesId="0" />
 	</Zone>
-	<Zone id="444" name="バハールの神殿" >
+	<Zone id="444" name="凍てつくバハールの神殿" >
 		<Monster name="バルダーの封門を開け" id="911" isBoss="False" hp="0" speciesId="0" />
 		<Monster name="5人のパーティーメンバーが全員そろうと、門が開かれます" id="912" isBoss="False" hp="0" speciesId="0" />
 		<Monster name="バハールを静めよ" id="913" isBoss="False" hp="0" speciesId="0" />
 		<Monster name="激怒したバハールを静めよ" id="914" isBoss="False" hp="0" speciesId="0" />
-		<Monster name="バハール" id="1000" isBoss="True" hp="8000000000" speciesId="4" />
+		<Monster name="バハール" id="1000" isBoss="True" hp="3500000000" speciesId="4" />
 		<Monster name="バハール" id="1001" isBoss="False" hp="1000000000" speciesId="4" />
 		<Monster name="次元の魔法石" id="1501" isBoss="False" hp="10000" speciesId="0" />
 		<Monster name="バルダーの封門" id="1502" isBoss="False" hp="10000" speciesId="0" />
 		<Monster name="バルダーの封門" id="1503" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="バハール" id="2000" isBoss="True" hp="48000000000" speciesId="4" />
+		<Monster name="バハール" id="2000" isBoss="True" hp="18500000000" speciesId="4" />
 		<Monster name="バハール" id="2001" isBoss="False" hp="1000000000" speciesId="4" />
 		<Monster name="バハールの眷属" id="2201" isBoss="False" hp="42000000" speciesId="0" />
 		<Monster name="アルデンス" id="3000" isBoss="False" hp="1000000000" speciesId="0" />
@@ -18495,6 +18508,10 @@
 		<Monster name="層間移動装置" id="50001" isBoss="False" hp="10000" speciesId="0" />
 		<Monster name="層間移動装置" id="50002" isBoss="False" hp="10000" speciesId="0" />
 	</Zone>
+	<Zone id="2505" name="ブリッツ・バラージ" >
+		<Monster name="ブリッツキーパー" id="1000" isBoss="False" hp="100000000" speciesId="0" />
+		<Monster name="クロアス" id="5000" isBoss="False" hp="10000" speciesId="0" />
+	</Zone>
 	<Zone id="2530" name="英雄訓練所" >
 		<Monster name="訓練用召喚体" id="18" isBoss="True" hp="510000000" speciesId="0" />
 		<Monster name="次元の魔法石" id="1501" isBoss="False" hp="10000" speciesId="0" />
@@ -19689,12 +19706,12 @@
 		<Monster name="次元の魔法石" id="50200" isBoss="False" hp="0" speciesId="0" />
 		<Monster name="次元の魔法石" id="50201" isBoss="False" hp="0" speciesId="0" />
 	</Zone>
-	<Zone id="3106" name="unknown" >
-		<Monster name="狂帝ガルダン" id="1000" isBoss="False" hp="0" speciesId="0" />
-		<Monster name="狂帝ガルダン" id="1001" isBoss="False" hp="0" speciesId="0" />
-		<Monster name="ベラ・ホワイトリバー" id="9000" isBoss="False" hp="0" speciesId="0" />
-		<Monster name="次元の魔法石" id="9010" isBoss="False" hp="0" speciesId="0" />
-		<Monster name="次元の魔法石" id="9011" isBoss="False" hp="0" speciesId="0" />
+	<Zone id="3106" name="狂帝の処刑場" >
+		<Monster name="狂帝ガルダン" id="1000" isBoss="True" hp="9875250000" speciesId="11" />
+		<Monster name="狂帝ガルダン" id="1001" isBoss="True" hp="3173000000" speciesId="0" />
+		<Monster name="ベラ・ホワイトリバー" id="9000" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="次元の魔法石" id="9010" isBoss="False" hp="343984" speciesId="0" />
+		<Monster name="次元の魔法石" id="9011" isBoss="False" hp="343984" speciesId="0" />
 	</Zone>
 	<Zone id="3107" name="unknown" >
 		<Monster name="悲劇のバーンスタイン" id="1000" isBoss="False" hp="0" speciesId="0" />
@@ -19831,12 +19848,12 @@
 		<Monster name="次元の魔法石" id="50200" isBoss="False" hp="0" speciesId="0" />
 		<Monster name="次元の魔法石" id="50201" isBoss="False" hp="0" speciesId="0" />
 	</Zone>
-	<Zone id="3206" name="unknown" >
-		<Monster name="激怒した狂帝ガルダン" id="1000" isBoss="False" hp="0" speciesId="0" />
-		<Monster name="激怒した狂帝ガルダン" id="1001" isBoss="False" hp="0" speciesId="0" />
-		<Monster name="ベラ・ホワイトリバー" id="9000" isBoss="False" hp="0" speciesId="0" />
-		<Monster name="次元の魔法石" id="9010" isBoss="False" hp="0" speciesId="0" />
-		<Monster name="次元の魔法石" id="9011" isBoss="False" hp="0" speciesId="0" />
+	<Zone id="3206" name="激怒した狂帝の処刑場" >
+		<Monster name="激怒した狂帝ガルダン" id="1000" isBoss="True" hp="14100000000" speciesId="11" />
+		<Monster name="激怒した狂帝ガルダン" id="1001" isBoss="True" hp="3173000000" speciesId="0" />
+		<Monster name="ベラ・ホワイトリバー" id="9000" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="次元の魔法石" id="9010" isBoss="False" hp="343984" speciesId="0" />
+		<Monster name="次元の魔法石" id="9011" isBoss="False" hp="343984" speciesId="0" />
 	</Zone>
 	<Zone id="3209" name="unknown" >
 		<Monster name="守衛長のケトロを討伐せよ" id="100" isBoss="False" hp="0" speciesId="0" />
@@ -19856,7 +19873,9 @@
 		<Monster name="ほら穴" id="5008" isBoss="False" hp="0" speciesId="0" />
 	</Zone>
 	<Zone id="4000" name="unknown" >
-		<Monster name="Suryati" id="1000" isBoss="False" hp="800000000000" speciesId="2" />
+		<Monster name="ビビッシュ" id="1000" isBoss="False" hp="800000000000" speciesId="2" />
+		<Monster name="太ったサンタ" id="4001" isBoss="False" hp="100000000" speciesId="0" />
+		<Monster name="小さなサンタ" id="4002" isBoss="False" hp="100000000" speciesId="0" />
 	</Zone>
 	<Zone id="9999" name="unknown" >
 		<Monster name="ヴァルキオン偵察隊指令書" id="9999" isBoss="False" hp="0" speciesId="0" />
