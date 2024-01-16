@@ -4402,7 +4402,7 @@
 801101	HPChange	Buff	True	abs	5000	1	852	リカバリーブレシング II			$H_W_GOOD1s$COLOR_END毎にHPを$calcValue(heal,51,852,0)回復します。	icon_skills.restoration_tex	icon_skills.restoration_tex	True
 801200	Stun	Stun	False	swch	20000	0	5	イシャラソング I			深い眠りにつきました。ダメージを受けるとすぐに目覚めます。	icon_skills.lullabyoflshara_tex	icon_skills.lullabyoflshara_tex	True
 801201	Stun	Stun	False	swch	20000	0	5	イシャラソング II			深い眠りにつきました。ダメージを受けるとすぐに目覚めます。	icon_skills.lullabyoflshara_tex	icon_skills.lullabyoflshara_tex	True
-801202	Stun	Stun	False	swch	20000	0	5	イシャラソング III			深い眠りにつきました。ダメージを受けるとすぐに目覚めます。	icon_skills.lullabyoflshara_tex	icon_skills.lullabyoflshara_tex	True
+801202	Stun	Stun	False	swch	26000	0	5	イシャラソング III			深い眠りにつきました。ダメージを受けるとすぐに目覚めます。	icon_skills.lullabyoflshara_tex	icon_skills.lullabyoflshara_tex	True
 801300	Ballance	Buff	True	perc	5000	0	2	アルス I			均衡が$H_W_GOOD100%$COLOR_END上昇します。	icon_skills.recovery_tex	icon_skills.recovery_tex	True
 801301	Ballance	Buff	True	perc	5000	0	2	アルス II			均衡が$H_W_GOOD100%$COLOR_END上昇します。	icon_skills.recovery_tex	icon_skills.recovery_tex	True
 801400	HPChange	Buff	True	abs	5000	1	575	リプロダクションサンクチュアリ I			$H_W_GOOD1s$COLOR_END毎にHPを$calcValue(heal,51,575,0)回復します。	icon_skills.sanctuaryofregeneration_tex	icon_skills.sanctuaryofregeneration_tex	True
